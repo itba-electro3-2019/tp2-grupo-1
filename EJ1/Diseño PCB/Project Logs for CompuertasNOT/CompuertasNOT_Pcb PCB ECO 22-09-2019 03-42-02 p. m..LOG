@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=IN Pin=J3-1
+Added Pin To Net: NetName=RTL_OUT Pin=J3-2
+Added Pin To Net: NetName=TTL_OUT Pin=J3-3
+Added Pin To Net: NetName=IN Pin=J3-4
+Added Pin To Net: NetName=MOS_OUT Pin=J3-5
+Added Pin To Net: NetName=CMOS_OUT Pin=J3-6
+Added Pin To Net: NetName=IN Pin=J3-7
+Added Member To Class: ClassName=CompuertasNOT_Sch Member=Component J3 CON7
