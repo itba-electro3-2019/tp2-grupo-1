@@ -1,0 +1,29 @@
+* C:\Users\Lucas\Documents\Actualmente Usando\Electrónica III\tp2-grupo-1\EJ1\Simulacion\tod.asc
+M1 nmos_out N011 0 0 IRFZ44N
+R1 N002 nmos_out 10k
+V1 N011 0 5
+V2 N002 0 5
+M2 cmos_out N004 0 0 IRFZ44N
+V3 N004 0 5
+V4 N001 0 5
+M3 cmos_out N004 N001 N001 IRF9640
+Q1 N010 N006 N009 0 BC547C
+Q2 ttl_out N010 0 0 BC547C
+R2 N005 N006 470k
+R3 N005 ttl_out 10k
+V5 N009 0 5
+V6 N005 0 5
+Q3 rtl_out N008 0 0 BC547C
+R4 N008 N007 470k
+R5 rtl_out N003 10k
+V7 N007 0 5
+V8 N003 0 5
+.model NPN NPN
+.model PNP PNP
+.lib C:\Users\Lucas\Documents\LTspiceXVII\lib\cmp\standard.bjt
+.model NMOS NMOS
+.model PMOS PMOS
+.lib C:\Users\Lucas\Documents\LTspiceXVII\lib\cmp\standard.mos
+.op
+.backanno
+.end
