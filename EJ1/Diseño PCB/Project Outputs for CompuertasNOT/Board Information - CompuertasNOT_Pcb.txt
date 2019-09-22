@@ -1,0 +1,17 @@
+Board Information Report
+Filename     : C:\Users\Lucas\Documents\Actualmente Usando\Electrónica III\tp2-grupo-1\EJ1\Diseño PCB\CompuertasNOT_Pcb.PcbDoc
+Date         : 22/09/2019
+Time         : 04:52:06 p. m.
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 35.9664mmx36.195mm
+    Components on board, 14
+count : 2
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 33
+    Connections routed, 33
+    Connections remaining, 0
+count : 4
