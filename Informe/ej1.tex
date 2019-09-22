@@ -2,4 +2,30 @@
 La electr\'onica digital en sus bases dise\~na circuitos cuyo funcionamiento reproduce el sistema binario
 y el algebra booleana que define las operaciones matem\'aticas entre las entidades que son los bits. Es de inter\'es estudiar los par\'ametros
 que establecen los l\'imites f\'isicos al modelo conceptual de las compuertas l\'ogicas para diferentes tecnolog\'ias y topolog\'ias. Para esto, 
-se dise\~na con diferentes tecnolog\'ias una compuerta NOT.
+se dise\~na con diferentes tecnolog\'ias una compuerta NOT y se asume que el lector tiene un conocimiento del funcionamiento de los dispositivos empleados en este estudio.
+
+\subsection{An\'alisis te\'orico}
+En los an\'alisis realizados para reproducir los circuitos ilustrados en la Fig. \ref{fig:circuitos}, se emplean transistores NPN $BC547$ con un $hFE_{min} = 110$, una $V_{CE_{SAT}} \approx 0.2V$. 
+Luego para los MOSFET se emplea un par complementario $IRFZ44N$ y $IRF9530$. Se alimenta con $V_{CC} = V_{DD} = 5V$.
+
+\begin{figure}[H]
+    \centering
+    \begin{tabular}{c c}
+        \includegraphics[scale=0.35]{../EJ1/Recursos/rtl_circuit.png} &
+        \includegraphics[scale=0.35]{../EJ1/Recursos/ttl_circuit.png} \\
+        \includegraphics[scale=0.35]{../EJ1/Recursos/mos_circuit.png} &
+        \includegraphics[scale=0.35]{../EJ1/Recursos/cmos_circuit.png} 
+    \end{tabular} 
+    \caption{Implementaci\'on en diversas tecnolog\'ias y topolog\'ias de Compuerta NOT}
+    \label{fig:circuitos}
+\end{figure}
+
+\paragraph*{Tecnolog\'ia RTL:} Se opera un transistor $Q_1$ en conmutaci\'on con modos de saturaci\'on y corte, para ello se define arbitrariamente una resistencia $R_C = 10k\Omega$, se asume $Q_1$ en saturaci\'on y luego la corriente de colector
+se establece como $I_{C_{SAT}} = \frac{V_{CC} - V_{CE_{SAT}}}{R_C} \approx 480 \mu A$, con lo cual con una resistencia de base $R_B = 470k\Omega$ se cumple la condici\'on de saturaci\'on.
+\paragraph*{Tecnolog\'ia TTL:} Opera de igual forma que el caso RTL, en principio se asumen valores de resistencias iguales donde $R_1 = 470 k \Omega$ y $R_2 = 10k \Omega$. La diferencia principal es que la corriente de base del transistor de salida $Q_2$ es controlada por la de colector
+del transistor de entrada $Q_1$, con lo cual los tiempos de recuperaci\'on se ven reducidos ya que se enciende y apaga con mucha m\'as corriente que antes, debiendose esperar menor tiempo de propagaci\'on o transici\'on.
+\paragraph*{Tecnolog\'ia MOS:} Se opera un MOSFET de canal N en conmutaci\'on en modo de corte y lineal, para ello se garantiza que la resistencia $R_D$ sea lo suficientemente grande para no saturar el canal. Se propone una $R_D = 10k \Omega$. Se tiene en cuenta que el $V_{TH_{MAX}} = 4V < 5V$.
+\paragraph*{Tecnolog\'ia CMOS:} Se evita usar una resistencia en el Drain usando redes de pull-up y pull-down con transistores MOS complementarios cuya $|V_{TH}| = 4V$.
+
+\subsection{Resultados}
+\subsection{Conclusiones}

@@ -1,0 +1,12 @@
+\babel@toc {spanish}{}
+\contentsline {section}{Tecnolog\'ias TTL, RTL, NMOS y CMOS}{3}{section*.2}% 
+\contentsline {subsection}{An\'alisis te\'orico}{3}{section*.3}% 
+\contentsline {subsection}{Resultados}{4}{section*.9}% 
+\contentsline {subsection}{Conclusiones}{4}{section*.10}% 
+\contentsline {section}{Ejercicio 2: Comparaci\'on de compuertas discretas con tecnolog\'ia TTL y CMOS}{5}{section*.11}% 
+\contentsline {section}{Ejercicio 3: Implementaci\'on de una tabla de verdad}{6}{section*.12}% 
+\contentsline {section}{Ejercicio 4: Tiempos de propagaci\'on en compuerta CMOS}{7}{section*.13}% 
+\contentsline {section}{Ejercicio 5: Comparaci\'on TTL y CMOS de compuertas con entradas desconectadas}{8}{section*.14}% 
+\contentsline {section}{Ejercicio 6: Dise\~no e implementaci\'on multivibradores}{9}{section*.15}% 
+\contentsline {section}{Ejercicio 7: Dise\~no de contadores sincr\'onicos y asincr\'onicos de 3 bits}{10}{section*.16}% 
+\contentsline {section}{Ejercicio 8: Dise\~no de controlador para un Joystick Anal\'ogico}{11}{section*.17}% 
