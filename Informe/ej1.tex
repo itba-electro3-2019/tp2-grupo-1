@@ -1,8 +1,7 @@
 \section{Tecnolog\'ias TTL, RTL, NMOS y CMOS}
-La electr\'onica digital en sus bases dise\~na circuitos cuyo funcionamiento reproduce el sistema binario
-y el algebra booleana que define las operaciones matem\'aticas entre las entidades que son los bits. Es de inter\'es estudiar los par\'ametros
-que establecen los l\'imites f\'isicos al modelo conceptual de las compuertas l\'ogicas para diferentes tecnolog\'ias y topolog\'ias. Para esto, 
-se dise\~na con diferentes tecnolog\'ias una compuerta NOT y se asume que el lector tiene un conocimiento del funcionamiento de los dispositivos empleados en este estudio.
+Es de inter\'es estudiar los par\'ametros
+que establecen los l\'imites f\'isicos al modelo conceptual de las compuertas l\'ogicas para diferentes tecnolog\'ias y topolog\'ias, dise\~nando con diferentes tecnolog\'ias 
+una compuerta NOT y se asume que el lector tiene un conocimiento del funcionamiento de los dispositivos empleados en este estudio.
 
 \subsection{An\'alisis te\'orico}
 En los an\'alisis realizados para reproducir los circuitos ilustrados en la Fig. \ref{fig:circuitos}, se emplean transistores NPN $BC547$ con un $hFE_{min} = 110$, una $V_{CE_{SAT}} \approx 0.3V$. 
@@ -32,11 +31,10 @@ La sintetizaci\'on de circuitos l\'ogicos implica la interconexi\'on de compuert
 es de inter\'es analizar tales magnitudes en la implementaci\'on de los cuatro circuitos ilustrados previamente.
 
 \subsubsection{Proceso de medici\'on}
-Empleando un generador de funciones se configura una se\~nal triangular con una simetr\'ia del $50\%$ desde $0V$ hasta $5V$, luego utilizando un osciloscopio
-se mide con dos canales la entrada y la salida, utilizando puntas de prueba configuradas en x10 para agregar la menor capacidad par\'asita posible para no introducir tiempos de transici\'on superiores. Por esto \'ultimo,
-la frecuencia de la triangular debe ser baja, utilizando en estos casos entre $f = 50Hz$ y $f = 80 Hz$ seg\'un se considere conveniente.
-Finalmente, se descargan del osciloscopio las mediciones, preferentemente un archivo .csv para luego procesar la entrada y salida como una funci\'on y localizar los puntos donde la derivada
-se hace, como lo indica la figura, $-1$. Adem\'as, se calculan los margenes de ruido como las diferencias correspondientes estados altos y bajos de entrada y salida.
+Se genera una se\~nal de entrada triangular con una simetr\'ia del $50\%$ desde $0V$ hasta $5V$, con frecuencia a convenir menor a $f = 100Hz$. Luego, con un osciloscopio
+se miden la entrada y la salida, utilizando puntas de prueba x10 con la menor capacidad par\'asita posible para no introducir transitorios superiores.
+Finalmente, se descargan y procesan las mediciones, para localizar los puntos donde la derivada con $-1$. Adem\'as, se calculan los margenes de ruido como las 
+diferencias correspondientes estados altos y bajos de entrada y salida.
 
 \begin{figure}[H]
     \centering
@@ -56,7 +54,7 @@ se hace, como lo indica la figura, $-1$. Adem\'as, se calculan los margenes de r
         RTL & $1.33V$ & $0.28V$ & $4.89V$ & $0.11V$ & $3.55V$ & $0.16V$ \\
         TTL & $0.56V$ & $0.3V$ & $4.89V$ & $0.01V$ & $4.32V$ & $0.29V$ \\
         MOS & $2.7V$ & $1.94V$ & $4.89V$ & $0.04V$ & $2.19V$ & $1.89V$ \\
-        CMOS & $1.7V$ & $2.89V$ & $4.94V$ & $0.04V$ & $3.23V$ & $2.85V$ \\
+        CMOS & $2.89V$ & $1.7V$ & $4.94V$ & $0.04V$ & $2.04V$ & $1.66V$ \\
         \hline
     \end{tabular} 
     \caption{Resultados de los niveles de tensi\'on}
@@ -70,7 +68,7 @@ se hace, como lo indica la figura, $-1$. Adem\'as, se calculan los margenes de r
         RTL & $1.31V$ & $0.25V$ & $4.89V$ & $0.13V$ & $3.58V$ & $0.12V$ \\
         TTL & $0.55V$ & $0.31V$ & $4.89V$ & $0.01V$ & $4.33V$ & $0.29V$ \\
         MOS & $2.53V$ & $2.1V$ & $4.88V$ & $0.01V$ & $2.34V$ & $2.09V$ \\
-        CMOS & $1.44V$ & $2.83V$ & $4.94V$ & $0.04V$ & $3.49V$ & $2.79V$ \\
+        CMOS & $2.83V$ & $1.44V$ & $4.94V$ & $0.04V$ & $2.12V$ & $1.40V$ \\
         \hline
     \end{tabular} 
     \caption{Resultados de los niveles de tensi\'on con carga de $C = 1nF$}
@@ -78,12 +76,11 @@ se hace, como lo indica la figura, $-1$. Adem\'as, se calculan los margenes de r
 \end{table}
 
 \subsubsection{An\'alisis de resultados}
-En primer lugar, de RTL a TTL disminuye el valor de VIH de forma esperado, ya que con la etapa de entrada con el primer transistor, se necesita menos tensi\'on
-con la cual polarizarlo y eventualmente saturar el transistor de salida. Por otro lado, es de esperar que los valores de VOH entre tales tecnolog\'ias no difieran,
-dado que al corte se comporta de igual manera en la malla de salida, no obstante se asume que la diferencia entre valores de VOL es causada por el incremento en la condici\'on
+De RTL a TTL disminuye el valor de VIH ya que, en TTL, se apaga el transistor de salida con la corriente de colector del primero. Por otro lado, es de esperar que los valores de VOH entre tales tecnolog\'ias no difieran,
+dado que en presentan la misma malla de salida, no obstante se asume que la diferencia entre valores de VOL es causada por el incremento en la condici\'on
 de saturaci\'on en el caso de TTL, puesto que al estar elevando la corriente de colector el punto de polarizaci\'on se desplaza a una menor tensi\'on.
 
-En segundo lugar, es de esperar que entre las topolog\'ias usadas como MOS y CMOS, los valores de VOL no difieran, ya que est\'a impuesto por la red pull-down realizada con un transistor NMOS,
+En segundo lugar, entre las topolog\'ias MOS y CMOS, los valores de VOL no difieren ya que depende del transistor NMOS que ambas tienen,
 mientras que la diferencia de uno a otro es el pull-up, lo cual puede denotarse en el incremento de VOH para CMOS.
 
 En t\'erminos generales, puede observarse que los niveles de salida mas fuertes son entregados por el caso CMOS, con un m\'argen de ruido para ambos casos mayor en cuanto a la distribuci\'on.
@@ -98,10 +95,9 @@ resultante no sea el esperado, entre estas caracter\'isticas se encuentran los t
 de propagaci\'on que requiere el dispositivo para reflejar los cambios de la entrada en la salida.
 
 \subsubsection{Proceso de medici\'on}
-Empleando un generador de funciones se configura una se\~nal cuadrada con duty $50\%$ con un valor de tensi\'on $5 V_{PP}$ y una tensi\'on de offset $2.5V$, luego utilizando un osciloscopio se mide con dos canales
-la se\~nal de entrada y de salida, configurando el trigger para dos escenarios alternativos de rise y fall, de esta forma se logra capturar ambos escenarios de inversi\'on ya sea de estado alto a bajo como de bajo a alto. La frecuencia debe ser baja al igual que antes,
-seg\'un convenga inferior a $f = 100Hz$.
-Finalmente, se descargan los datos de entrada y salida en archivos .csv para ser procesados por un software. Se determina el tiempo de transici\'on de la salida entre el $10\%$ y el $90\%$, mientras que el tiempo de propagaci\'on se da entre la entrada y salida al $50\%$.
+Se genera una se\~nal de entrada cuadrada con duty $50\%$ con un valor de tensi\'on $5 V_{PP}$ y una tensi\'on de offset $2.5V$, con una frecuencia seg\'un convenga inferior a $f= 100Hz$, luego se mide con dos canales
+la se\~nal de entrada y de salida, configurando el trigger para dos escenarios alternativos de rise y fall.
+Finalmente, se descargan y procesan los datos de entrada y salida determinando el tiempo de transici\'on de la salida entre el $10\%$ y el $90\%$ y el tiempo de propagaci\'on entre la entrada y salida al $50\%$.
 
 \begin{figure}[H]
     \centering
@@ -116,7 +112,7 @@ Finalmente, se descargan los datos de entrada y salida en archivos .csv para ser
             \includegraphics[scale=0.20]{../EJ1/Mediciones/Osciloscopio/Segundo_Intento/Times_RTL/cropped_scope_37.png} &
             \includegraphics[scale=0.20]{../EJ1/Mediciones/Osciloscopio/Segundo_Intento/Times_RTL/cropped_scope_39.png}
         \end{tabular}
-    \caption{Casos ejemplo de medici\'on de los tiempos}
+    \caption{Casos ejemplo de medici\'on de los tiempos. Entrada: amarilla, Salida: verde}
     \label{fig:operation_times}
 \end{figure}
 
@@ -149,21 +145,19 @@ Finalmente, se descargan los datos de entrada y salida en archivos .csv para ser
 \end{table}
 
 \subsubsection{An\'alisis de resultados}
-Las cargas capacitivas agregadas a las salidas de las compuertas produce un incremento en los tiempos de operaci\'on medidos, pero adem\'as,
-resulta de inter\'es comparar las diferencias entre las tecnolog\'ias.
-En primer lugar, entre las tecnolog\'ias RTL y TTL, se puede observar una amplia diferencia que es esperada, dado que el mismo transistor empleando en RTL,
-tiene una etapa previa implementada justamente para reducir los tiempos de operaci\'on utilizando m\'as corrientes para controlar los procesos de apagado y encendido de las junturas.
+Las cargas capacitivas agregadas a las salidas de las compuertas incrementan los tiempos medidos.
+En primer lugar, entre las tecnolog\'ias RTL y TTL, se puede observar una diferencia atribuida a que el mismo transistor empleado en RTL
+tiene una etapa previa en TTL que reduce los tiempos con corrientes mayores para los procesos de apagado y encendido de la juntura del transistor de salida.
 
 Por otro lado, al momento de cargar con una determinada capacidad las compuertas, la que menos variaci\'on presenta es la CMOS.
 
 \subsection{Corrientes m\'aximas}
-La interconexi\'on de un conjunto amplio de compuertas l\'ogicas puede requerir un gran consumo de corriente para las salidas de las mismas, con lo cual es necesario
-determinar las m\'aximas corrientes de estado alto y estado bajo que puede soportar los circuitos empleados, puesto que de esta forma puede estimarse el m\'aximo n\'umero de compuertas a conectar.
+La interconexi\'on de compuertas l\'ogicas requiere un consumo de corriente para lo que es necesario conocer 
+las m\'aximas corrientes de estado alto y estado bajo que pueden soportar tales compuertas.
 
 \subsubsection{Proceso de medici\'on}
-Como se puede observar en la Fig. \ref{fig:maximum_current_process} el proceso de medici\'on consiste en, para cada estado, utilizar una carga en la salida
-variable con el objetivo de ir variando el valor y observando cu\'al es la tensi\'on a la salida. Para cada caso, se considera que la corriente m\'axima es aquella para la cual
-en la salida se observa el nivel de tensi\'on que define el l\'imite del estado de la salida, sea VOH o VOL.
+En la Fig. \ref{fig:maximum_current_process} se ilustra el proceso de medici\'on en el cual se emplea una carga variable para determinar a qu\'e corriente los niveles de tensi\'on
+exceden los l\'imites determinados por las secciones anteriores.
 
 \begin{figure}[H]
     \centering
@@ -204,12 +198,80 @@ en la salida se observa el nivel de tensi\'on que define el l\'imite del estado 
 \end{table}
 
 \subsubsection{An\'alisis de resultados}
-Las implementaciones realizadas RTL, TTL, MOS tienen una corriente similar de IOH, lo cual tiene sentido ya que tal es provista
-por la resistencia de pull-up que cada caso es similar, aproximadamente en $R = 10k \Omega$ con la distinci\'on real provocada por la tolerancia y el comportamiento
-de la malla de salida de los dispositivos. Pero en definitiva los valores son cercanos por esta raz\'on.
+Las compuertas RTL, TTL, MOS tienen una corriente similar de IOH por la resistencia de pull-up de aproximadamente $R = 10k \Omega$. 
 
 A pesar de esto \'ultimo, cada una de tales tecnolog\'ias difiere de las dem\'as en la corriente IOL justamente porque est\'a definida por el control de la condici\'on de saturaci\'on en los BJT, y la zona \'ohmica en el caso
-de los MOSFET. No obstante, dado que en el circuito CMOS los MOSFETS son complementarios, no se encontr\'o razonamiento por el cual la corriente IOH sea tan diferente con respecto de IOL, se asume que es por las condiciones
+Las peque\~nas diferencias se dan por los procesos de transici\'on entre estados de los dispositivos empleados, sean BJT o MOSFET. 
+No obstante, dado que en el circuito CMOS los MOSFETS son complementarios, no se encontr\'o razonamiento por el cual la corriente IOH sea tan diferente con respecto de IOL, se asume que es por las condiciones
 en las que pudieran encontrarse los modelos usados.
 
+\subsection{Dise\~no de PCB}
+
+\begin{figure}[H]
+    \centering
+        \begin{tabular}{c c}
+            \includegraphics[scale=0.4]{../EJ1/Recursos/esquematico.PNG} &
+            \includegraphics[scale=0.3]{../EJ1/Recursos/pcb3d.PNG} 
+        \end{tabular}
+    \caption{Dise\~no del PCB en Altium Designer}
+    \label{fig:pcb_design_nots}
+\end{figure}
+
+\subsection{Observaciones}
+
+\subsubsection{Resistencia de pull-down}
+En la Fig. \ref{fig:pull_down_error} se observa la salida de la compuerta RTL con entrada al aire con y sin resistencia de pull-down en la entrada. Puede observarse que al no quedar bien definido el estado,
+la salida no est\'a bien definida seg\'un las mediciones obtenidas de los niveles de tensi\'on.
+
+\begin{figure}[H]
+    \centering
+    \begin{tabular}{c c}
+        \includegraphics[scale=0.2]{../EJ1/Mediciones/Osciloscopio/Observaciones/Pull_down_error/cropped_scope_14.png} & 
+        \includegraphics[scale=0.2]{../EJ1/Mediciones/Osciloscopio/Observaciones/Pull_down_error/cropped_scope_15.png}
+    \end{tabular}
+    \caption{Medici\'on de la salida de un RTL con entrada al aire}
+    \label{fig:pull_down_error}
+\end{figure}
+
+\subsubsection{Tiempos de transici\'on}
+En la Fig. \ref{fig:rtl_fixed} se ilustran los tiempos de transici\'on de la salida de una compuerta RTL modificando la resistencia de base del transistor.
+Puede observarse que a pesar de que diversas resistencias son posibles para alcanzar las condiciones de saturaci\'on y corte, no todas producen la misma corriente de encendido y apagado,
+con lo cual esto puede producir que diferentes alternativas sean m\'as r\'apidas que otras, a expensas de un mayor consumo de corriente. El circuito no tiene capacitor de desacople, esto permite
+observar que en el caso de mayor corriente y menor tiempo, se producen mayores distorsiones en la se\~nal de entrada.
+
+\begin{figure}[H]
+    \centering
+        \begin{tabular}{c c}
+            \includegraphics[scale=0.2]{../EJ1/Mediciones/Osciloscopio/Observaciones/Mejora_polarizacion_RTL/cropped_scope_20.png} &
+            \includegraphics[scale=0.2]{../EJ1/Mediciones/Osciloscopio/Observaciones/Mejora_polarizacion_RTL/cropped_scope_21.png}
+        \end{tabular}
+    \caption{Medici\'on de tiempo de transici\'on en RTL. Entrada: amarilla, Salida: verde}
+    \label{fig:rtl_fixed}
+\end{figure}
+
+\subsubsection{Mediciones}
+En la Fig. \ref{fig:mos_problem_signal} se puede observar que en la transici\'on de la compuerta MOS se produjeron algunas distorsiones en las se\~nales de entrada y de salida.
+Luego de analizar diferentes puntos de vista, se concluy\'o que el problema inicial est\'a dado por el hecho de que las cuatro compuertas l\'ogicas implementadas est\'an funcionando
+en forma simult\'anea y conectadas en paralelo a la salida, lo cual provoca que en las mediciones de la MOS se introduzcan perturbaciones del transitorio de los BJT. Adem\'as, el funcionamiento
+conjunto en las transiciones implica un consumo de corriente que en un intervalo de tiempo peque\~no produce una ca\'ida de tensi\'on que pudo ser corregida con capacitores de desacople.
+
+\begin{figure}[H]
+    \centering
+        \begin{tabular}{c c}
+            \includegraphics[scale=0.2]{../EJ1/Mediciones/Osciloscopio/Observaciones/Mejora_transicion_MOS/cropped_scope_14.png} &
+            \includegraphics[scale=0.2]{../EJ1/Mediciones/Osciloscopio/Observaciones/Mejora_transicion_MOS/cropped_scope_15.png} 
+        \end{tabular}
+    \caption{Transici\'on de estados en la compuerta MOS. Entrada: amarilla, Salida: verde}
+    \label{fig:mos_problem_signal}
+\end{figure}
+
 \subsection{Conclusiones}
+En t\'erminos generales todas las compuertas implementadas presentan estados l\'ogicas de salida bien definidos, no obstante destaca por sus m\'argenes de ruido uniformes la compuerta MOS.
+Luego, comparando los tiempos de operaci\'on, sin carga la de mayor velocidad es la TTL, aunque se puede observar que la MOS y la CMOS son las que logran mantener mejor sus caracter\'isticas
+frente a las cargas capacitivas, esto implica que la velocidad superior de la TTL se mantiene seg\'un la carga, no obstante las propiedades de una MOS se mantiene con peque\~nas variaciones. Finalmente, en este aspecto,
+RTL queda claramente en desventaja frente a las dem\'as, difiriendo en varios \'ordenes de magnitud.
+Por \'ultimo, sin considerar la corriente IOH del caso CMOS, se puede concluir que las compuertas MOS y CMOS tuvieron una mayor capacidad de entregar corriente,
+en parte resulta razonable considerando que pose\'ian un mayor margen de ruido.
+
+En conclusi\'on, en diversos aspectos las compuertas CMOS y MOS destacan por sus caracter\'isticas. Las compuertas TTL tienen una mejor performance en t\'erminos de velocidad seg\'un la carga.
+Es importante mencionar que las caracter\'isticas temporales de las compuertas pudieron haber sido mejoradas incrementando los consumos de corrientes al reducir las resistencias que las controlan.
