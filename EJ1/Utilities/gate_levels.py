@@ -1,5 +1,5 @@
-"""
-This script read a .csv file where the input and output data from a logic gate
+	"""
+This script reads a .csv file where the input and output data from a logic gate
 has been saved by an oscilloscope, and returns the values of the input and output
 voltage levels, known as VIH, VIL, VOH, VOL.
 
@@ -24,14 +24,15 @@ def get_columns_since(file, start_index, data_index):
 	return numpy.array([abs(float(row[data_index])) for index, row in enumerate(file.values) if index >= start_index])
 
 
-def main(*args, **kwargs):
+def gate_level(*args, **kwargs):
 	# Constant settings of the file, TODO: Set this from the command-line arguments!
 	START_INDEX = 1
 	INPUT_INDEX = 1
 	OUTPUT_INDEX = 2
-	RELATIVE_ERROR = 0.1	
-	SAME_MARGIN = 10
+	RELATIVE_ERROR = 0.1
+	SAME_MARGIN = 5
 	MIN_FILTER = 200
+	MAX_FILTER = 900
 	
 	# Read the file!
 	raw_data = pandas.read_csv(args[0])
@@ -41,50 +42,50 @@ def main(*args, **kwargs):
 	output_voltages = get_columns_since(raw_data, START_INDEX, OUTPUT_INDEX)
 	input_diff = numpy.diff(input_voltages)
 	output_diff = numpy.diff(output_voltages)
-	diff = output_diff / input_diff
 	
-	# Searching all possible targets
-	targets = [(index, diff_value) for index, diff_value in enumerate(diff) if -RELATIVE_ERROR < diff_value + 1 < RELATIVE_ERROR]
-	print("{} targets found!".format(len(targets)))
-	new_targets = [targets[0]]
+	input_values = [(voltage, diff) for voltage, diff in zip(input_voltages, input_diff)]
+	output_values = [(voltage, diff) for voltage, diff in zip(output_voltages, output_diff)]
 	
-	for target in targets:
-		repeated = False
-		
-		for new_target in new_targets:
-			if abs(target[0] - new_target[0]) <= SAME_MARGIN:
-				repeated = True
-				break
-				
-		if not repeated:
-			new_targets.append(target)
+	targets = []
+	for input, output in zip(input_values, output_values):
+		if input[1] != 0:
+			diff = output[1] / input[1]
+			
+			if -RELATIVE_ERROR < diff + 1 < RELATIVE_ERROR:
+				targets.append((diff, input[0], output[0]))
 		else:
 			continue
-			
-	print("{} targets with no repetition".format(len(new_targets)))
 	
-	target_indexes = [new_target[0] for new_target in new_targets if new_target[0] >= MIN_FILTER]
-		
-	print("{} targets after filtering".format(len(target_indexes)))
+	# Separate High and Low candidates
+	low_targets = high_targets = []
 	
-	# Calculating the resulting values
-	if len(target_indexes) == 2:
-		min_index = min(target_indexes)
-		max_index = max(target_indexes)
-		print(
-			"VOH: {} VOL: {} VIH: {} VIL: {}".format(
-				output_voltages[min_index],
-				output_voltages[max_index],
-				input_voltages[max_index],
-				input_voltages[min_index]
-			)
-		)
-	else:
-		print("Some error was detected... more than 2 targets have been found! :(")
+	for target in targets:
+		if target[2] < 2.5:
+			low_targets.append(target)
+		else:
+			high_targets.append(target)
 	
-
+	# Choosing only one
+	low_target = high_target = None
+	for target in low_targets:
+		if low_target is None:
+			low_target = target
+		else:
+			if target[2] > low_target[2]:
+				low_target = target
+	
+	for target in high_targets:
+		if high_target is None:
+			high_target = target
+		else:
+			if target[2] < high_target[2]:
+				high_target = target
+	
+	print("Final values!")
+	print("Differential: {} - Vi: {} - Vo: {}".format(high_target[0], high_target[1], high_target[2]))
+	print("Differential: {} - Vi: {} - Vo: {}".format(low_target[0], low_target[1], low_target[2]))
 
 if __name__ == "__main__":
 	# Calling the main() function
-	main(sys.argv[1:][0])
+	print(gate_level(sys.argv[1:][0]))
 	sys.exit()
