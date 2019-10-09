@@ -12,8 +12,8 @@ Por otro lado, HC y HCT refieren a "High-speed CMOS", distinguiéndose HCT por s
 \begin{figure}[H]
     \centering
     \begin{tabular}{c c}
-        \includegraphics[width=0.3\textwidth]{../EJ2/Recursos/schottky_transistor_symbol} &
-        \includegraphics[width=0.3\textwidth]{../EJ2/Recursos/schottky_transistor_circuit}
+        \includegraphics[width=0.1\textwidth]{../EJ2/Recursos/schottky_transistor_symbol} &
+        \includegraphics[width=0.1\textwidth]{../EJ2/Recursos/schottky_transistor_circuit}
     \end{tabular}
     \caption{Símbolo y circuito de transistor Schottky.}
     \label{fig:schottky_transistor_symbol_and_circuit_ex5}
@@ -21,11 +21,22 @@ Por otro lado, HC y HCT refieren a "High-speed CMOS", distinguiéndose HCT por s
 
 Tal y como fue mencionado en el inicio de esta sección, en este trabajo se estudiará la compatibilidad entre las tecnologías a través de sus márgenes de ruido.
 Esto significa que, en términos de interconexión, una compuerta solo será compatible con otra de otra tecnología, si el rango de valores de salida de la primera está 
-incluido en el rango de entrada de la segunda.
+incluido en el rango de entrada de la segunda. \\
+En las figuras \ref{fig:compatible_v_non_compatible_ex5} y \ref{fig:compatible_v_non_compatible_2_ex5} pueden apreciarse los casos que pueden presentarse que significarán la compatibilidad o no entre las compuertas.
+De ellos se extrae que las compuertas serán compatibles solo en el caso en que $V_{OH} \leq V_{IH}$ y $V_{OL} \geq V_{IL}$.
 
-\begin{figure}[]
+\begin{figure}[H]
     \centering
-    
-    \caption{Caso compuertas compatibles vs compuertas no compatibles.}
+    \includegraphics[width=0.8\textwidth]{../EJ2/Recursos/compatible_gates}
+    \caption{Compatibilidad de compuertas.}
     \label{fig:compatible_v_non_compatible_ex5}
 \end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{../EJ2/Recursos/incompatible_gates}
+    \caption{Compatibilidad de compuertas.}
+    \label{fig:compatible_v_non_compatible_2_ex5}
+\end{figure}
+
+Con respecto al fanout, el mismo refiere
