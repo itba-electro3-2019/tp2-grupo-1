@@ -31,7 +31,7 @@ Esta tabla de verdad puede ser implementada mediante el circuito presentado en l
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.8\textwidth]{../EJ6/Recursos/latch_sr_with_gates}
+    \includegraphics[width=0.6\textwidth]{../EJ6/Recursos/latch_sr_with_gates}
     \caption{Circuito Latch SR con compuertas lógicas discretas.}
     \label{fig:latch_sr_with_gates_ex6}
 \end{figure}
@@ -65,3 +65,28 @@ el retardo de las compuertas NOT no ideales que lo conforman.
 
 
 \subsection{Implementación en PCB}
+Para la puesta en práctica de los circuitos mencionados en la sección anterior, se hace uso de dos placas.
+La primera implementa el circuito de la figura \ref{fig:latch_sr_with_gates_ex6} utilizando el circuito integrado 74HCT02, el cual consta de 4 compuertas NOR de dos entradas. \\
+La segunda se usa para implementar la primer etapa del circuito \ref{fig:ffd_with_gates_ex6} (hasta las salidas de las AND), y sus salidas se conectarán a la entrada 
+de la primera placa para completar así el circuito de un Flip-Flop D.
+Se emplean los integrados 74HCT02 para las compuertas NOT (cortocircuitando las entradas de las NOR), y 74HCT11, del cual se hacen uso de sus 3 compuertas AND de tres 
+entradas, cortocircuitando dos de ellas.\\
+Los esquemáticos resultantes son los de las figuras \ref{fig:latch_sr_schematic_ex6} y \ref{fig:ffd_adapter_schematic_ex6}.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{../EJ6/Recursos/latch_sr_schematic}
+    \caption{Esquemático para la placa del Latch SR.}
+    \label{fig:latch_sr_schematic_ex6}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{../EJ6/Recursos/ffd_adapter_schematic}
+    \caption{Esquemático para la placa de la entrada del Flip-Flop D.}
+    \label{fig:ffd_adapter_schematic_ex6}
+\end{figure}
+
+
+
+\subsection{Medición de parámetros de los circuitos.}
