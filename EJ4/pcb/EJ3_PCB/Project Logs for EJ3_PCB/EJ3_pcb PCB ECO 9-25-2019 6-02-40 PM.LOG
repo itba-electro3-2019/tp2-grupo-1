@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=VCC Pin=ALIMENTACION-1-1
+Removed Pin From Net: NetName=VCC Pin=ALIMENTACION-1-2
+Removed Pin From Net: NetName=GND Pin=ALIMENTACION-1-3
+Removed Pin From Net: NetName=GND Pin=ALIMENTACION-1-4
+Removed Pin From Net: NetName=VCC Pin=ALIMENTACION-2-1
+Removed Pin From Net: NetName=VCC Pin=ALIMENTACION-2-2
+Removed Pin From Net: NetName=GND Pin=ALIMENTACION-2-3
+Removed Pin From Net: NetName=GND Pin=ALIMENTACION-2-4
+Removed Pin From Net: NetName=GND Pin=D1-2
+Removed Pin From Net: NetName=GND Pin=D2-2
+Removed Pin From Net: NetName=GND Pin=D3-2
+Removed Pin From Net: NetName=GND Pin=D4-2
+Removed Pin From Net: NetName=GND Pin=D5-2
+Removed Pin From Net: NetName=IN1 Pin=P1-4
+Removed Pin From Net: NetName=IN2 Pin=P1-5
+Removed Pin From Net: NetName=GND Pin=P1-6
+Removed Member From Class: ClassName=EJ3_sch Member=ALIMENTACION-1
+Removed Member From Class: ClassName=EJ3_sch Member=ALIMENTACION-2
+Change Component Footprint: Designator=P1 Old Footprint=HDR2X3_CEN New Footprint=HDR1X3
+Change Component Footprint: Designator=D1 Old Footprint=LED3 New Footprint=LED5
+Change Component Footprint: Designator=D2 Old Footprint=LED3 New Footprint=LED5
+Change Component Footprint: Designator=D3 Old Footprint=LED3 New Footprint=LED5
+Change Component Footprint: Designator=D4 Old Footprint=LED3 New Footprint=LED5
+Change Component Footprint: Designator=D5 Old Footprint=LED3 New Footprint=LED5
+Added Component: Designator=J1(SIP4)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=IN1 Pin=P1-1
+Added Pin To Net: NetName=IN2 Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D2-2
+Added Pin To Net: NetName=NetD1_2 Pin=D3-2
+Added Pin To Net: NetName=NetD1_2 Pin=D4-2
+Added Pin To Net: NetName=NetD1_2 Pin=D5-2
+Added Net: Name=NetD1_2
+Added Member To Class: ClassName=EJ3_sch Member=Component J1 CON4
+Added Member To Class: ClassName=EJ3_sch Member=Component R1 RES
+Added Member To Class: ClassName=EJ3_sch Member=Component R2 RES
+Added Member To Class: ClassName=EJ3_sch Member=Component R3 RES
+Added Member To Class: ClassName=EJ3_sch Member=Component R4 RES
+Added Member To Class: ClassName=EJ3_sch Member=Component R5 RES
+Added Room: Name=EJ3_sch
