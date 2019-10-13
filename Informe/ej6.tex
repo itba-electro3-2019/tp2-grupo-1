@@ -3,8 +3,9 @@ Basándose en compuertas lógicas discretas, se pretende diseñar, implementar y
 Flip-Flop D.
 Con la intensión de proveer parámetros de comparación que contextualicen a los diseños logrados, serán también medidos circuitos equivalentes comerciales, los cuales vienen 
 ya integrados en un solo componente. \\
-Las magnitudes que se consideran de interés para la caracterización de los diseños son los tiempos de propagación, rise, fall, set up y hold, así como cualquier otro 
+Las magnitudes que se consideran de interés para la caracterización de los diseños son los tiempos de propagación, rise, y fall, así como cualquier otro 
 fenómeno que resulte particularmente interesante al ser observadas las respuestas de los circuitos ante sus estímulos.
+Además, para el caso del Flip-Flop D se tienen en cuenta los tiempos de set up y hold.
 
 
 
@@ -20,7 +21,7 @@ Esta tabla de verdad puede ser implementada mediante el circuito presentado en l
     \centering
     \begin{tabular}{cc|cc|c}
     \textbf{S} & \textbf{R} & \textbf{Q} & \textbf{~Q} & \textbf{Validez del estado} \\ \hline
-    0          & 0          & Q          & ~Q          & \multirow{3}{*}{Válidos}    \\
+    0          & 0          & $Q_0$      & $Q_1$       & \multirow{3}{*}{Válidos}    \\
     0          & 1          & 0          & 1           &                             \\
     1          & 0          & 1          & 0           &                             \\ \cline{5-5} 
     1          & 1          & 0          & 0           & Inválido                   
@@ -90,3 +91,54 @@ Los esquemáticos resultantes son los de las figuras \ref{fig:latch_sr_schematic
 
 
 \subsection{Medición de parámetros de los circuitos.}
+A continuación se presentan todas las mediciones que se consideran necesarias para caracterizar a los circuitos implementados.
+En ambos casos, se muestran, en primer lugar, mediciones cuyo objetivo es la observación cualitativa de la respuesta del sistema ante distintos estímulos, a fin de 
+comprobar el correcto funcionamiento y el cumplimiento de las tablas de verdad para las que fueron diseñados.
+Posteriormente, gráficos con un enfoque más concentrado en las transiciones son utilizados para comparar los tiempos de propagación, rise, fall, set up y hold, 
+ofreciendo comparaciones con compuertas de uso comercial.
+
+
+\subsubsection{Latch SR}
+En primer lugar se verifica mediante las figuras \ref{fig:latch_sr_high_ex5} y \ref{fig:latch_sr_low_ex5} el correcto funcionamiento de las entradas set y reset, cumpliendo 
+la función para la cual fueron diseñadas.
+En la primera, mientras que la entrada de reset está conectada a 0V, se conecta una señal cuadrada al terminal de set, provocando que la salida sea un 1 lógico desde el 
+primer momento en que set es también un 1, y este valor se mantiene luego cuando tanto set como reset son un 0 lógico.
+El comportamiento opuesto se observa para la segunda figura, donde la señal de reset es la que está conectada a la entrada cuadrada, y set a masa, poniendo la salida en 0 
+y manteniéndola en este valor.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.6\textwidth]{../EJ6/Recursos/latch_sr_high}
+    \caption{Latch SR con R en 0 y S alternando.}
+    \label{fig:latch_sr_high_ex5}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.6\textwidth]{../EJ6/Recursos/latch_sr_low}
+    \caption{Latch SR con S en 0 y R alternando.}
+    \label{fig:latch_sr_low_ex5}
+\end{figure}
+
+El análisis paramétrico del circuito se realiza observando las mediciones presentadas en las figuras \ref{fig:latch_sr_rise_ex5} y \ref{fig:latch_sr_fall_ex5}.
+Se extrae de las mismas que los tiempos de rise y fall
+
+\begin{figure}[H]
+    \centering
+    \begin{tabular}{c c}
+        \includegraphics[width=0.5\textwidth]{../EJ6/Recursos/latch_sr_rise_osc} &
+        \includegraphics[width=0.5\textwidth]{../EJ6/Recursos/latch_sr_rise}
+    \end{tabular}
+    \caption{Transición del Latch SR de 0 a 1.}
+    \label{fig:latch_sr_rise_ex5}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \begin{tabular}{c c}
+        \includegraphics[width=0.5\textwidth]{../EJ6/Recursos/latch_sr_fall_osc} &
+        \includegraphics[width=0.5\textwidth]{../EJ6/Recursos/latch_sr_fall}
+    \end{tabular}
+    \caption{Transición del Latch SR de 1 a 0.}
+    \label{fig:latch_sr_fall_ex5}
+\end{figure}
