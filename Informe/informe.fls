@@ -1,0 +1,273 @@
+PWD c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe
+INPUT C:\Users\Carlos\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.tex
+OUTPUT c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.log
+INPUT preamble.tex
+INPUT preamble.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\article.cls
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\size10.clo
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\inputenc.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\switch.def
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\arabi\bblopts.cfg
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-spanish\spanish.ldf
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\babel-spanish\spanish.ldf
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\babel.def
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\babel\txtbabel.def
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\keyval.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\steinmetz\steinmetz.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\steinmetz\steinmetz.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pict2e\pict2e.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pict2e\pict2e.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pict2e\pict2e.cfg
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pict2e\pict2e.cfg
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pict2e\p2e-pdftex.def
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pict2e\p2e-pdftex.def
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csvsimple\csvsimple.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\csvsimple\csvsimple.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfrcs.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-common-lists.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfutil-latex.def
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everyshi.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ms\everyshi.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfrcs.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\pgf.revision.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgfkeys.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ifthen.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\shellesc.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\shellesc.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\url\url.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
+INPUT c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.aux
+INPUT c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.aux
+OUTPUT c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.aux
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
+INPUT c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.out
+INPUT c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.out
+INPUT c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.out
+INPUT c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.out
+OUTPUT c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.pdf
+INPUT c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.out
+INPUT c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.out
+OUTPUT c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.out
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmcsc10.tfm
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmex10.tfm
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex8.tfm
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\Carlos\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
+INPUT c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.toc
+INPUT c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.toc
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx10.tfm
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
+OUTPUT c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.toc
+INPUT ej1.tex
+INPUT ej1.tex
+INPUT ej3.tex
+INPUT ej3.tex
+INPUT ej4.tex
+INPUT ej4.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmti10.tfm
+INPUT ..\EJ4\Recursos\LOAD_CIRC.png
+INPUT ..\EJ4\Recursos\LOAD_CIRC.png
+INPUT ..\EJ4\Recursos\LOAD_CIRC.png
+INPUT ..\EJ4\Recursos\LOAD_CIRC.png
+INPUT ..\EJ4\Recursos\LOAD_CIRC.png
+INPUT ..\EJ4\Recursos\PROP_NOLOAD_FALL.png
+INPUT ..\EJ4\Recursos\PROP_NOLOAD_FALL.png
+INPUT ..\EJ4\Recursos\PROP_NOLOAD_FALL.png
+INPUT ..\EJ4\Recursos\PROP_NOLOAD_FALL.png
+INPUT ..\EJ4\Recursos\PROP_NOLOAD_FALL.png
+INPUT ..\EJ4\Recursos\PROP_NOLOAD_RISE.png
+INPUT ..\EJ4\Recursos\PROP_NOLOAD_RISE.png
+INPUT ..\EJ4\Recursos\PROP_NOLOAD_RISE.png
+INPUT ..\EJ4\Recursos\PROP_NOLOAD_RISE.png
+INPUT ..\EJ4\Recursos\PROP_NOLOAD_RISE.png
+INPUT ..\EJ4\Recursos\PROP_LOAD_FALL.png
+INPUT ..\EJ4\Recursos\PROP_LOAD_FALL.png
+INPUT ..\EJ4\Recursos\PROP_LOAD_FALL.png
+INPUT ..\EJ4\Recursos\PROP_LOAD_FALL.png
+INPUT ..\EJ4\Recursos\PROP_LOAD_FALL.png
+INPUT ..\EJ4\Recursos\PROP_LOAD_RISE.png
+INPUT ..\EJ4\Recursos\PROP_LOAD_RISE.png
+INPUT ..\EJ4\Recursos\PROP_LOAD_RISE.png
+INPUT ..\EJ4\Recursos\PROP_LOAD_RISE.png
+INPUT ..\EJ4\Recursos\PROP_LOAD_RISE.png
+INPUT ..\EJ4\Recursos\TRAN_NOLOAD_FALL.png
+INPUT ..\EJ4\Recursos\TRAN_NOLOAD_FALL.png
+INPUT ..\EJ4\Recursos\TRAN_NOLOAD_FALL.png
+INPUT ..\EJ4\Recursos\TRAN_NOLOAD_FALL.png
+INPUT ..\EJ4\Recursos\TRAN_NOLOAD_FALL.png
+INPUT ..\EJ4\Recursos\TRAN_NOLOAD_RISE.png
+INPUT ..\EJ4\Recursos\TRAN_NOLOAD_RISE.png
+INPUT ..\EJ4\Recursos\TRAN_NOLOAD_RISE.png
+INPUT ..\EJ4\Recursos\TRAN_NOLOAD_RISE.png
+INPUT ..\EJ4\Recursos\TRAN_NOLOAD_RISE.png
+INPUT ..\EJ4\Recursos\TRAN_LOAD_FALL.png
+INPUT ..\EJ4\Recursos\TRAN_LOAD_FALL.png
+INPUT ..\EJ4\Recursos\TRAN_LOAD_FALL.png
+INPUT ..\EJ4\Recursos\TRAN_LOAD_FALL.png
+INPUT ..\EJ4\Recursos\TRAN_LOAD_FALL.png
+INPUT ..\EJ4\Recursos\TRAN_LOAD_RISE.png
+INPUT ..\EJ4\Recursos\TRAN_LOAD_RISE.png
+INPUT ..\EJ4\Recursos\TRAN_LOAD_RISE.png
+INPUT ..\EJ4\Recursos\TRAN_LOAD_RISE.png
+INPUT ..\EJ4\Recursos\TRAN_LOAD_RISE.png
+INPUT ..\EJ4\Recursos\DC_VAR_FALL.png
+INPUT ..\EJ4\Recursos\DC_VAR_FALL.png
+INPUT ..\EJ4\Recursos\DC_VAR_FALL.png
+INPUT ..\EJ4\Recursos\DC_VAR_FALL.png
+INPUT ..\EJ4\Recursos\DC_VAR_FALL.png
+INPUT ..\EJ4\Recursos\DC_VAR_RISE.png
+INPUT ..\EJ4\Recursos\DC_VAR_RISE.png
+INPUT ..\EJ4\Recursos\DC_VAR_RISE.png
+INPUT ..\EJ4\Recursos\DC_VAR_RISE.png
+INPUT ..\EJ4\Recursos\DC_VAR_RISE.png
+INPUT ..\EJ4\Recursos\DC_VAR_FALL_CAP.png
+INPUT ..\EJ4\Recursos\DC_VAR_FALL_CAP.png
+INPUT ..\EJ4\Recursos\DC_VAR_FALL_CAP.png
+INPUT ..\EJ4\Recursos\DC_VAR_FALL_CAP.png
+INPUT ..\EJ4\Recursos\DC_VAR_FALL_CAP.png
+INPUT ..\EJ4\Recursos\DC_VAR_RISE_CAP.png
+INPUT ..\EJ4\Recursos\DC_VAR_RISE_CAP.png
+INPUT ..\EJ4\Recursos\DC_VAR_RISE_CAP.png
+INPUT ..\EJ4\Recursos\DC_VAR_RISE_CAP.png
+INPUT ..\EJ4\Recursos\DC_VAR_RISE_CAP.png
+INPUT ej5.tex
+INPUT ej5.tex
+INPUT ej6.tex
+INPUT ej6.tex
+INPUT ej7.tex
+INPUT ej7.tex
+INPUT ej8.tex
+INPUT ej8.tex
+INPUT c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.aux
+INPUT c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.out
+INPUT c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.out
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmbx12.pfb
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi7.pfb
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr6.pfb
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr6.pfb
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr7.pfb
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr8.pfb
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti10.pfb
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti10.pfb

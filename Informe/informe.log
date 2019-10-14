@@ -1,0 +1,509 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.21)  14 OCT 2019 20:42
+entering extended mode
+**"c:/Users/Carlos/Desktop/ITBA/3er año/1er cuatri/E3/TP2/tp2-grupo-1/Informe/informe.tex"
+("c:/Users/Carlos/Desktop/ITBA/3er año/1er cuatri/E3/TP2/tp2-grupo-1/Informe/informe.tex"
+LaTeX2e <2018-12-01>
+(preamble.tex ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+) ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2019/04/01 3.28 The Babel package
+ ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def"
+File: switch.def 2019/04/01 3.28 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of babel
+) ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-spanish\spanish.ldf"
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+ ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2019/04/01 3.28 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+ ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.def")
+\bbl@dirlevel=\count89
+)
+\es@quottoks=\toks16
+\es@quotdepth=\count90
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+)) ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count91
+\float@exts=\toks17
+\float@box=\box27
+\@float@everytoks=\toks18
+\@floatcapt=\box28
+) ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+ ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+) ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+ ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+ ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen104
+\Gin@req@width=\dimen105
+) ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+ ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen106
+)) ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen107
+) ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count92
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count93
+\leftroot@=\count94
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count95
+\DOTSCASE@=\count96
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen108
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count97
+\c@MaxMatrixCols=\count98
+\dotsspace@=\muskip10
+\c@parentequation=\count99
+\dspbrk@lvl=\count100
+\tag@help=\toks21
+\row@=\count101
+\column@=\count102
+\maxfields@=\count103
+\andhelp@=\toks22
+\eqnshift@=\dimen109
+\alignsep@=\dimen110
+\tagshift@=\dimen111
+\tagwidth@=\dimen112
+\totwidth@=\dimen113
+\lineht@=\dimen114
+\@envbody=\toks23
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+) ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/steinmetz\steinmetz.sty"
+Package: steinmetz 2009/06/14 v1.0 Steinmetz symbol for electrotechnics
+ ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pict2e\pict2e.sty"
+Package: pict2e 2016/02/05 v0.3b Improved picture commands (HjG,RN,JT)
+ ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pict2e\pict2e.cfg"
+File: pict2e.cfg 2016/02/05 v0.1u pict2e configuration for teTeX/TeXLive
+)
+Package pict2e Info: Driver file: pdftex.def on input line 119.
+Package pict2e Info: Driver file for pict2e: p2e-pdftex.def on input line 121.
+ ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pict2e\p2e-pdftex.def"
+File: p2e-pdftex.def 2016/02/05 v0.1u Driver-dependant file (RN,HjG,JT)
+)
+\pIIe@GRAPH=\toks25
+\@arclen=\dimen115
+\@arcrad=\dimen116
+\@tempdimd=\dimen117
+)
+\stm@phasebox=\box31
+\stm@phasedp=\skip46
+\stm@phaseht=\skip47
+\stm@phasetot=\skip48
+\stm@phasewd=\skip49
+) ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/csvsimple\csvsimple.sty"
+Package: csvsimple 2019/04/09 version 1.21 LaTeX CSV file processing
+ ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgfrcs.sty" ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgfutil-common.tex"
+\pgfutil@everybye=\toks26
+\pgfutil@tempdima=\dimen118
+\pgfutil@tempdimb=\dimen119
+ ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgfutil-common-lists.tex")) ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgfutil-latex.def"
+\pgfutil@abb=\box32
+ ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ms\everyshi.sty"
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+)) ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgfrcs.code.tex" ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf\pgf.revision.tex")
+Package: pgfrcs 2019/02/02 v3.1.1 (3.1.1)
+)) ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pgf/utilities\pgfkeys.sty" ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgfkeys.code.tex"
+\pgfkeys@pathtoks=\toks27
+\pgfkeys@temptoks=\toks28
+ ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pgf/utilities\pgfkeysfiltered.code.tex"
+\pgfkeys@tmptoks=\toks29
+))) ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.sty"
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count104
+) ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\shellesc.sty"
+Package: shellesc 2016/06/07 v0.02a unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 69.
+)
+\csv@file=\read1
+\c@csvinputline=\count105
+\c@csvrow=\count106
+\c@csvcol=\count107
+\csv@out=\write3
+) ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+ ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.sty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+) ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+) ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count108
+\Gm@cntv=\count109
+\c@Gm@tempcnt=\count110
+\Gm@bindingoffset=\dimen120
+\Gm@wd@mp=\dimen121
+\Gm@odd@mp=\dimen122
+\Gm@even@mp=\dimen123
+\Gm@layoutwidth=\dimen124
+\Gm@layoutheight=\dimen125
+\Gm@layouthoffset=\dimen126
+\Gm@layoutvoffset=\dimen127
+\Gm@dimlist=\toks30
+ ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.cfg")) ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref.sty"
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+ ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+ ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+) ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+) ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen128
+\Hy@linkcounter=\count111
+\Hy@pagecounter=\count112
+ ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def"
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count113
+ ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count114
+ ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen129
+\Fld@menulength=\count115
+\Field@Width=\dimen130
+\Fld@charsize=\dimen131
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count116
+\c@Item=\count117
+\c@Hfootnote=\count118
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.def"
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count119
+\c@bookmark@seq@number=\count120
+ ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 282.
+)
+\Hy@SectionHShift=\skip50
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 34.
+) ("c:/Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.aux"
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+)
+\openout1 = `informe.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Info: Redefining \. on input line 7.
+LaTeX Info: Redefining \% on input line 7.
+ ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count121
+\scratchdimen=\dimen132
+\scratchbox=\box33
+\nofMPsegments=\count122
+\nofMParguments=\count123
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count124
+\MPscratchDim=\dimen133
+\MPnumerator=\count125
+\makeMPintoPDFobject=\count126
+\everyMPtoPDFconversion=\toks32
+) ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+ ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 438.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+) ABD: EveryShipout initializing macros
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=672.05412pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-1.1381pt
+* \headheight=13.65732pt
+* \headsep=17.07164pt
+* \topskip=10.0pt
+* \footskip=19.91692pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\AtBeginShipoutBox=\box34
+("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+ ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+Package hyperref Info: Link coloring ON on input line 7.
+ ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+ ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count127
+)
+LaTeX Info: Redefining \ref on input line 7.
+LaTeX Info: Redefining \pageref on input line 7.
+LaTeX Info: Redefining \nameref on input line 7.
+ ("c:/Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.out") ("c:/Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.out")
+\@outlinefile=\write4
+\openout4 = `informe.out'.
+
+ [1
+
+{C:/Users/Carlos/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] ("c:/Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.toc"
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+)
+\tf@toc=\write5
+\openout5 = `informe.toc'.
+
+ [2] (ej1.tex) [3] (ej3.tex) [4] (ej4.tex
+<../EJ4/Recursos/LOAD_CIRC.png, id=99, 714.87074pt x 546.24075pt>
+File: ../EJ4/Recursos/LOAD_CIRC.png Graphic file (type png)
+<use ../EJ4/Recursos/LOAD_CIRC.png>
+Package pdftex.def Info: ../EJ4/Recursos/LOAD_CIRC.png  used on input line 12.
+(pdftex.def)             Requested size: 364.19667pt x 278.29572pt.
+<../EJ4/Recursos/PROP_NOLOAD_FALL.png, id=102, 615.4995pt x 403.5075pt>
+File: ../EJ4/Recursos/PROP_NOLOAD_FALL.png Graphic file (type png)
+<use ../EJ4/Recursos/PROP_NOLOAD_FALL.png>
+Package pdftex.def Info: ../EJ4/Recursos/PROP_NOLOAD_FALL.png  used on input line 25.
+(pdftex.def)             Requested size: 182.09486pt x 119.37846pt.
+<../EJ4/Recursos/PROP_NOLOAD_RISE.png, id=103, 616.704pt x 403.5075pt>
+File: ../EJ4/Recursos/PROP_NOLOAD_RISE.png Graphic file (type png)
+<use ../EJ4/Recursos/PROP_NOLOAD_RISE.png>
+Package pdftex.def Info: ../EJ4/Recursos/PROP_NOLOAD_RISE.png  used on input line 26.
+(pdftex.def)             Requested size: 182.09486pt x 119.1445pt.
+<../EJ4/Recursos/PROP_LOAD_FALL.png, id=104, 616.704pt x 404.712pt>
+File: ../EJ4/Recursos/PROP_LOAD_FALL.png Graphic file (type png)
+<use ../EJ4/Recursos/PROP_LOAD_FALL.png>
+Package pdftex.def Info: ../EJ4/Recursos/PROP_LOAD_FALL.png  used on input line 34.
+(pdftex.def)             Requested size: 182.09486pt x 119.50015pt.
+<../EJ4/Recursos/PROP_LOAD_RISE.png, id=105, 616.704pt x 404.712pt>
+File: ../EJ4/Recursos/PROP_LOAD_RISE.png Graphic file (type png)
+<use ../EJ4/Recursos/PROP_LOAD_RISE.png>
+Package pdftex.def Info: ../EJ4/Recursos/PROP_LOAD_RISE.png  used on input line 35.
+(pdftex.def)             Requested size: 182.09486pt x 119.50015pt.
+ [5 <../EJ4/Recursos/LOAD_CIRC.png>]
+<../EJ4/Recursos/TRAN_NOLOAD_FALL.png, id=119, 616.704pt x 407.121pt>
+File: ../EJ4/Recursos/TRAN_NOLOAD_FALL.png Graphic file (type png)
+<use ../EJ4/Recursos/TRAN_NOLOAD_FALL.png>
+Package pdftex.def Info: ../EJ4/Recursos/TRAN_NOLOAD_FALL.png  used on input line 63.
+(pdftex.def)             Requested size: 182.09486pt x 120.21147pt.
+<../EJ4/Recursos/TRAN_NOLOAD_RISE.png, id=120, 616.704pt x 406.51875pt>
+File: ../EJ4/Recursos/TRAN_NOLOAD_RISE.png Graphic file (type png)
+<use ../EJ4/Recursos/TRAN_NOLOAD_RISE.png>
+Package pdftex.def Info: ../EJ4/Recursos/TRAN_NOLOAD_RISE.png  used on input line 64.
+(pdftex.def)             Requested size: 182.09486pt x 120.03363pt.
+<../EJ4/Recursos/TRAN_LOAD_FALL.png, id=121, 616.704pt x 405.31425pt>
+File: ../EJ4/Recursos/TRAN_LOAD_FALL.png Graphic file (type png)
+<use ../EJ4/Recursos/TRAN_LOAD_FALL.png>
+Package pdftex.def Info: ../EJ4/Recursos/TRAN_LOAD_FALL.png  used on input line 72.
+(pdftex.def)             Requested size: 182.09486pt x 119.67798pt.
+<../EJ4/Recursos/TRAN_LOAD_RISE.png, id=122, 616.704pt x 405.31425pt>
+File: ../EJ4/Recursos/TRAN_LOAD_RISE.png Graphic file (type png)
+<use ../EJ4/Recursos/TRAN_LOAD_RISE.png>
+Package pdftex.def Info: ../EJ4/Recursos/TRAN_LOAD_RISE.png  used on input line 73.
+(pdftex.def)             Requested size: 182.09486pt x 119.67798pt.
+ [6 <../EJ4/Recursos/PROP_NOLOAD_FALL.png> <../EJ4/Recursos/PROP_NOLOAD_RISE.png> <../EJ4/Recursos/PROP_LOAD_FALL.png> <../EJ4/Recursos/PROP_LOAD_RISE.png>]
+<../EJ4/Recursos/DC_VAR_FALL.png, id=133, 616.704pt x 404.712pt>
+File: ../EJ4/Recursos/DC_VAR_FALL.png Graphic file (type png)
+<use ../EJ4/Recursos/DC_VAR_FALL.png>
+Package pdftex.def Info: ../EJ4/Recursos/DC_VAR_FALL.png  used on input line 105.
+(pdftex.def)             Requested size: 182.09486pt x 119.50015pt.
+<../EJ4/Recursos/DC_VAR_RISE.png, id=134, 615.4995pt x 404.10976pt>
+File: ../EJ4/Recursos/DC_VAR_RISE.png Graphic file (type png)
+<use ../EJ4/Recursos/DC_VAR_RISE.png>
+Package pdftex.def Info: ../EJ4/Recursos/DC_VAR_RISE.png  used on input line 106.
+(pdftex.def)             Requested size: 182.09486pt x 119.55664pt.
+ [7 <../EJ4/Recursos/TRAN_NOLOAD_FALL.png> <../EJ4/Recursos/TRAN_NOLOAD_RISE.png> <../EJ4/Recursos/TRAN_LOAD_FALL.png> <../EJ4/Recursos/TRAN_LOAD_RISE.png>]
+Overfull \hbox (2.45116pt too wide) in paragraph at lines 112--113
+[]\OT1/cmr/m/n/10 Se ob-ser-va que la ali-men-ta-cion tie-ne un tran-si-to-rio su-bamor-ti-gua-do coin-ci-den-te con los flan-cos de transicion
+ []
+
+<../EJ4/Recursos/DC_VAR_FALL_CAP.png, id=149, 616.704pt x 403.5075pt>
+File: ../EJ4/Recursos/DC_VAR_FALL_CAP.png Graphic file (type png)
+<use ../EJ4/Recursos/DC_VAR_FALL_CAP.png>
+Package pdftex.def Info: ../EJ4/Recursos/DC_VAR_FALL_CAP.png  used on input line 121.
+(pdftex.def)             Requested size: 182.09486pt x 119.1445pt.
+<../EJ4/Recursos/DC_VAR_RISE_CAP.png, id=150, 616.704pt x 406.51875pt>
+File: ../EJ4/Recursos/DC_VAR_RISE_CAP.png Graphic file (type png)
+<use ../EJ4/Recursos/DC_VAR_RISE_CAP.png>
+Package pdftex.def Info: ../EJ4/Recursos/DC_VAR_RISE_CAP.png  used on input line 122.
+(pdftex.def)             Requested size: 182.09486pt x 120.03363pt.
+) [8 <../EJ4/Recursos/DC_VAR_FALL.png> <../EJ4/Recursos/DC_VAR_RISE.png> <../EJ4/Recursos/DC_VAR_FALL_CAP.png> <../EJ4/Recursos/DC_VAR_RISE_CAP.png>] (ej5.tex) [9] (ej6.tex) [10] (ej7.tex) [11] (ej8.tex) [12]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 43.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 43.
+ ("c:/Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.aux"
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 43.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 43.
+Package rerunfilecheck Info: File `informe.out' has not changed.
+(rerunfilecheck)             Checksum: F9556B7B3025C1B9FC41809040AE46D2;1259.
+ ) 
+Here is how much of TeX's memory you used:
+ 8920 strings out of 492945
+ 145723 string characters out of 3125808
+ 255731 words of memory out of 3000000
+ 12603 multiletter control sequences out of 15000+200000
+ 11647 words of font info for 42 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,13n,46p,874b,380s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on "c:/Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.pdf" (12 pages, 406310 bytes).
+PDF statistics:
+ 227 PDF objects out of 1000 (max. 8388607)
+ 40 named destinations out of 1000 (max. 500000)
+ 178 words of extra memory for PDF output out of 10000 (max. 10000000)
+
