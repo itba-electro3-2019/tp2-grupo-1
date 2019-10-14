@@ -1,0 +1,14 @@
+\BOOKMARK [1][-]{section.1}{Ejercicio 1: Compuertas NOT implementadas con BJT y MOSFET}{}% 1
+\BOOKMARK [1][-]{section.2}{Ejercicio 3: Implementaci\363n de una tabla de verdad}{}% 2
+\BOOKMARK [1][-]{section.3}{Ejercicio 4: Tiempos de propagaci\363n en compuerta CMOS}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Descripci\363n del an\341lisis}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Resultados}{section.3}% 5
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Mediciones de tiempo de propagaci\363n}{subsection.3.2}% 6
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Mediciones de tiempo rise y fall}{subsection.3.2}% 7
+\BOOKMARK [3][-]{subsubsection.3.2.3}{Overshoot}{subsection.3.2}% 8
+\BOOKMARK [3][-]{subsubsection.3.2.4}{Mediciones a altas frecuencias}{subsection.3.2}% 9
+\BOOKMARK [2][-]{subsection.3.3}{Conclusi\363n}{section.3}% 10
+\BOOKMARK [1][-]{section.4}{Ejercicio 5: Comparaci\363n TTL y CMOS de compuertas con entradas desconectadas}{}% 11
+\BOOKMARK [1][-]{section.5}{Ejercicio 6: Dise\361o e implementaci\363n multivibradores}{}% 12
+\BOOKMARK [1][-]{section.6}{Ejercicio 7: Dise\361o de contadores sincr\363nicos y asincr\363nicos de 3 bits}{}% 13
+\BOOKMARK [1][-]{section.7}{Ejercicio 8: Dise\361o de controlador para un Joystick Anal\363gico}{}% 14

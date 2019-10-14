@@ -1,0 +1,15 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Ejercicio 1: Compuertas NOT implementadas con BJT y MOSFET}{3}{section.1}% 
+\contentsline {section}{\numberline {2}Ejercicio 3: Implementaci\'on de una tabla de verdad}{4}{section.2}% 
+\contentsline {section}{\numberline {3}Ejercicio 4: Tiempos de propagaci\'on en compuerta CMOS}{5}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}Descripci\'on del an\'alisis}{5}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}Resultados}{5}{subsection.3.2}% 
+\contentsline {subsubsection}{\numberline {3.2.1}Mediciones de tiempo de propagaci\'on}{5}{subsubsection.3.2.1}% 
+\contentsline {subsubsection}{\numberline {3.2.2}Mediciones de tiempo rise y fall}{6}{subsubsection.3.2.2}% 
+\contentsline {subsubsection}{\numberline {3.2.3}Overshoot}{7}{subsubsection.3.2.3}% 
+\contentsline {subsubsection}{\numberline {3.2.4}Mediciones a altas frecuencias}{7}{subsubsection.3.2.4}% 
+\contentsline {subsection}{\numberline {3.3}Conclusi\'on}{8}{subsection.3.3}% 
+\contentsline {section}{\numberline {4}Ejercicio 5: Comparaci\'on TTL y CMOS de compuertas con entradas desconectadas}{9}{section.4}% 
+\contentsline {section}{\numberline {5}Ejercicio 6: Dise\~no e implementaci\'on multivibradores}{10}{section.5}% 
+\contentsline {section}{\numberline {6}Ejercicio 7: Dise\~no de contadores sincr\'onicos y asincr\'onicos de 3 bits}{11}{section.6}% 
+\contentsline {section}{\numberline {7}Ejercicio 8: Dise\~no de controlador para un Joystick Anal\'ogico}{12}{section.7}% 

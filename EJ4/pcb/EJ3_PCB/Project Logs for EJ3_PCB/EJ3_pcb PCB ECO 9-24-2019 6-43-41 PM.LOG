@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=IN2 Pin=P1-3
+Removed Pin From Net: NetName=IN2 Pin=P1-4
+Removed Pin From Net: NetName=IN1 Pin=P1-5
+Removed Pin From Net: NetName=IN1 Pin=P1-6
+Removed Pin From Net: NetName=GND Pin=P1-7
+Removed Pin From Net: NetName=GND Pin=P1-8
+Change Component DesignItemId : Designator=P1 Old DesignItemId=Header 4X2 New DesignItemId=Header 3X2A
+Change Component Footprint: Designator=P1 Old Footprint=HDR2X4 New Footprint=HDR2X3_CEN
+Change Component Comment : Designator=P1 Old Comment=Header 4X2 New Comment=
+Change Component Designator: OldDesignator=D? NewDesignator=D5
+Change Component Description : Designator=P1 Old Description=Header, 4-Pin, Dual row New Description=Header, 3-Pin, Dual row
+Added Component: Designator=TP1(TPTH)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP2(TPTH)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP3(TPTH)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP4(TPTH)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP5(TPTH)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=IN1 Pin=P1-4
+Added Pin To Net: NetName=IN2 Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=NetR1_1 Pin=TP1-1
+Added Pin To Net: NetName=NetR2_1 Pin=TP2-1
+Added Pin To Net: NetName=NetR3_1 Pin=TP3-1
+Added Pin To Net: NetName=NetR4_1 Pin=TP4-1
+Added Pin To Net: NetName=NetR5_1 Pin=TP5-1
+Change Net Name : Old Net Name=NetD?_1 New Net Name=NetD5_1
+Added Member To Class: ClassName=EJ3_sch Member=Component TP1 TP
+Added Member To Class: ClassName=EJ3_sch Member=Component TP2 TP
+Added Member To Class: ClassName=EJ3_sch Member=Component TP3 TP
+Added Member To Class: ClassName=EJ3_sch Member=Component TP4 TP
+Added Member To Class: ClassName=EJ3_sch Member=Component TP5 TP
+Added Room: Name=EJ3_sch
