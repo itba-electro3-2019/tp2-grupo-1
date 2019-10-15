@@ -114,6 +114,16 @@ Para este caso s\'i se aprecia una diferencia razonable entre ambas respuestas: 
 
 Este fen\'omeno se produce debido al tiempo de propagaci\'on de las entradas a trav\'es de las sucesivas etapas compuestas por compuertas l\'ogicas. Especialmente debido a que el camino circuital que recorren las se\~nales no les insume el mismo tiempo,  dado que es probable que una se\~nal determinada deba propagarse por m\'as compuertas que otras, gener\'andose una condici\'on de asimetr\'ia en el procesamiento. 
 
+Por \'ultimo, se advierte que el tiempo en el que se estabiliza la oscilaci\'on es cercano a los $2,35ns$ como se aprecia en imagen de abajo.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.9\textwidth]{../EJ3/Recursos/cropped_EJ3_negative_slope_response_zout.png}
+	\caption{Respuesta del circuito en flanco descendente - Establecimiento}
+   	\label{fig:EJ3_negative_slope_response_zout}
+\end{figure}
+
+
 Como conclusi\'on, se puede destacar que el circuito sin compensar no ser\'ia seguro de implementar en una aplicaci\'on que requiera una alta confiabilidad del circuito. Dependiendo de la aplicaci\'on y del nivel de confiabilidad deseado se debe tener en cuenta el agregado del mint\'ermino de compensaci\'on, como se pudo observar con anterioridad.
 
 
