@@ -15,33 +15,38 @@
 \BOOKMARK [3][-]{section*.33}{Tiempos de transici\363n}{section*.30}% 15
 \BOOKMARK [3][-]{section*.35}{Mediciones}{section*.30}% 16
 \BOOKMARK [2][-]{section*.37}{Conclusiones}{section*.2}% 17
-\BOOKMARK [1][-]{section*.38}{Ejercicio 3: Implementaci\363n de una tabla de verdad}{}% 18
-\BOOKMARK [1][-]{section*.39}{Ejercicio 4: Tiempos de propagaci\363n en compuerta CMOS}{}% 19
-\BOOKMARK [2][-]{section*.40}{Descripci\363n del an\341lisis}{section*.39}% 20
-\BOOKMARK [2][-]{section*.42}{Resultados}{section*.39}% 21
-\BOOKMARK [3][-]{section*.43}{Mediciones de tiempo de propagaci\363n}{section*.42}% 22
-\BOOKMARK [3][-]{section*.47}{Mediciones de tiempo rise y fall}{section*.42}% 23
-\BOOKMARK [3][-]{section*.51}{Overshoot}{section*.42}% 24
-\BOOKMARK [3][-]{section*.52}{Mediciones a altas frecuencias}{section*.42}% 25
-\BOOKMARK [2][-]{section*.55}{Conclusi\363n}{section*.39}% 26
-\BOOKMARK [1][-]{section*.56}{Ejercicio 5: TTL y MOS, entradas abiertas y compatibilidad entre tecnolog\355as}{}% 27
-\BOOKMARK [2][-]{section*.57}{Compuertas discretas con entrada desconectada}{section*.56}% 28
-\BOOKMARK [3][-]{section*.58}{Descripci\363n general}{section*.57}% 29
-\BOOKMARK [3][-]{section*.60}{Resultados}{section*.57}% 30
-\BOOKMARK [3][-]{section*.63}{An\341lisis de resultados}{section*.57}% 31
-\BOOKMARK [2][-]{section*.65}{Conexi\363n TTL y CMOS}{section*.56}% 32
-\BOOKMARK [3][-]{section*.66}{Descripci\363n general}{section*.65}% 33
-\BOOKMARK [3][-]{section*.68}{Resultados}{section*.65}% 34
-\BOOKMARK [3][-]{section*.70}{An\341lisis de resultados}{section*.65}% 35
-\BOOKMARK [3][-]{section*.72}{Soluciones propuestas}{section*.65}% 36
-\BOOKMARK [1][-]{section*.75}{Ejercicio 6: Dise\361o e implementaci\363n de multivibradores biestables}{}% 37
-\BOOKMARK [2][-]{section*.76}{Dise\361o de los circuitos}{section*.75}% 38
-\BOOKMARK [3][-]{section*.77}{Latch SR}{section*.76}% 39
-\BOOKMARK [3][-]{section*.80}{Flip-Flop D}{section*.76}% 40
-\BOOKMARK [2][-]{section*.83}{Implementaci\363n en PCB}{section*.75}% 41
-\BOOKMARK [2][-]{section*.86}{Medici\363n de par\341metros de los circuitos.}{section*.75}% 42
-\BOOKMARK [3][-]{section*.87}{Latch SR}{section*.86}% 43
-\BOOKMARK [3][-]{section*.94}{Flip-Flop D}{section*.86}% 44
-\BOOKMARK [2][-]{section*.100}{Conclusi\363n}{section*.75}% 45
-\BOOKMARK [1][-]{section*.101}{Ejercicio 7: Dise\361o de contadores sincr\363nicos y asincr\363nicos de 3 bits}{}% 46
-\BOOKMARK [1][-]{section*.102}{Ejercicio 8: Dise\361o de controlador para un Joystick Anal\363gico}{}% 47
+\BOOKMARK [1][-]{section*.38}{Ejercicio 2: Comparaci\363n de compuertas discretas con tecnolog\355a TTL y CMOS}{}% 18
+\BOOKMARK [2][-]{section*.39}{Marco te\363rico}{section*.38}% 19
+\BOOKMARK [2][-]{section*.43}{An\341lisis mediante hojas de datos}{section*.38}% 20
+\BOOKMARK [2][-]{section*.46}{Resultados experimentales}{section*.38}% 21
+\BOOKMARK [2][-]{section*.51}{Conclusiones}{section*.38}% 22
+\BOOKMARK [1][-]{section*.52}{Ejercicio 3: Implementaci\363n de una tabla de verdad}{}% 23
+\BOOKMARK [1][-]{section*.53}{Ejercicio 4: Tiempos de propagaci\363n en compuerta CMOS}{}% 24
+\BOOKMARK [2][-]{section*.54}{Descripci\363n del an\341lisis}{section*.53}% 25
+\BOOKMARK [2][-]{section*.56}{Resultados}{section*.53}% 26
+\BOOKMARK [3][-]{section*.57}{Mediciones de tiempo de propagaci\363n}{section*.56}% 27
+\BOOKMARK [3][-]{section*.61}{Mediciones de tiempo rise y fall}{section*.56}% 28
+\BOOKMARK [3][-]{section*.65}{Overshoot}{section*.56}% 29
+\BOOKMARK [3][-]{section*.66}{Mediciones a altas frecuencias}{section*.56}% 30
+\BOOKMARK [2][-]{section*.69}{Conclusi\363n}{section*.53}% 31
+\BOOKMARK [1][-]{section*.70}{Ejercicio 5: TTL y MOS, entradas abiertas y compatibilidad entre tecnolog\355as}{}% 32
+\BOOKMARK [2][-]{section*.71}{Compuertas discretas con entrada desconectada}{section*.70}% 33
+\BOOKMARK [3][-]{section*.72}{Descripci\363n general}{section*.71}% 34
+\BOOKMARK [3][-]{section*.74}{Resultados}{section*.71}% 35
+\BOOKMARK [3][-]{section*.77}{An\341lisis de resultados}{section*.71}% 36
+\BOOKMARK [2][-]{section*.79}{Conexi\363n TTL y CMOS}{section*.70}% 37
+\BOOKMARK [3][-]{section*.80}{Descripci\363n general}{section*.79}% 38
+\BOOKMARK [3][-]{section*.82}{Resultados}{section*.79}% 39
+\BOOKMARK [3][-]{section*.84}{An\341lisis de resultados}{section*.79}% 40
+\BOOKMARK [3][-]{section*.86}{Soluciones propuestas}{section*.79}% 41
+\BOOKMARK [1][-]{section*.89}{Ejercicio 6: Dise\361o e implementaci\363n de multivibradores biestables}{}% 42
+\BOOKMARK [2][-]{section*.90}{Dise\361o de los circuitos}{section*.89}% 43
+\BOOKMARK [3][-]{section*.91}{Latch SR}{section*.90}% 44
+\BOOKMARK [3][-]{section*.94}{Flip-Flop D}{section*.90}% 45
+\BOOKMARK [2][-]{section*.97}{Implementaci\363n en PCB}{section*.89}% 46
+\BOOKMARK [2][-]{section*.100}{Medici\363n de par\341metros de los circuitos.}{section*.89}% 47
+\BOOKMARK [3][-]{section*.101}{Latch SR}{section*.100}% 48
+\BOOKMARK [3][-]{section*.108}{Flip-Flop D}{section*.100}% 49
+\BOOKMARK [2][-]{section*.114}{Conclusi\363n}{section*.89}% 50
+\BOOKMARK [1][-]{section*.115}{Ejercicio 7: Dise\361o de contadores sincr\363nicos y asincr\363nicos de 3 bits}{}% 51
+\BOOKMARK [1][-]{section*.116}{Ejercicio 8: Dise\361o de controlador para un Joystick Anal\363gico}{}% 52

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.21)  14 OCT 2019 20:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.21)  14 OCT 2019 21:09
 entering extended mode
 **"c:/Users/Carlos/Desktop/ITBA/3er año/1er cuatri/E3/TP2/tp2-grupo-1/Informe/informe.tex"
 ("c:/Users/Carlos/Desktop/ITBA/3er año/1er cuatri/E3/TP2/tp2-grupo-1/Informe/informe.tex"
@@ -642,356 +642,492 @@ LaTeX Info: Redefining \nameref on input line 7.
 {C:/Users/Carlos/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] ("c:/Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.toc"
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-)
+ [2])
 \tf@toc=\write6
 \openout6 = `informe.toc'.
 
- [2] (ej1.tex
-<../EJ1/Recursos/rtl_circuit.png, id=283, 425.59pt x 388.45125pt>
+ [3] (ej1.tex
+<../EJ1/Recursos/rtl_circuit.png, id=312, 425.59pt x 388.45125pt>
 File: ../EJ1/Recursos/rtl_circuit.png Graphic file (type png)
 <use ../EJ1/Recursos/rtl_circuit.png>
 Package pdftex.def Info: ../EJ1/Recursos/rtl_circuit.png  used on input line 13.
 (pdftex.def)             Requested size: 148.95872pt x 135.95996pt.
-<../EJ1/Recursos/ttl_circuit.png, id=285, 472.76625pt x 363.3575pt>
+<../EJ1/Recursos/ttl_circuit.png, id=314, 472.76625pt x 363.3575pt>
 File: ../EJ1/Recursos/ttl_circuit.png Graphic file (type png)
 <use ../EJ1/Recursos/ttl_circuit.png>
 Package pdftex.def Info: ../EJ1/Recursos/ttl_circuit.png  used on input line 14.
 (pdftex.def)             Requested size: 165.47066pt x 127.17702pt.
-<../EJ1/Recursos/mos_circuit.png, id=286, 331.2375pt x 335.2525pt>
+<../EJ1/Recursos/mos_circuit.png, id=315, 331.2375pt x 335.2525pt>
 File: ../EJ1/Recursos/mos_circuit.png Graphic file (type png)
 <use ../EJ1/Recursos/mos_circuit.png>
 Package pdftex.def Info: ../EJ1/Recursos/mos_circuit.png  used on input line 15.
 (pdftex.def)             Requested size: 115.93484pt x 117.34013pt.
-<../EJ1/Recursos/cmos_circuit.png, id=287, 346.29375pt x 335.2525pt>
+<../EJ1/Recursos/cmos_circuit.png, id=316, 346.29375pt x 335.2525pt>
 File: ../EJ1/Recursos/cmos_circuit.png Graphic file (type png)
 <use ../EJ1/Recursos/cmos_circuit.png>
 Package pdftex.def Info: ../EJ1/Recursos/cmos_circuit.png  used on input line 16.
 (pdftex.def)             Requested size: 121.20462pt x 117.34013pt.
- [3 <../EJ1/Recursos/rtl_circuit.png> <../EJ1/Recursos/ttl_circuit.png> <../EJ1/Recursos/mos_circuit.png> <../EJ1/Recursos/cmos_circuit.png>]
-<../EJ1/Recursos/logic_leves.PNG, id=306, 427.5975pt x 367.3725pt>
+ [4 <../EJ1/Recursos/rtl_circuit.png> <../EJ1/Recursos/ttl_circuit.png> <../EJ1/Recursos/mos_circuit.png> <../EJ1/Recursos/cmos_circuit.png>]
+<../EJ1/Recursos/logic_leves.PNG, id=335, 427.5975pt x 367.3725pt>
 File: ../EJ1/Recursos/logic_leves.PNG Graphic file (type png)
 <use ../EJ1/Recursos/logic_leves.PNG>
 Package pdftex.def Info: ../EJ1/Recursos/logic_leves.PNG  used on input line 42.
 (pdftex.def)             Requested size: 192.41708pt x 165.31609pt.
-<../EJ1/Mediciones/Osciloscopio/Segundo_Intento/Voltage_Levels_RTL/cropped_scope_3.png, id=307, 1027.84pt x 674.52pt>
+<../EJ1/Mediciones/Osciloscopio/Segundo_Intento/Voltage_Levels_RTL/cropped_scope_3.png, id=336, 1027.84pt x 674.52pt>
 File: ../EJ1/Mediciones/Osciloscopio/Segundo_Intento/Voltage_Levels_RTL/cropped_scope_3.png Graphic file (type png)
 <use ../EJ1/Mediciones/Osciloscopio/Segundo_Intento/Voltage_Levels_RTL/cropped_scope_3.png>
 Package pdftex.def Info: ../EJ1/Mediciones/Osciloscopio/Segundo_Intento/Voltage_Levels_RTL/cropped_scope_3.png  used on input line 43.
 (pdftex.def)             Requested size: 236.39822pt x 155.13634pt.
- [4 <../EJ1/Recursos/logic_leves.PNG> <../EJ1/Mediciones/Osciloscopio/Segundo_Intento/Voltage_Levels_RTL/cropped_scope_3.png (PNG copy)>]
-<../EJ1/Recursos/time_logic.PNG, id=317, 539.01375pt x 321.45094pt>
+ [5 <../EJ1/Recursos/logic_leves.PNG> <../EJ1/Mediciones/Osciloscopio/Segundo_Intento/Voltage_Levels_RTL/cropped_scope_3.png (PNG copy)>]
+<../EJ1/Recursos/time_logic.PNG, id=346, 539.01375pt x 321.45094pt>
 File: ../EJ1/Recursos/time_logic.PNG Graphic file (type png)
 <use ../EJ1/Recursos/time_logic.PNG>
 Package pdftex.def Info: ../EJ1/Recursos/time_logic.PNG  used on input line 104.
 (pdftex.def)             Requested size: 323.41074pt x 192.87204pt.
-<../EJ1/Mediciones/Osciloscopio/Segundo_Intento/Times_RTL/cropped_scope_37.png, id=318, 1027.84pt x 674.52pt>
+<../EJ1/Mediciones/Osciloscopio/Segundo_Intento/Times_RTL/cropped_scope_37.png, id=347, 1027.84pt x 674.52pt>
 File: ../EJ1/Mediciones/Osciloscopio/Segundo_Intento/Times_RTL/cropped_scope_37.png Graphic file (type png)
 <use ../EJ1/Mediciones/Osciloscopio/Segundo_Intento/Times_RTL/cropped_scope_37.png>
 Package pdftex.def Info: ../EJ1/Mediciones/Osciloscopio/Segundo_Intento/Times_RTL/cropped_scope_37.png  used on input line 112.
 (pdftex.def)             Requested size: 205.56436pt x 134.90161pt.
-<../EJ1/Mediciones/Osciloscopio/Segundo_Intento/Times_RTL/cropped_scope_39.png, id=319, 1027.84pt x 674.52pt>
+<../EJ1/Mediciones/Osciloscopio/Segundo_Intento/Times_RTL/cropped_scope_39.png, id=348, 1027.84pt x 674.52pt>
 File: ../EJ1/Mediciones/Osciloscopio/Segundo_Intento/Times_RTL/cropped_scope_39.png Graphic file (type png)
 <use ../EJ1/Mediciones/Osciloscopio/Segundo_Intento/Times_RTL/cropped_scope_39.png>
 Package pdftex.def Info: ../EJ1/Mediciones/Osciloscopio/Segundo_Intento/Times_RTL/cropped_scope_39.png  used on input line 113.
 (pdftex.def)             Requested size: 205.56436pt x 134.90161pt.
- [5 <../EJ1/Recursos/time_logic.PNG>]
-<../EJ1/Recursos/maximum_current.png, id=327, 372.39125pt x 248.93pt>
+ [6 <../EJ1/Recursos/time_logic.PNG>]
+<../EJ1/Recursos/maximum_current.png, id=356, 372.39125pt x 248.93pt>
 File: ../EJ1/Recursos/maximum_current.png Graphic file (type png)
 <use ../EJ1/Recursos/maximum_current.png>
 Package pdftex.def Info: ../EJ1/Recursos/maximum_current.png  used on input line 165.
 (pdftex.def)             Requested size: 167.57451pt x 112.01746pt.
-<../EJ1/Recursos/maximum_current_low.png, id=328, 425.59pt x 336.25626pt>
+<../EJ1/Recursos/maximum_current_low.png, id=357, 425.59pt x 336.25626pt>
 File: ../EJ1/Recursos/maximum_current_low.png Graphic file (type png)
 <use ../EJ1/Recursos/maximum_current_low.png>
 Package pdftex.def Info: ../EJ1/Recursos/maximum_current_low.png  used on input line 166.
 (pdftex.def)             Requested size: 191.51372pt x 151.3139pt.
- [6 <../EJ1/Mediciones/Osciloscopio/Segundo_Intento/Times_RTL/cropped_scope_37.png (PNG copy)> <../EJ1/Mediciones/Osciloscopio/Segundo_Intento/Times_RTL/cropped_scope_39.png (PNG copy)>]
-<../EJ1/Recursos/esquematico.PNG, id=337, 667.74469pt x 440.39531pt>
+ [7 <../EJ1/Mediciones/Osciloscopio/Segundo_Intento/Times_RTL/cropped_scope_37.png (PNG copy)> <../EJ1/Mediciones/Osciloscopio/Segundo_Intento/Times_RTL/cropped_scope_39.png (PNG copy)>]
+<../EJ1/Recursos/esquematico.PNG, id=367, 667.74469pt x 440.39531pt>
 File: ../EJ1/Recursos/esquematico.PNG Graphic file (type png)
 <use ../EJ1/Recursos/esquematico.PNG>
 Package pdftex.def Info: ../EJ1/Recursos/esquematico.PNG  used on input line 213.
 (pdftex.def)             Requested size: 267.09314pt x 176.155pt.
-<../EJ1/Recursos/pcb3d.PNG, id=338, 450.18187pt x 453.19313pt>
+<../EJ1/Recursos/pcb3d.PNG, id=368, 450.18187pt x 453.19313pt>
 File: ../EJ1/Recursos/pcb3d.PNG Graphic file (type png)
 <use ../EJ1/Recursos/pcb3d.PNG>
 Package pdftex.def Info: ../EJ1/Recursos/pcb3d.PNG  used on input line 214.
 (pdftex.def)             Requested size: 135.0556pt x 135.95898pt.
- [7 <../EJ1/Recursos/maximum_current.png> <../EJ1/Recursos/maximum_current_low.png>]
-<../EJ1/Mediciones/Osciloscopio/Observaciones/Pull_down_error/cropped_scope_14.png, id=349, 1027.84pt x 674.52pt>
+ [8 <../EJ1/Recursos/maximum_current.png> <../EJ1/Recursos/maximum_current_low.png>]
+<../EJ1/Mediciones/Osciloscopio/Observaciones/Pull_down_error/cropped_scope_14.png, id=378, 1027.84pt x 674.52pt>
 File: ../EJ1/Mediciones/Osciloscopio/Observaciones/Pull_down_error/cropped_scope_14.png Graphic file (type png)
 <use ../EJ1/Mediciones/Osciloscopio/Observaciones/Pull_down_error/cropped_scope_14.png>
 Package pdftex.def Info: ../EJ1/Mediciones/Osciloscopio/Observaciones/Pull_down_error/cropped_scope_14.png  used on input line 229.
 (pdftex.def)             Requested size: 205.56436pt x 134.90161pt.
-<../EJ1/Mediciones/Osciloscopio/Observaciones/Pull_down_error/cropped_scope_15.png, id=350, 1027.84pt x 674.52pt>
+<../EJ1/Mediciones/Osciloscopio/Observaciones/Pull_down_error/cropped_scope_15.png, id=379, 1027.84pt x 674.52pt>
 File: ../EJ1/Mediciones/Osciloscopio/Observaciones/Pull_down_error/cropped_scope_15.png Graphic file (type png)
 <use ../EJ1/Mediciones/Osciloscopio/Observaciones/Pull_down_error/cropped_scope_15.png>
 Package pdftex.def Info: ../EJ1/Mediciones/Osciloscopio/Observaciones/Pull_down_error/cropped_scope_15.png  used on input line 230.
 (pdftex.def)             Requested size: 205.56436pt x 134.90161pt.
-<../EJ1/Mediciones/Osciloscopio/Observaciones/Mejora_polarizacion_RTL/cropped_scope_20.png, id=352, 1027.84pt x 708.6475pt>
+<../EJ1/Mediciones/Osciloscopio/Observaciones/Mejora_polarizacion_RTL/cropped_scope_20.png, id=381, 1027.84pt x 708.6475pt>
 File: ../EJ1/Mediciones/Osciloscopio/Observaciones/Mejora_polarizacion_RTL/cropped_scope_20.png Graphic file (type png)
 <use ../EJ1/Mediciones/Osciloscopio/Observaciones/Mejora_polarizacion_RTL/cropped_scope_20.png>
 Package pdftex.def Info: ../EJ1/Mediciones/Osciloscopio/Observaciones/Mejora_polarizacion_RTL/cropped_scope_20.png  used on input line 245.
 (pdftex.def)             Requested size: 205.56436pt x 141.72699pt.
-<../EJ1/Mediciones/Osciloscopio/Observaciones/Mejora_polarizacion_RTL/cropped_scope_21.png, id=353, 1027.84pt x 708.6475pt>
+<../EJ1/Mediciones/Osciloscopio/Observaciones/Mejora_polarizacion_RTL/cropped_scope_21.png, id=382, 1027.84pt x 708.6475pt>
 File: ../EJ1/Mediciones/Osciloscopio/Observaciones/Mejora_polarizacion_RTL/cropped_scope_21.png Graphic file (type png)
 <use ../EJ1/Mediciones/Osciloscopio/Observaciones/Mejora_polarizacion_RTL/cropped_scope_21.png>
 Package pdftex.def Info: ../EJ1/Mediciones/Osciloscopio/Observaciones/Mejora_polarizacion_RTL/cropped_scope_21.png  used on input line 246.
 (pdftex.def)             Requested size: 205.56436pt x 141.72699pt.
- [8 <../EJ1/Recursos/esquematico.PNG> <../EJ1/Recursos/pcb3d.PNG> <../EJ1/Mediciones/Osciloscopio/Observaciones/Pull_down_error/cropped_scope_14.png (PNG copy)> <../EJ1/Mediciones/Osciloscopio/Observaciones/Pull_down_error/cropped_scope_15.png (PNG copy)>]
-<../EJ1/Mediciones/Osciloscopio/Observaciones/Mejora_transicion_MOS/cropped_scope_14.png, id=364, 1027.84pt x 674.52pt>
+ [9 <../EJ1/Recursos/esquematico.PNG> <../EJ1/Recursos/pcb3d.PNG> <../EJ1/Mediciones/Osciloscopio/Observaciones/Pull_down_error/cropped_scope_14.png (PNG copy)> <../EJ1/Mediciones/Osciloscopio/Observaciones/Pull_down_error/cropped_scope_15.png (PNG copy)>]
+<../EJ1/Mediciones/Osciloscopio/Observaciones/Mejora_transicion_MOS/cropped_scope_14.png, id=393, 1027.84pt x 674.52pt>
 File: ../EJ1/Mediciones/Osciloscopio/Observaciones/Mejora_transicion_MOS/cropped_scope_14.png Graphic file (type png)
 <use ../EJ1/Mediciones/Osciloscopio/Observaciones/Mejora_transicion_MOS/cropped_scope_14.png>
 Package pdftex.def Info: ../EJ1/Mediciones/Osciloscopio/Observaciones/Mejora_transicion_MOS/cropped_scope_14.png  used on input line 261.
 (pdftex.def)             Requested size: 205.56436pt x 134.90161pt.
-<../EJ1/Mediciones/Osciloscopio/Observaciones/Mejora_transicion_MOS/cropped_scope_15.png, id=365, 1027.84pt x 674.52pt>
+<../EJ1/Mediciones/Osciloscopio/Observaciones/Mejora_transicion_MOS/cropped_scope_15.png, id=394, 1027.84pt x 674.52pt>
 File: ../EJ1/Mediciones/Osciloscopio/Observaciones/Mejora_transicion_MOS/cropped_scope_15.png Graphic file (type png)
 <use ../EJ1/Mediciones/Osciloscopio/Observaciones/Mejora_transicion_MOS/cropped_scope_15.png>
 Package pdftex.def Info: ../EJ1/Mediciones/Osciloscopio/Observaciones/Mejora_transicion_MOS/cropped_scope_15.png  used on input line 262.
 (pdftex.def)             Requested size: 205.56436pt x 134.90161pt.
-) [9 <../EJ1/Mediciones/Osciloscopio/Observaciones/Mejora_polarizacion_RTL/cropped_scope_20.png (PNG copy)> <../EJ1/Mediciones/Osciloscopio/Observaciones/Mejora_polarizacion_RTL/cropped_scope_21.png (PNG copy)> <../EJ1/Mediciones/Osciloscopio/Observaciones/Mejora_transicion_MOS/cropped_scope_14.png (PNG copy)> <../EJ1/Mediciones/Osciloscopio/Observaciones/Mejora_transicion_MOS/cropped_scope_15.png (PNG copy)>] (ej3.tex) [10] (ej4.tex
-<../EJ4/Recursos/LOAD_CIRC.png, id=376, 714.87074pt x 546.24075pt>
+) [10 <../EJ1/Mediciones/Osciloscopio/Observaciones/Mejora_polarizacion_RTL/cropped_scope_20.png (PNG copy)> <../EJ1/Mediciones/Osciloscopio/Observaciones/Mejora_polarizacion_RTL/cropped_scope_21.png (PNG copy)> <../EJ1/Mediciones/Osciloscopio/Observaciones/Mejora_transicion_MOS/cropped_scope_14.png (PNG copy)> <../EJ1/Mediciones/Osciloscopio/Observaciones/Mejora_transicion_MOS/cropped_scope_15.png (PNG copy)>] (ej2.tex
+LaTeX Font Info:    Try loading font information for U+lasy on input line 1.
+ ("C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ulasy.fd"
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+<../EJ2/Recursos/schottky_transistor_symbol.png, id=400, 1027.84pt x 1027.84pt>
+File: ../EJ2/Recursos/schottky_transistor_symbol.png Graphic file (type png)
+<use ../EJ2/Recursos/schottky_transistor_symbol.png>
+Package pdftex.def Info: ../EJ2/Recursos/schottky_transistor_symbol.png  used on input line 19.
+(pdftex.def)             Requested size: 45.52718pt x 45.51367pt.
+<../EJ2/Recursos/schottky_transistor_circuit.png, id=401, 1027.84pt x 1027.84pt>
+File: ../EJ2/Recursos/schottky_transistor_circuit.png Graphic file (type png)
+<use ../EJ2/Recursos/schottky_transistor_circuit.png>
+Package pdftex.def Info: ../EJ2/Recursos/schottky_transistor_circuit.png  used on input line 20.
+(pdftex.def)             Requested size: 45.52718pt x 45.51367pt.
+
+Overfull \hbox (12.54443pt too wide) in paragraph at lines 22--22
+[][]\OT1/cmr/m/n/10 ''' [] 
+ []
+
+<../EJ2/Recursos/compatible_gates.jpg, id=404, 679.53876pt x 298.11375pt>
+File: ../EJ2/Recursos/compatible_gates.jpg Graphic file (type jpg)
+<use ../EJ2/Recursos/compatible_gates.jpg>
+Package pdftex.def Info: ../EJ2/Recursos/compatible_gates.jpg  used on input line 34.
+(pdftex.def)             Requested size: 409.71692pt x 179.743pt.
+
+Overfull \hbox (12.54443pt too wide) in paragraph at lines 35--35
+[][]\OT1/cmr/m/n/10 ''' [] 
+ []
+
+<../EJ2/Recursos/incompatible_gates.jpg, id=405, 675.52374pt x 297.11pt>
+File: ../EJ2/Recursos/incompatible_gates.jpg Graphic file (type jpg)
+<use ../EJ2/Recursos/incompatible_gates.jpg>
+Package pdftex.def Info: ../EJ2/Recursos/incompatible_gates.jpg  used on input line 41.
+(pdftex.def)             Requested size: 409.71692pt x 180.20772pt.
+
+Overfull \hbox (12.54443pt too wide) in paragraph at lines 42--42
+[][]\OT1/cmr/m/n/10 ''' [] 
+ []
+
+[11 <../EJ2/Recursos/schottky_transistor_symbol.png> <../EJ2/Recursos/schottky_transistor_circuit.png> <../EJ2/Recursos/compatible_gates.jpg>]
+Overfull \hbox (12.54443pt too wide) in paragraph at lines 70--70
+[][]\OT1/cmr/m/n/10 ''' [] 
+ []
+
+
+Overfull \hbox (13.33989pt too wide) in paragraph at lines 83--87
+[][]\OT1/cmr/m/n/10 '''[] 
+ []
+
+
+Overfull \hbox (12.54443pt too wide) in paragraph at lines 87--87
+[][]\OT1/cmr/m/n/10 ''' [] 
+ []
+
+[12 <../EJ2/Recursos/incompatible_gates.jpg>]
+<../EJ2/Recursos/scope_32.png, id=439, 767.86874pt x 511.15968pt>
+File: ../EJ2/Recursos/scope_32.png Graphic file (type png)
+<use ../EJ2/Recursos/scope_32.png>
+Package pdftex.def Info: ../EJ2/Recursos/scope_32.png  used on input line 105.
+(pdftex.def)             Requested size: 227.62206pt x 151.52396pt.
+<../EJ2/Recursos/LS_L_v_HC_H.png, id=440, 4607.2125pt x 3429.2115pt>
+File: ../EJ2/Recursos/LS_L_v_HC_H.png Graphic file (type png)
+<use ../EJ2/Recursos/LS_L_v_HC_H.png>
+Package pdftex.def Info: ../EJ2/Recursos/LS_L_v_HC_H.png  used on input line 106.
+(pdftex.def)             Requested size: 227.62206pt x 169.3776pt.
+
+Overfull \hbox (36.54443pt too wide) in paragraph at lines 104--108
+ [][]\OT1/cmr/m/n/10 '''[] 
+ []
+
+
+Overfull \hbox (12.54443pt too wide) in paragraph at lines 108--108
+[][]\OT1/cmr/m/n/10 ''' [] 
+ []
+
+<../EJ2/Recursos/scope_29.png, id=441, 767.86874pt x 510.40688pt>
+File: ../EJ2/Recursos/scope_29.png Graphic file (type png)
+<use ../EJ2/Recursos/scope_29.png>
+Package pdftex.def Info: ../EJ2/Recursos/scope_29.png  used on input line 114.
+(pdftex.def)             Requested size: 227.62206pt x 151.30081pt.
+<../EJ2/Recursos/LS_H_v_HC_L.png, id=442, 921.4425pt x 685.8423pt>
+File: ../EJ2/Recursos/LS_H_v_HC_L.png Graphic file (type png)
+<use ../EJ2/Recursos/LS_H_v_HC_L.png>
+Package pdftex.def Info: ../EJ2/Recursos/LS_H_v_HC_L.png  used on input line 115.
+(pdftex.def)             Requested size: 227.62206pt x 169.41945pt.
+
+Overfull \hbox (36.54443pt too wide) in paragraph at lines 113--117
+ [][]\OT1/cmr/m/n/10 '''[] 
+ []
+
+
+Overfull \hbox (12.54443pt too wide) in paragraph at lines 117--117
+[][]\OT1/cmr/m/n/10 ''' [] 
+ []
+
+<../EJ2/Recursos/scope_38.png, id=443, 767.86874pt x 509.65407pt>
+File: ../EJ2/Recursos/scope_38.png Graphic file (type png)
+<use ../EJ2/Recursos/scope_38.png>
+Package pdftex.def Info: ../EJ2/Recursos/scope_38.png  used on input line 124.
+(pdftex.def)             Requested size: 227.62206pt x 151.07765pt.
+<../EJ2/Recursos/LS_L_v_HCT_H.png, id=444, 921.4425pt x 685.8423pt>
+File: ../EJ2/Recursos/LS_L_v_HCT_H.png Graphic file (type png)
+<use ../EJ2/Recursos/LS_L_v_HCT_H.png>
+Package pdftex.def Info: ../EJ2/Recursos/LS_L_v_HCT_H.png  used on input line 125.
+(pdftex.def)             Requested size: 227.62206pt x 169.41945pt.
+
+Overfull \hbox (36.54443pt too wide) in paragraph at lines 123--127
+ [][]\OT1/cmr/m/n/10 '''[] 
+ []
+
+
+Overfull \hbox (12.54443pt too wide) in paragraph at lines 127--127
+[][]\OT1/cmr/m/n/10 ''' [] 
+ []
+
+<../EJ2/Recursos/scope_35.png, id=445, 767.86874pt x 507.39563pt>
+File: ../EJ2/Recursos/scope_35.png Graphic file (type png)
+<use ../EJ2/Recursos/scope_35.png>
+Package pdftex.def Info: ../EJ2/Recursos/scope_35.png  used on input line 133.
+(pdftex.def)             Requested size: 227.62206pt x 150.40817pt.
+<../EJ2/Recursos/LS_H_v_HCT_L.png, id=446, 921.4425pt x 685.8423pt>
+File: ../EJ2/Recursos/LS_H_v_HCT_L.png Graphic file (type png)
+<use ../EJ2/Recursos/LS_H_v_HCT_L.png>
+Package pdftex.def Info: ../EJ2/Recursos/LS_H_v_HCT_L.png  used on input line 134.
+(pdftex.def)             Requested size: 227.62206pt x 169.41945pt.
+
+Overfull \hbox (36.54443pt too wide) in paragraph at lines 132--136
+ [][]\OT1/cmr/m/n/10 '''[] 
+ []
+
+
+Overfull \hbox (12.54443pt too wide) in paragraph at lines 136--136
+[][]\OT1/cmr/m/n/10 ''' [] 
+ []
+
+[13 <../EJ2/Recursos/scope_32.png> <../EJ2/Recursos/LS_L_v_HC_H.png> <../EJ2/Recursos/scope_29.png> <../EJ2/Recursos/LS_H_v_HC_L.png>]) [14 <../EJ2/Recursos/scope_38.png> <../EJ2/Recursos/LS_L_v_HCT_H.png> <../EJ2/Recursos/scope_35.png> <../EJ2/Recursos/LS_H_v_HCT_L.png>] (ej3.tex) [15] (ej4.tex
+<../EJ4/Recursos/LOAD_CIRC.png, id=469, 714.87074pt x 546.24075pt>
 File: ../EJ4/Recursos/LOAD_CIRC.png Graphic file (type png)
 <use ../EJ4/Recursos/LOAD_CIRC.png>
 Package pdftex.def Info: ../EJ4/Recursos/LOAD_CIRC.png  used on input line 12.
 (pdftex.def)             Requested size: 364.19667pt x 278.29572pt.
-<../EJ4/Recursos/PROP_NOLOAD_FALL.png, id=379, 615.4995pt x 403.5075pt>
+<../EJ4/Recursos/PROP_NOLOAD_FALL.png, id=472, 615.4995pt x 403.5075pt>
 File: ../EJ4/Recursos/PROP_NOLOAD_FALL.png Graphic file (type png)
 <use ../EJ4/Recursos/PROP_NOLOAD_FALL.png>
 Package pdftex.def Info: ../EJ4/Recursos/PROP_NOLOAD_FALL.png  used on input line 25.
 (pdftex.def)             Requested size: 182.09486pt x 119.37846pt.
-<../EJ4/Recursos/PROP_NOLOAD_RISE.png, id=380, 616.704pt x 403.5075pt>
+<../EJ4/Recursos/PROP_NOLOAD_RISE.png, id=473, 616.704pt x 403.5075pt>
 File: ../EJ4/Recursos/PROP_NOLOAD_RISE.png Graphic file (type png)
 <use ../EJ4/Recursos/PROP_NOLOAD_RISE.png>
 Package pdftex.def Info: ../EJ4/Recursos/PROP_NOLOAD_RISE.png  used on input line 26.
 (pdftex.def)             Requested size: 182.09486pt x 119.1445pt.
-<../EJ4/Recursos/PROP_LOAD_FALL.png, id=381, 616.704pt x 404.712pt>
+<../EJ4/Recursos/PROP_LOAD_FALL.png, id=474, 616.704pt x 404.712pt>
 File: ../EJ4/Recursos/PROP_LOAD_FALL.png Graphic file (type png)
 <use ../EJ4/Recursos/PROP_LOAD_FALL.png>
 Package pdftex.def Info: ../EJ4/Recursos/PROP_LOAD_FALL.png  used on input line 34.
 (pdftex.def)             Requested size: 182.09486pt x 119.50015pt.
-<../EJ4/Recursos/PROP_LOAD_RISE.png, id=382, 616.704pt x 404.712pt>
+<../EJ4/Recursos/PROP_LOAD_RISE.png, id=475, 616.704pt x 404.712pt>
 File: ../EJ4/Recursos/PROP_LOAD_RISE.png Graphic file (type png)
 <use ../EJ4/Recursos/PROP_LOAD_RISE.png>
 Package pdftex.def Info: ../EJ4/Recursos/PROP_LOAD_RISE.png  used on input line 35.
 (pdftex.def)             Requested size: 182.09486pt x 119.50015pt.
- [11 <../EJ4/Recursos/LOAD_CIRC.png>]
-<../EJ4/Recursos/TRAN_NOLOAD_FALL.png, id=394, 616.704pt x 407.121pt>
+ [16 <../EJ4/Recursos/LOAD_CIRC.png>]
+<../EJ4/Recursos/TRAN_NOLOAD_FALL.png, id=487, 616.704pt x 407.121pt>
 File: ../EJ4/Recursos/TRAN_NOLOAD_FALL.png Graphic file (type png)
 <use ../EJ4/Recursos/TRAN_NOLOAD_FALL.png>
 Package pdftex.def Info: ../EJ4/Recursos/TRAN_NOLOAD_FALL.png  used on input line 63.
 (pdftex.def)             Requested size: 182.09486pt x 120.21147pt.
-<../EJ4/Recursos/TRAN_NOLOAD_RISE.png, id=395, 616.704pt x 406.51875pt>
+<../EJ4/Recursos/TRAN_NOLOAD_RISE.png, id=488, 616.704pt x 406.51875pt>
 File: ../EJ4/Recursos/TRAN_NOLOAD_RISE.png Graphic file (type png)
 <use ../EJ4/Recursos/TRAN_NOLOAD_RISE.png>
 Package pdftex.def Info: ../EJ4/Recursos/TRAN_NOLOAD_RISE.png  used on input line 64.
 (pdftex.def)             Requested size: 182.09486pt x 120.03363pt.
-<../EJ4/Recursos/TRAN_LOAD_FALL.png, id=396, 616.704pt x 405.31425pt>
+<../EJ4/Recursos/TRAN_LOAD_FALL.png, id=489, 616.704pt x 405.31425pt>
 File: ../EJ4/Recursos/TRAN_LOAD_FALL.png Graphic file (type png)
 <use ../EJ4/Recursos/TRAN_LOAD_FALL.png>
 Package pdftex.def Info: ../EJ4/Recursos/TRAN_LOAD_FALL.png  used on input line 72.
 (pdftex.def)             Requested size: 182.09486pt x 119.67798pt.
-<../EJ4/Recursos/TRAN_LOAD_RISE.png, id=397, 616.704pt x 405.31425pt>
+<../EJ4/Recursos/TRAN_LOAD_RISE.png, id=490, 616.704pt x 405.31425pt>
 File: ../EJ4/Recursos/TRAN_LOAD_RISE.png Graphic file (type png)
 <use ../EJ4/Recursos/TRAN_LOAD_RISE.png>
 Package pdftex.def Info: ../EJ4/Recursos/TRAN_LOAD_RISE.png  used on input line 73.
 (pdftex.def)             Requested size: 182.09486pt x 119.67798pt.
- [12 <../EJ4/Recursos/PROP_NOLOAD_FALL.png> <../EJ4/Recursos/PROP_NOLOAD_RISE.png> <../EJ4/Recursos/PROP_LOAD_FALL.png> <../EJ4/Recursos/PROP_LOAD_RISE.png>]
-<../EJ4/Recursos/DC_VAR_FALL.png, id=408, 616.704pt x 404.712pt>
+ [17 <../EJ4/Recursos/PROP_NOLOAD_FALL.png> <../EJ4/Recursos/PROP_NOLOAD_RISE.png> <../EJ4/Recursos/PROP_LOAD_FALL.png> <../EJ4/Recursos/PROP_LOAD_RISE.png>]
+<../EJ4/Recursos/DC_VAR_FALL.png, id=501, 616.704pt x 404.712pt>
 File: ../EJ4/Recursos/DC_VAR_FALL.png Graphic file (type png)
 <use ../EJ4/Recursos/DC_VAR_FALL.png>
 Package pdftex.def Info: ../EJ4/Recursos/DC_VAR_FALL.png  used on input line 105.
 (pdftex.def)             Requested size: 182.09486pt x 119.50015pt.
-<../EJ4/Recursos/DC_VAR_RISE.png, id=409, 615.4995pt x 404.10976pt>
+<../EJ4/Recursos/DC_VAR_RISE.png, id=502, 615.4995pt x 404.10976pt>
 File: ../EJ4/Recursos/DC_VAR_RISE.png Graphic file (type png)
 <use ../EJ4/Recursos/DC_VAR_RISE.png>
 Package pdftex.def Info: ../EJ4/Recursos/DC_VAR_RISE.png  used on input line 106.
 (pdftex.def)             Requested size: 182.09486pt x 119.55664pt.
- [13 <../EJ4/Recursos/TRAN_NOLOAD_FALL.png> <../EJ4/Recursos/TRAN_NOLOAD_RISE.png> <../EJ4/Recursos/TRAN_LOAD_FALL.png> <../EJ4/Recursos/TRAN_LOAD_RISE.png>]
+ [18 <../EJ4/Recursos/TRAN_NOLOAD_FALL.png> <../EJ4/Recursos/TRAN_NOLOAD_RISE.png> <../EJ4/Recursos/TRAN_LOAD_FALL.png> <../EJ4/Recursos/TRAN_LOAD_RISE.png>]
 Overfull \hbox (2.45116pt too wide) in paragraph at lines 112--113
 []\OT1/cmr/m/n/10 Se ob-ser-va que la ali-men-ta-cion tie-ne un tran-si-to-rio su-bamor-ti-gua-do coin-ci-den-te con los flan-cos de transicion
  []
 
-<../EJ4/Recursos/DC_VAR_FALL_CAP.png, id=423, 616.704pt x 403.5075pt>
+<../EJ4/Recursos/DC_VAR_FALL_CAP.png, id=513, 616.704pt x 403.5075pt>
 File: ../EJ4/Recursos/DC_VAR_FALL_CAP.png Graphic file (type png)
 <use ../EJ4/Recursos/DC_VAR_FALL_CAP.png>
 Package pdftex.def Info: ../EJ4/Recursos/DC_VAR_FALL_CAP.png  used on input line 121.
 (pdftex.def)             Requested size: 182.09486pt x 119.1445pt.
-<../EJ4/Recursos/DC_VAR_RISE_CAP.png, id=424, 616.704pt x 406.51875pt>
+<../EJ4/Recursos/DC_VAR_RISE_CAP.png, id=514, 616.704pt x 406.51875pt>
 File: ../EJ4/Recursos/DC_VAR_RISE_CAP.png Graphic file (type png)
 <use ../EJ4/Recursos/DC_VAR_RISE_CAP.png>
 Package pdftex.def Info: ../EJ4/Recursos/DC_VAR_RISE_CAP.png  used on input line 122.
 (pdftex.def)             Requested size: 182.09486pt x 120.03363pt.
-) [14 <../EJ4/Recursos/DC_VAR_FALL.png> <../EJ4/Recursos/DC_VAR_RISE.png> <../EJ4/Recursos/DC_VAR_FALL_CAP.png> <../EJ4/Recursos/DC_VAR_RISE_CAP.png>] (ej5.tex
-<../EJ5/Recursos/ttl_open.png, id=433, 199.74625pt x 161.60374pt>
+) [19 <../EJ4/Recursos/DC_VAR_FALL.png> <../EJ4/Recursos/DC_VAR_RISE.png> <../EJ4/Recursos/DC_VAR_FALL_CAP.png> <../EJ4/Recursos/DC_VAR_RISE_CAP.png>] (ej5.tex
+<../EJ5/Recursos/ttl_open.png, id=524, 199.74625pt x 161.60374pt>
 File: ../EJ5/Recursos/ttl_open.png Graphic file (type png)
 <use ../EJ5/Recursos/ttl_open.png>
 Package pdftex.def Info: ../EJ5/Recursos/ttl_open.png  used on input line 17.
 (pdftex.def)             Requested size: 159.79721pt x 129.28316pt.
-<../EJ5/Recursos/cmos_open.png, id=434, 186.6975pt x 101.37875pt>
+<../EJ5/Recursos/cmos_open.png, id=525, 186.6975pt x 101.37875pt>
 File: ../EJ5/Recursos/cmos_open.png Graphic file (type png)
 <use ../EJ5/Recursos/cmos_open.png>
 Package pdftex.def Info: ../EJ5/Recursos/cmos_open.png  used on input line 18.
 (pdftex.def)             Requested size: 149.35818pt x 81.1031pt.
-<../EJ5/Mediciones/Osciloscopio/CMOS_OR_SOLA/cropped_entrada_estado_bajo.png, id=437, 1027.84pt x 674.52pt>
+<../EJ5/Mediciones/Osciloscopio/CMOS_OR_SOLA/cropped_entrada_estado_bajo.png, id=528, 1027.84pt x 674.52pt>
 File: ../EJ5/Mediciones/Osciloscopio/CMOS_OR_SOLA/cropped_entrada_estado_bajo.png Graphic file (type png)
 <use ../EJ5/Mediciones/Osciloscopio/CMOS_OR_SOLA/cropped_entrada_estado_bajo.png>
 Package pdftex.def Info: ../EJ5/Mediciones/Osciloscopio/CMOS_OR_SOLA/cropped_entrada_estado_bajo.png  used on input line 34.
 (pdftex.def)             Requested size: 205.56436pt x 134.90161pt.
-<../EJ5/Mediciones/Osciloscopio/CMOS_OR_SOLA/cropped_entrada_estado_alto.png, id=438, 1027.84pt x 674.52pt>
+<../EJ5/Mediciones/Osciloscopio/CMOS_OR_SOLA/cropped_entrada_estado_alto.png, id=529, 1027.84pt x 674.52pt>
 File: ../EJ5/Mediciones/Osciloscopio/CMOS_OR_SOLA/cropped_entrada_estado_alto.png Graphic file (type png)
 <use ../EJ5/Mediciones/Osciloscopio/CMOS_OR_SOLA/cropped_entrada_estado_alto.png>
 Package pdftex.def Info: ../EJ5/Mediciones/Osciloscopio/CMOS_OR_SOLA/cropped_entrada_estado_alto.png  used on input line 35.
 (pdftex.def)             Requested size: 205.56436pt x 134.90161pt.
-<../EJ5/Mediciones/Osciloscopio/CMOS_OR_SOLA/cropped_entrada_al_aire.png, id=439, 1027.84pt x 674.52pt>
+<../EJ5/Mediciones/Osciloscopio/CMOS_OR_SOLA/cropped_entrada_al_aire.png, id=530, 1027.84pt x 674.52pt>
 File: ../EJ5/Mediciones/Osciloscopio/CMOS_OR_SOLA/cropped_entrada_al_aire.png Graphic file (type png)
 <use ../EJ5/Mediciones/Osciloscopio/CMOS_OR_SOLA/cropped_entrada_al_aire.png>
 Package pdftex.def Info: ../EJ5/Mediciones/Osciloscopio/CMOS_OR_SOLA/cropped_entrada_al_aire.png  used on input line 36.
 (pdftex.def)             Requested size: 205.56436pt x 134.90161pt.
-<../EJ5/Mediciones/Osciloscopio/CMOS_OR_SOLA/cropped_entrada_ruido.png, id=440, 1027.84pt x 674.52pt>
+<../EJ5/Mediciones/Osciloscopio/CMOS_OR_SOLA/cropped_entrada_ruido.png, id=531, 1027.84pt x 674.52pt>
 File: ../EJ5/Mediciones/Osciloscopio/CMOS_OR_SOLA/cropped_entrada_ruido.png Graphic file (type png)
 <use ../EJ5/Mediciones/Osciloscopio/CMOS_OR_SOLA/cropped_entrada_ruido.png>
 Package pdftex.def Info: ../EJ5/Mediciones/Osciloscopio/CMOS_OR_SOLA/cropped_entrada_ruido.png  used on input line 37.
 (pdftex.def)             Requested size: 205.56436pt x 134.90161pt.
- [15 <../EJ5/Recursos/ttl_open.png> <../EJ5/Recursos/cmos_open.png>]
-<../EJ5/Mediciones/Osciloscopio/TTL_AND_SOLA/cropped_entrada_estado_bajo.png, id=450, 1027.84pt x 674.52pt>
+ [20 <../EJ5/Recursos/ttl_open.png> <../EJ5/Recursos/cmos_open.png>]
+<../EJ5/Mediciones/Osciloscopio/TTL_AND_SOLA/cropped_entrada_estado_bajo.png, id=541, 1027.84pt x 674.52pt>
 File: ../EJ5/Mediciones/Osciloscopio/TTL_AND_SOLA/cropped_entrada_estado_bajo.png Graphic file (type png)
 <use ../EJ5/Mediciones/Osciloscopio/TTL_AND_SOLA/cropped_entrada_estado_bajo.png>
 Package pdftex.def Info: ../EJ5/Mediciones/Osciloscopio/TTL_AND_SOLA/cropped_entrada_estado_bajo.png  used on input line 46.
 (pdftex.def)             Requested size: 205.56436pt x 134.90161pt.
-<../EJ5/Mediciones/Osciloscopio/TTL_AND_SOLA/cropped_entrada_estado_alto.png, id=451, 1027.84pt x 674.52pt>
+<../EJ5/Mediciones/Osciloscopio/TTL_AND_SOLA/cropped_entrada_estado_alto.png, id=542, 1027.84pt x 674.52pt>
 File: ../EJ5/Mediciones/Osciloscopio/TTL_AND_SOLA/cropped_entrada_estado_alto.png Graphic file (type png)
 <use ../EJ5/Mediciones/Osciloscopio/TTL_AND_SOLA/cropped_entrada_estado_alto.png>
 Package pdftex.def Info: ../EJ5/Mediciones/Osciloscopio/TTL_AND_SOLA/cropped_entrada_estado_alto.png  used on input line 47.
 (pdftex.def)             Requested size: 205.56436pt x 134.90161pt.
-<../EJ5/Mediciones/Osciloscopio/TTL_AND_SOLA/cropped_entrada_al_aire.png, id=452, 1027.84pt x 674.52pt>
+<../EJ5/Mediciones/Osciloscopio/TTL_AND_SOLA/cropped_entrada_al_aire.png, id=543, 1027.84pt x 674.52pt>
 File: ../EJ5/Mediciones/Osciloscopio/TTL_AND_SOLA/cropped_entrada_al_aire.png Graphic file (type png)
 <use ../EJ5/Mediciones/Osciloscopio/TTL_AND_SOLA/cropped_entrada_al_aire.png>
 Package pdftex.def Info: ../EJ5/Mediciones/Osciloscopio/TTL_AND_SOLA/cropped_entrada_al_aire.png  used on input line 48.
 (pdftex.def)             Requested size: 205.56436pt x 134.90161pt.
-<../EJ5/Mediciones/Osciloscopio/TTL_AND_SOLA/cropped_entrada_ruido_frecuencia.png, id=453, 1027.84pt x 674.52pt>
+<../EJ5/Mediciones/Osciloscopio/TTL_AND_SOLA/cropped_entrada_ruido_frecuencia.png, id=544, 1027.84pt x 674.52pt>
 File: ../EJ5/Mediciones/Osciloscopio/TTL_AND_SOLA/cropped_entrada_ruido_frecuencia.png Graphic file (type png)
 <use ../EJ5/Mediciones/Osciloscopio/TTL_AND_SOLA/cropped_entrada_ruido_frecuencia.png>
 Package pdftex.def Info: ../EJ5/Mediciones/Osciloscopio/TTL_AND_SOLA/cropped_entrada_ruido_frecuencia.png  used on input line 49.
 (pdftex.def)             Requested size: 205.56436pt x 134.90161pt.
- [16 <../EJ5/Mediciones/Osciloscopio/CMOS_OR_SOLA/cropped_entrada_estado_bajo.png (PNG copy)> <../EJ5/Mediciones/Osciloscopio/CMOS_OR_SOLA/cropped_entrada_estado_alto.png (PNG copy)> <../EJ5/Mediciones/Osciloscopio/CMOS_OR_SOLA/cropped_entrada_al_aire.png (PNG copy)> <../EJ5/Mediciones/Osciloscopio/CMOS_OR_SOLA/cropped_entrada_ruido.png (PNG copy)> <../EJ5/Mediciones/Osciloscopio/TTL_AND_SOLA/cropped_entrada_estado_bajo.png (PNG copy)> <../EJ5/Mediciones/Osciloscopio/TTL_AND_SOLA/cropped_entrada_estado_alto.png (PNG copy)> <../EJ5/Mediciones/Osciloscopio/TTL_AND_SOLA/cropped_entrada_al_aire.png (PNG copy)> <../EJ5/Mediciones/Osciloscopio/TTL_AND_SOLA/cropped_entrada_ruido_frecuencia.png (PNG copy)>]
-<../EJ5/Mediciones/Osciloscopio/CMOS_OR_SOLA/cropped_fft_ruido_contacto.png, id=458, 1027.84pt x 674.52pt>
+ [21 <../EJ5/Mediciones/Osciloscopio/CMOS_OR_SOLA/cropped_entrada_estado_bajo.png (PNG copy)> <../EJ5/Mediciones/Osciloscopio/CMOS_OR_SOLA/cropped_entrada_estado_alto.png (PNG copy)> <../EJ5/Mediciones/Osciloscopio/CMOS_OR_SOLA/cropped_entrada_al_aire.png (PNG copy)> <../EJ5/Mediciones/Osciloscopio/CMOS_OR_SOLA/cropped_entrada_ruido.png (PNG copy)> <../EJ5/Mediciones/Osciloscopio/TTL_AND_SOLA/cropped_entrada_estado_bajo.png (PNG copy)> <../EJ5/Mediciones/Osciloscopio/TTL_AND_SOLA/cropped_entrada_estado_alto.png (PNG copy)> <../EJ5/Mediciones/Osciloscopio/TTL_AND_SOLA/cropped_entrada_al_aire.png (PNG copy)> <../EJ5/Mediciones/Osciloscopio/TTL_AND_SOLA/cropped_entrada_ruido_frecuencia.png (PNG copy)>]
+<../EJ5/Mediciones/Osciloscopio/CMOS_OR_SOLA/cropped_fft_ruido_contacto.png, id=549, 1027.84pt x 674.52pt>
 File: ../EJ5/Mediciones/Osciloscopio/CMOS_OR_SOLA/cropped_fft_ruido_contacto.png Graphic file (type png)
 <use ../EJ5/Mediciones/Osciloscopio/CMOS_OR_SOLA/cropped_fft_ruido_contacto.png>
 Package pdftex.def Info: ../EJ5/Mediciones/Osciloscopio/CMOS_OR_SOLA/cropped_fft_ruido_contacto.png  used on input line 72.
 (pdftex.def)             Requested size: 308.35437pt x 202.35756pt.
- [17 <../EJ5/Mediciones/Osciloscopio/CMOS_OR_SOLA/cropped_fft_ruido_contacto.png (PNG copy)>]
-<../EJ5/Recursos/connection.png, id=466, 478.78876pt x 223.83624pt>
+ [22 <../EJ5/Mediciones/Osciloscopio/CMOS_OR_SOLA/cropped_fft_ruido_contacto.png (PNG copy)>]
+<../EJ5/Recursos/connection.png, id=557, 478.78876pt x 223.83624pt>
 File: ../EJ5/Recursos/connection.png Graphic file (type png)
 <use ../EJ5/Recursos/connection.png>
 Package pdftex.def Info: ../EJ5/Recursos/connection.png  used on input line 99.
 (pdftex.def)             Requested size: 287.27547pt x 134.30278pt.
-<../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_entrada_estado_bajo.png, id=468, 1027.84pt x 674.52pt>
+<../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_entrada_estado_bajo.png, id=559, 1027.84pt x 674.52pt>
 File: ../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_entrada_estado_bajo.png Graphic file (type png)
 <use ../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_entrada_estado_bajo.png>
 Package pdftex.def Info: ../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_entrada_estado_bajo.png  used on input line 112.
 (pdftex.def)             Requested size: 205.56436pt x 134.90161pt.
-<../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_entrada_estado_alto.png, id=469, 1027.84pt x 674.52pt>
+<../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_entrada_estado_alto.png, id=560, 1027.84pt x 674.52pt>
 File: ../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_entrada_estado_alto.png Graphic file (type png)
 <use ../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_entrada_estado_alto.png>
 Package pdftex.def Info: ../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_entrada_estado_alto.png  used on input line 113.
 (pdftex.def)             Requested size: 205.56436pt x 134.90161pt.
-<../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_entrada_al_aire.png, id=470, 1027.84pt x 674.52pt>
+<../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_entrada_al_aire.png, id=561, 1027.84pt x 674.52pt>
 File: ../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_entrada_al_aire.png Graphic file (type png)
 <use ../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_entrada_al_aire.png>
 Package pdftex.def Info: ../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_entrada_al_aire.png  used on input line 114.
 (pdftex.def)             Requested size: 205.56436pt x 134.90161pt.
-<../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_con_carga_baja.png, id=471, 1027.84pt x 674.52pt>
+<../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_con_carga_baja.png, id=562, 1027.84pt x 674.52pt>
 File: ../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_con_carga_baja.png Graphic file (type png)
 <use ../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_con_carga_baja.png>
 Package pdftex.def Info: ../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_con_carga_baja.png  used on input line 115.
 (pdftex.def)             Requested size: 205.56436pt x 134.90161pt.
-<../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_con_carga_alta.png, id=472, 1027.84pt x 674.52pt>
+<../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_con_carga_alta.png, id=563, 1027.84pt x 674.52pt>
 File: ../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_con_carga_alta.png Graphic file (type png)
 <use ../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_con_carga_alta.png>
 Package pdftex.def Info: ../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_con_carga_alta.png  used on input line 116.
 (pdftex.def)             Requested size: 205.56436pt x 134.90161pt.
-<../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_con_carga_excedida.png, id=473, 1027.84pt x 674.52pt>
+<../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_con_carga_excedida.png, id=564, 1027.84pt x 674.52pt>
 File: ../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_con_carga_excedida.png Graphic file (type png)
 <use ../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_con_carga_excedida.png>
 Package pdftex.def Info: ../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_con_carga_excedida.png  used on input line 117.
 (pdftex.def)             Requested size: 205.56436pt x 134.90161pt.
- [18 <../EJ5/Recursos/connection.png>]
-<../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_triangular_zoom.png, id=480, 1027.84pt x 674.52pt>
+ [23 <../EJ5/Recursos/connection.png>]
+<../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_triangular_zoom.png, id=571, 1027.84pt x 674.52pt>
 File: ../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_triangular_zoom.png Graphic file (type png)
 <use ../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_triangular_zoom.png>
 Package pdftex.def Info: ../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_triangular_zoom.png  used on input line 136.
 (pdftex.def)             Requested size: 205.56436pt x 134.90161pt.
-<../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_propagacion.png, id=481, 1027.84pt x 674.52pt>
+<../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_propagacion.png, id=572, 1027.84pt x 674.52pt>
 File: ../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_propagacion.png Graphic file (type png)
 <use ../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_propagacion.png>
 Package pdftex.def Info: ../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_propagacion.png  used on input line 137.
 (pdftex.def)             Requested size: 205.56436pt x 134.90161pt.
-<../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_carga_capacitiva.png, id=482, 1027.84pt x 674.52pt>
+<../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_carga_capacitiva.png, id=573, 1027.84pt x 674.52pt>
 File: ../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_carga_capacitiva.png Graphic file (type png)
 <use ../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_carga_capacitiva.png>
 Package pdftex.def Info: ../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_carga_capacitiva.png  used on input line 139.
 (pdftex.def)             Requested size: 205.56436pt x 134.90161pt.
- [19 <../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_entrada_estado_bajo.png (PNG copy)> <../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_entrada_estado_alto.png (PNG copy)> <../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_entrada_al_aire.png (PNG copy)> <../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_con_carga_baja.png (PNG copy)> <../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_con_carga_alta.png (PNG copy)> <../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_con_carga_excedida.png (PNG copy)>]
-<../EJ5/Recursos/pnp_interface.png, id=489, 435.6275pt x 373.395pt>
+ [24 <../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_entrada_estado_bajo.png (PNG copy)> <../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_entrada_estado_alto.png (PNG copy)> <../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_entrada_al_aire.png (PNG copy)> <../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_con_carga_baja.png (PNG copy)> <../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_con_carga_alta.png (PNG copy)> <../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_con_carga_excedida.png (PNG copy)>]
+<../EJ5/Recursos/pnp_interface.png, id=579, 435.6275pt x 373.395pt>
 File: ../EJ5/Recursos/pnp_interface.png Graphic file (type png)
 <use ../EJ5/Recursos/pnp_interface.png>
 Package pdftex.def Info: ../EJ5/Recursos/pnp_interface.png  used on input line 153.
 (pdftex.def)             Requested size: 174.24791pt x 149.35535pt.
-<../EJ5/Recursos/mos_interface.png, id=490, 527.9725pt x 249.93375pt>
+<../EJ5/Recursos/mos_interface.png, id=580, 527.9725pt x 249.93375pt>
 File: ../EJ5/Recursos/mos_interface.png Graphic file (type png)
 <use ../EJ5/Recursos/mos_interface.png>
 Package pdftex.def Info: ../EJ5/Recursos/mos_interface.png  used on input line 154.
 (pdftex.def)             Requested size: 211.18526pt x 99.97173pt.
-<../EJ5/Mediciones/Osciloscopio/LEVEL_SHIFTER/cropped_bjt.png, id=492, 1027.84pt x 674.52pt>
+<../EJ5/Mediciones/Osciloscopio/LEVEL_SHIFTER/cropped_bjt.png, id=582, 1027.84pt x 674.52pt>
 File: ../EJ5/Mediciones/Osciloscopio/LEVEL_SHIFTER/cropped_bjt.png Graphic file (type png)
 <use ../EJ5/Mediciones/Osciloscopio/LEVEL_SHIFTER/cropped_bjt.png>
 Package pdftex.def Info: ../EJ5/Mediciones/Osciloscopio/LEVEL_SHIFTER/cropped_bjt.png  used on input line 167.
 (pdftex.def)             Requested size: 205.56436pt x 134.90161pt.
-<../EJ5/Mediciones/Osciloscopio/LEVEL_SHIFTER/cropped_mos.png, id=493, 1027.84pt x 674.52pt>
+<../EJ5/Mediciones/Osciloscopio/LEVEL_SHIFTER/cropped_mos.png, id=583, 1027.84pt x 674.52pt>
 File: ../EJ5/Mediciones/Osciloscopio/LEVEL_SHIFTER/cropped_mos.png Graphic file (type png)
 <use ../EJ5/Mediciones/Osciloscopio/LEVEL_SHIFTER/cropped_mos.png>
 Package pdftex.def Info: ../EJ5/Mediciones/Osciloscopio/LEVEL_SHIFTER/cropped_mos.png  used on input line 168.
 (pdftex.def)             Requested size: 205.56436pt x 134.90161pt.
-) [20 <../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_triangular_zoom.png (PNG copy)> <../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_propagacion.png (PNG copy)> <../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_carga_capacitiva.png (PNG copy)> <../EJ5/Recursos/pnp_interface.png> <../EJ5/Recursos/mos_interface.png>] [21 <../EJ5/Mediciones/Osciloscopio/LEVEL_SHIFTER/cropped_bjt.png (PNG copy)> <../EJ5/Mediciones/Osciloscopio/LEVEL_SHIFTER/cropped_mos.png (PNG copy)>] (ej6.tex
-<../EJ6/Recursos/latch_sr_with_gates.jpg, id=509, 360.34625pt x 192.72pt>
+) [25 <../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_triangular_zoom.png (PNG copy)> <../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_propagacion.png (PNG copy)> <../EJ5/Mediciones/Osciloscopio/CONEXION/cropped_carga_capacitiva.png (PNG copy)> <../EJ5/Recursos/pnp_interface.png> <../EJ5/Recursos/mos_interface.png>] [26 <../EJ5/Mediciones/Osciloscopio/LEVEL_SHIFTER/cropped_bjt.png (PNG copy)> <../EJ5/Mediciones/Osciloscopio/LEVEL_SHIFTER/cropped_mos.png (PNG copy)>] (ej6.tex
+<../EJ6/Recursos/latch_sr_with_gates.jpg, id=600, 360.34625pt x 192.72pt>
 File: ../EJ6/Recursos/latch_sr_with_gates.jpg Graphic file (type jpg)
 <use ../EJ6/Recursos/latch_sr_with_gates.jpg>
 Package pdftex.def Info: ../EJ6/Recursos/latch_sr_with_gates.jpg  used on input line 35.
 (pdftex.def)             Requested size: 273.14923pt x 146.08348pt.
- [22 <../EJ6/Recursos/latch_sr_with_gates.jpg>]
-<../EJ6/Recursos/ffd_with_gates.jpg, id=520, 772.8875pt x 222.8325pt>
+ [27 <../EJ6/Recursos/latch_sr_with_gates.jpg>]
+<../EJ6/Recursos/ffd_with_gates.jpg, id=611, 772.8875pt x 222.8325pt>
 File: ../EJ6/Recursos/ffd_with_gates.jpg Graphic file (type jpg)
 <use ../EJ6/Recursos/ffd_with_gates.jpg>
 Package pdftex.def Info: ../EJ6/Recursos/ffd_with_gates.jpg  used on input line 61.
 (pdftex.def)             Requested size: 364.19667pt x 105.0033pt.
-<../EJ6/Recursos/latch_sr_schematic.png, id=525, 1090.82532pt x 444.15938pt>
+<../EJ6/Recursos/latch_sr_schematic.png, id=616, 1090.82532pt x 444.15938pt>
 File: ../EJ6/Recursos/latch_sr_schematic.png Graphic file (type png)
 <use ../EJ6/Recursos/latch_sr_schematic.png>
 Package pdftex.def Info: ../EJ6/Recursos/latch_sr_schematic.png  used on input line 79.
 (pdftex.def)             Requested size: 364.19667pt x 148.2877pt.
-<../EJ6/Recursos/ffd_adapter_schematic.png, id=526, 1194.71344pt x 532.99126pt>
+<../EJ6/Recursos/ffd_adapter_schematic.png, id=617, 1194.71344pt x 532.99126pt>
 File: ../EJ6/Recursos/ffd_adapter_schematic.png Graphic file (type png)
 <use ../EJ6/Recursos/ffd_adapter_schematic.png>
 Package pdftex.def Info: ../EJ6/Recursos/ffd_adapter_schematic.png  used on input line 86.
 (pdftex.def)             Requested size: 364.19667pt x 162.4767pt.
- [23 <../EJ6/Recursos/ffd_with_gates.jpg> <../EJ6/Recursos/latch_sr_schematic.png>]
-<../EJ6/Recursos/latch_sr_high.png, id=536, 770.12718pt x 506.6428pt>
+ [28 <../EJ6/Recursos/ffd_with_gates.jpg> <../EJ6/Recursos/latch_sr_schematic.png>]
+<../EJ6/Recursos/latch_sr_high.png, id=627, 770.12718pt x 506.6428pt>
 File: ../EJ6/Recursos/latch_sr_high.png Graphic file (type png)
 <use ../EJ6/Recursos/latch_sr_high.png>
 Package pdftex.def Info: ../EJ6/Recursos/latch_sr_high.png  used on input line 111.
 (pdftex.def)             Requested size: 273.14923pt x 179.69324pt.
-<../EJ6/Recursos/latch_sr_low.png, id=537, 767.86874pt x 508.90125pt>
+<../EJ6/Recursos/latch_sr_low.png, id=628, 767.86874pt x 508.90125pt>
 File: ../EJ6/Recursos/latch_sr_low.png Graphic file (type png)
 <use ../EJ6/Recursos/latch_sr_low.png>
 Package pdftex.def Info: ../EJ6/Recursos/latch_sr_low.png  used on input line 118.
 (pdftex.def)             Requested size: 273.14923pt x 181.03004pt.
- [24 <../EJ6/Recursos/ffd_adapter_schematic.png> <../EJ6/Recursos/latch_sr_high.png>]
-<../EJ6/Recursos/latch_sr_rise_osc.png, id=547, 767.86874pt x 505.13719pt>
+ [29 <../EJ6/Recursos/ffd_adapter_schematic.png> <../EJ6/Recursos/latch_sr_high.png>]
+<../EJ6/Recursos/latch_sr_rise_osc.png, id=638, 767.86874pt x 505.13719pt>
 File: ../EJ6/Recursos/latch_sr_rise_osc.png Graphic file (type png)
 <use ../EJ6/Recursos/latch_sr_rise_osc.png>
 Package pdftex.def Info: ../EJ6/Recursos/latch_sr_rise_osc.png  used on input line 132.
 (pdftex.def)             Requested size: 227.62206pt x 149.73871pt.
-<../EJ6/Recursos/latch_sr_rise.png, id=548, 921.4425pt x 685.8423pt>
+<../EJ6/Recursos/latch_sr_rise.png, id=639, 921.4425pt x 685.8423pt>
 File: ../EJ6/Recursos/latch_sr_rise.png Graphic file (type png)
 <use ../EJ6/Recursos/latch_sr_rise.png>
 Package pdftex.def Info: ../EJ6/Recursos/latch_sr_rise.png  used on input line 133.
@@ -1001,12 +1137,12 @@ Overfull \hbox (24.0pt too wide) in paragraph at lines 131--135
  [][] 
  []
 
-<../EJ6/Recursos/latch_sr_fall_osc.png, id=549, 767.86874pt x 504.38437pt>
+<../EJ6/Recursos/latch_sr_fall_osc.png, id=640, 767.86874pt x 504.38437pt>
 File: ../EJ6/Recursos/latch_sr_fall_osc.png Graphic file (type png)
 <use ../EJ6/Recursos/latch_sr_fall_osc.png>
 Package pdftex.def Info: ../EJ6/Recursos/latch_sr_fall_osc.png  used on input line 142.
 (pdftex.def)             Requested size: 227.62206pt x 149.51555pt.
-<../EJ6/Recursos/latch_sr_fall.png, id=550, 921.4425pt x 685.8423pt>
+<../EJ6/Recursos/latch_sr_fall.png, id=641, 921.4425pt x 685.8423pt>
 File: ../EJ6/Recursos/latch_sr_fall.png Graphic file (type png)
 <use ../EJ6/Recursos/latch_sr_fall.png>
 Package pdftex.def Info: ../EJ6/Recursos/latch_sr_fall.png  used on input line 143.
@@ -1016,13 +1152,13 @@ Overfull \hbox (24.0pt too wide) in paragraph at lines 141--145
  [][] 
  []
 
-[25 <../EJ6/Recursos/latch_sr_low.png> <../EJ6/Recursos/latch_sr_rise_osc.png> <../EJ6/Recursos/latch_sr_rise.png>]
-<../EJ6/Recursos/com_latch_rise_osc.png, id=562, 768.62157pt x 502.87875pt>
+[30 <../EJ6/Recursos/latch_sr_low.png> <../EJ6/Recursos/latch_sr_rise_osc.png> <../EJ6/Recursos/latch_sr_rise.png>]
+<../EJ6/Recursos/com_latch_rise_osc.png, id=652, 768.62157pt x 502.87875pt>
 File: ../EJ6/Recursos/com_latch_rise_osc.png Graphic file (type png)
 <use ../EJ6/Recursos/com_latch_rise_osc.png>
 Package pdftex.def Info: ../EJ6/Recursos/com_latch_rise_osc.png  used on input line 160.
 (pdftex.def)             Requested size: 227.62206pt x 148.92343pt.
-<../EJ6/Recursos/com_latch_rise.png, id=563, 921.4425pt x 685.8423pt>
+<../EJ6/Recursos/com_latch_rise.png, id=653, 921.4425pt x 685.8423pt>
 File: ../EJ6/Recursos/com_latch_rise.png Graphic file (type png)
 <use ../EJ6/Recursos/com_latch_rise.png>
 Package pdftex.def Info: ../EJ6/Recursos/com_latch_rise.png  used on input line 161.
@@ -1032,12 +1168,12 @@ Overfull \hbox (24.0pt too wide) in paragraph at lines 159--163
  [][] 
  []
 
-<../EJ6/Recursos/com_latch_fall_osc.png, id=564, 767.11594pt x 505.13719pt>
+<../EJ6/Recursos/com_latch_fall_osc.png, id=654, 767.11594pt x 505.13719pt>
 File: ../EJ6/Recursos/com_latch_fall_osc.png Graphic file (type png)
 <use ../EJ6/Recursos/com_latch_fall_osc.png>
 Package pdftex.def Info: ../EJ6/Recursos/com_latch_fall_osc.png  used on input line 170.
 (pdftex.def)             Requested size: 227.62206pt x 149.88515pt.
-<../EJ6/Recursos/com_latch_fall.png, id=565, 921.4425pt x 685.8423pt>
+<../EJ6/Recursos/com_latch_fall.png, id=655, 921.4425pt x 685.8423pt>
 File: ../EJ6/Recursos/com_latch_fall.png Graphic file (type png)
 <use ../EJ6/Recursos/com_latch_fall.png>
 Package pdftex.def Info: ../EJ6/Recursos/com_latch_fall.png  used on input line 171.
@@ -1047,18 +1183,18 @@ Overfull \hbox (24.0pt too wide) in paragraph at lines 169--173
  [][] 
  []
 
-[26 <../EJ6/Recursos/latch_sr_fall_osc.png> <../EJ6/Recursos/latch_sr_fall.png> <../EJ6/Recursos/com_latch_rise_osc.png> <../EJ6/Recursos/com_latch_rise.png>]
-<../EJ6/Recursos/ffd_hold_and_set_up.png, id=576, 767.86874pt x 509.65407pt>
+[31 <../EJ6/Recursos/latch_sr_fall_osc.png> <../EJ6/Recursos/latch_sr_fall.png> <../EJ6/Recursos/com_latch_rise_osc.png> <../EJ6/Recursos/com_latch_rise.png>]
+<../EJ6/Recursos/ffd_hold_and_set_up.png, id=667, 767.86874pt x 509.65407pt>
 File: ../EJ6/Recursos/ffd_hold_and_set_up.png Graphic file (type png)
 <use ../EJ6/Recursos/ffd_hold_and_set_up.png>
 Package pdftex.def Info: ../EJ6/Recursos/ffd_hold_and_set_up.png  used on input line 190.
 (pdftex.def)             Requested size: 273.14923pt x 181.29785pt.
-<../EJ6/Recursos/ffd_rise_osc.png, id=579, 767.86874pt x 502.87875pt>
+<../EJ6/Recursos/ffd_rise_osc.png, id=670, 767.86874pt x 502.87875pt>
 File: ../EJ6/Recursos/ffd_rise_osc.png Graphic file (type png)
 <use ../EJ6/Recursos/ffd_rise_osc.png>
 Package pdftex.def Info: ../EJ6/Recursos/ffd_rise_osc.png  used on input line 202.
 (pdftex.def)             Requested size: 227.62206pt x 149.06923pt.
-<../EJ6/Recursos/ffd_rise.png, id=580, 921.4425pt x 685.8423pt>
+<../EJ6/Recursos/ffd_rise.png, id=671, 921.4425pt x 685.8423pt>
 File: ../EJ6/Recursos/ffd_rise.png Graphic file (type png)
 <use ../EJ6/Recursos/ffd_rise.png>
 Package pdftex.def Info: ../EJ6/Recursos/ffd_rise.png  used on input line 203.
@@ -1068,13 +1204,13 @@ Overfull \hbox (24.0pt too wide) in paragraph at lines 201--205
  [][] 
  []
 
-[27 <../EJ6/Recursos/com_latch_fall_osc.png> <../EJ6/Recursos/com_latch_fall.png> <../EJ6/Recursos/ffd_hold_and_set_up.png>]
-<../EJ6/Recursos/ffd_fall_osc.png, id=589, 770.12718pt x 503.63156pt>
+[32 <../EJ6/Recursos/com_latch_fall_osc.png> <../EJ6/Recursos/com_latch_fall.png> <../EJ6/Recursos/ffd_hold_and_set_up.png>]
+<../EJ6/Recursos/ffd_fall_osc.png, id=680, 770.12718pt x 503.63156pt>
 File: ../EJ6/Recursos/ffd_fall_osc.png Graphic file (type png)
 <use ../EJ6/Recursos/ffd_fall_osc.png>
 Package pdftex.def Info: ../EJ6/Recursos/ffd_fall_osc.png  used on input line 212.
 (pdftex.def)             Requested size: 227.62206pt x 148.85435pt.
-<../EJ6/Recursos/ffd_fall.png, id=590, 921.4425pt x 685.8423pt>
+<../EJ6/Recursos/ffd_fall.png, id=681, 921.4425pt x 685.8423pt>
 File: ../EJ6/Recursos/ffd_fall.png Graphic file (type png)
 <use ../EJ6/Recursos/ffd_fall.png>
 Package pdftex.def Info: ../EJ6/Recursos/ffd_fall.png  used on input line 213.
@@ -1084,12 +1220,12 @@ Overfull \hbox (24.0pt too wide) in paragraph at lines 211--215
  [][] 
  []
 
-<../EJ6/Recursos/com_ffd_rise_osc.png, id=594, 768.62157pt x 508.90125pt>
+<../EJ6/Recursos/com_ffd_rise_osc.png, id=685, 768.62157pt x 508.90125pt>
 File: ../EJ6/Recursos/com_ffd_rise_osc.png Graphic file (type png)
 <use ../EJ6/Recursos/com_ffd_rise_osc.png>
 Package pdftex.def Info: ../EJ6/Recursos/com_ffd_rise_osc.png  used on input line 228.
 (pdftex.def)             Requested size: 227.62206pt x 150.70695pt.
-<../EJ6/Recursos/com_ffd_rise.png, id=595, 921.4425pt x 685.8423pt>
+<../EJ6/Recursos/com_ffd_rise.png, id=686, 921.4425pt x 685.8423pt>
 File: ../EJ6/Recursos/com_ffd_rise.png Graphic file (type png)
 <use ../EJ6/Recursos/com_ffd_rise.png>
 Package pdftex.def Info: ../EJ6/Recursos/com_ffd_rise.png  used on input line 229.
@@ -1099,13 +1235,13 @@ Overfull \hbox (24.0pt too wide) in paragraph at lines 227--231
  [][] 
  []
 
-[28 <../EJ6/Recursos/ffd_rise_osc.png> <../EJ6/Recursos/ffd_rise.png> <../EJ6/Recursos/ffd_fall_osc.png> <../EJ6/Recursos/ffd_fall.png>]
-<../EJ6/Recursos/com_ffd_fall_osc.png, id=605, 768.62157pt x 506.6428pt>
+[33 <../EJ6/Recursos/ffd_rise_osc.png> <../EJ6/Recursos/ffd_rise.png> <../EJ6/Recursos/ffd_fall_osc.png> <../EJ6/Recursos/ffd_fall.png>]
+<../EJ6/Recursos/com_ffd_fall_osc.png, id=696, 768.62157pt x 506.6428pt>
 File: ../EJ6/Recursos/com_ffd_fall_osc.png Graphic file (type png)
 <use ../EJ6/Recursos/com_ffd_fall_osc.png>
 Package pdftex.def Info: ../EJ6/Recursos/com_ffd_fall_osc.png  used on input line 238.
 (pdftex.def)             Requested size: 227.62206pt x 150.03813pt.
-<../EJ6/Recursos/com_ffd_fall.png, id=606, 921.4425pt x 685.8423pt>
+<../EJ6/Recursos/com_ffd_fall.png, id=697, 921.4425pt x 685.8423pt>
 File: ../EJ6/Recursos/com_ffd_fall.png Graphic file (type png)
 <use ../EJ6/Recursos/com_ffd_fall.png>
 Package pdftex.def Info: ../EJ6/Recursos/com_ffd_fall.png  used on input line 239.
@@ -1115,7 +1251,7 @@ Overfull \hbox (24.0pt too wide) in paragraph at lines 237--241
  [][] 
  []
 
-) [29 <../EJ6/Recursos/com_ffd_rise_osc.png> <../EJ6/Recursos/com_ffd_rise.png> <../EJ6/Recursos/com_ffd_fall_osc.png> <../EJ6/Recursos/com_ffd_fall.png>] (ej7.tex) [30] (ej8.tex) [31]
+) [34 <../EJ6/Recursos/com_ffd_rise_osc.png> <../EJ6/Recursos/com_ffd_rise.png> <../EJ6/Recursos/com_ffd_fall_osc.png> <../EJ6/Recursos/com_ffd_fall.png>] (ej7.tex) [35] (ej8.tex) [36]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 43.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 43.
  ("c:/Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.aux"
@@ -1125,20 +1261,20 @@ LaTeX Info: Redefining \% on input line 23.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 43.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 43.
 Package rerunfilecheck Info: File `informe.out' has not changed.
-(rerunfilecheck)             Checksum: 9E4A6B490297B28A0784D485A028ECD4;3548.
+(rerunfilecheck)             Checksum: 269B587B72E428B2CA4A215A21D507EA;3960.
  ) 
 Here is how much of TeX's memory you used:
- 20584 strings out of 492945
- 400768 string characters out of 3125808
- 470885 words of memory out of 3000000
- 23872 multiletter control sequences out of 15000+200000
- 11647 words of font info for 42 fonts, out of 3000000 for 9000
+ 20711 strings out of 492945
+ 404112 string characters out of 3125808
+ 471585 words of memory out of 3000000
+ 23955 multiletter control sequences out of 15000+200000
+ 12071 words of font info for 46 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,13n,81p,874b,401s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on "c:/Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.pdf" (31 pages, 10340534 bytes).
+ 63i,13n,81p,874b,654s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/latxfont/lasy10.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/latxfont/lasy8.pfb>
+Output written on "c:/Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.pdf" (36 pages, 13373481 bytes).
 PDF statistics:
- 701 PDF objects out of 1000 (max. 8388607)
- 139 named destinations out of 1000 (max. 500000)
- 885 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 804 PDF objects out of 1000 (max. 8388607)
+ 162 named destinations out of 1000 (max. 500000)
+ 985 words of extra memory for PDF output out of 10000 (max. 10000000)
 
