@@ -90,22 +90,22 @@ Se arm\'o el circuito~\ref{fig:circuito} utilizando los siguientes circuitos int
     \end{tabular}
 \end{table}
 
-Se establecieron las condiciones de las entradas de tal forma de solo variar la variable \textsc{"B"}, emulando el cambio con una se\~nal cuadrada que oscila entre $0V$ y $5V$ a una frecuencia de $30kHz$. En primera instancia se observ\'o detalladamente el comportamiento de ambas salidas del circuito (con mint\'ermino de correcci\'on y sin el mismo) cuando el flanco de la se\~nal de entrada es ascendente. Se observa las siguientes respuestas:
+Se establecieron las condiciones de las entradas de tal forma de solo variar la variable \textsc{"B"}, emulando el cambio con una se\~nal cuadrada que oscila entre $0V$ y $5V$ a una frecuencia de $30kHz$. En primera instancia se observ\'o detalladamente el comportamiento de ambas salidas del circuito (con mint\'ermino de correcci\'on y sin el mismo) cuando el flanco de la se\~nal de entrada es ascendente. Se observan las siguientes respuestas (siendo la se\~nal de entrada color violeta, la se\nal sin correcci\'on amarilla y la se\~nal con correcci\'on verde) :
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.9\textwidth]{../EJ3/Recursos/EJ3_positive_slope_response.png}
+    \includegraphics[width=0.9\textwidth]{../EJ3/Recursos/cropped_EJ3_positive_slope_response.png}
 	\caption{Respuesta del circuito en flanco ascendente}
    	\label{fig:EJ3_positive_slope_response}
 \end{figure}
 
 En la figura anterior se puede apreciar una respuesta oscilatoria subamortiguada del circuito, destacando que ambas salidas presentan exactamente la misma oscilaci\'on. Se observa que en sus picos m\'aximos, las se\~nales de salida var\'ian entre $4V$ y $5.5V$. Estos niveles de tensi\'on se encuentran dentro del rango HIGH de una compuerta CMOS y de una del tipo TTL. De esta manera, no se puede considerar que exista un glitch en ninguna de las salidas.
 
-An\'alogamente, se repiti\'o la medici\'on para un flanco descendente , reflejando los siguientes resultados:
+An\'alogamente, se repiti\'o la medici\'on para un flanco descendente, reflejando los siguientes resultados (con la combinaci\'on de colores antes mencionada):
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.9\textwidth]{../EJ3/Recursos/EJ3_negative_slope_response.png}
+    \includegraphics[width=0.9\textwidth]{../EJ3/Recursos/cropped_EJ3_negative_slope_response.png}
 	\caption{Respuesta del circuito en flanco descendente}
    	\label{fig:EJ3_negative_slope_response}
 \end{figure}
