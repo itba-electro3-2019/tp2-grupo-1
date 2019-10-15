@@ -1,15 +1,48 @@
 \babel@toc {spanish}{}
-\contentsline {section}{\numberline {1}Ejercicio 1: Compuertas NOT implementadas con BJT y MOSFET}{3}{section.1}% 
-\contentsline {section}{\numberline {2}Ejercicio 3: Implementaci\'on de una tabla de verdad}{4}{section.2}% 
-\contentsline {section}{\numberline {3}Ejercicio 4: Tiempos de propagaci\'on en compuerta CMOS}{5}{section.3}% 
-\contentsline {subsection}{\numberline {3.1}Descripci\'on del an\'alisis}{5}{subsection.3.1}% 
-\contentsline {subsection}{\numberline {3.2}Resultados}{5}{subsection.3.2}% 
-\contentsline {subsubsection}{\numberline {3.2.1}Mediciones de tiempo de propagaci\'on}{5}{subsubsection.3.2.1}% 
-\contentsline {subsubsection}{\numberline {3.2.2}Mediciones de tiempo rise y fall}{6}{subsubsection.3.2.2}% 
-\contentsline {subsubsection}{\numberline {3.2.3}Overshoot}{7}{subsubsection.3.2.3}% 
-\contentsline {subsubsection}{\numberline {3.2.4}Mediciones a altas frecuencias}{7}{subsubsection.3.2.4}% 
-\contentsline {subsection}{\numberline {3.3}Conclusi\'on}{8}{subsection.3.3}% 
-\contentsline {section}{\numberline {4}Ejercicio 5: Comparaci\'on TTL y CMOS de compuertas con entradas desconectadas}{9}{section.4}% 
-\contentsline {section}{\numberline {5}Ejercicio 6: Dise\~no e implementaci\'on multivibradores}{10}{section.5}% 
-\contentsline {section}{\numberline {6}Ejercicio 7: Dise\~no de contadores sincr\'onicos y asincr\'onicos de 3 bits}{11}{section.6}% 
-\contentsline {section}{\numberline {7}Ejercicio 8: Dise\~no de controlador para un Joystick Anal\'ogico}{12}{section.7}% 
+\contentsline {section}{Ejercicio 1: Tecnolog\'ias TTL, RTL, NMOS y CMOS}{3}{section*.2}% 
+\contentsline {subsection}{An\'alisis te\'orico}{3}{section*.3}% 
+\contentsline {subsection}{Niveles de tensi\'on}{4}{section*.9}% 
+\contentsline {subsubsection}{Proceso de medici\'on}{4}{section*.10}% 
+\contentsline {subsubsection}{An\'alisis de resultados}{4}{section*.14}% 
+\contentsline {subsection}{Tiempos de operaci\'on}{5}{section*.15}% 
+\contentsline {subsubsection}{Proceso de medici\'on}{5}{section*.16}% 
+\contentsline {subsubsection}{An\'alisis de resultados}{6}{section*.21}% 
+\contentsline {subsection}{Corrientes m\'aximas}{6}{section*.22}% 
+\contentsline {subsubsection}{Proceso de medici\'on}{6}{section*.23}% 
+\contentsline {subsubsection}{An\'alisis de resultados}{7}{section*.27}% 
+\contentsline {subsection}{Dise\~no de PCB}{8}{section*.28}% 
+\contentsline {subsection}{Observaciones}{8}{section*.30}% 
+\contentsline {subsubsection}{Resistencia de pull-down}{8}{section*.31}% 
+\contentsline {subsubsection}{Tiempos de transici\'on}{8}{section*.33}% 
+\contentsline {subsubsection}{Mediciones}{9}{section*.35}% 
+\contentsline {subsection}{Conclusiones}{9}{section*.37}% 
+\contentsline {section}{Ejercicio 3: Implementaci\'on de una tabla de verdad}{10}{section*.38}% 
+\contentsline {section}{Ejercicio 4: Tiempos de propagaci\'on en compuerta CMOS}{11}{section*.39}% 
+\contentsline {subsection}{Descripci\'on del an\'alisis}{11}{section*.40}% 
+\contentsline {subsection}{Resultados}{11}{section*.42}% 
+\contentsline {subsubsection}{Mediciones de tiempo de propagaci\'on}{11}{section*.43}% 
+\contentsline {subsubsection}{Mediciones de tiempo rise y fall}{12}{section*.47}% 
+\contentsline {subsubsection}{Overshoot}{13}{section*.51}% 
+\contentsline {subsubsection}{Mediciones a altas frecuencias}{13}{section*.52}% 
+\contentsline {subsection}{Conclusi\'on}{14}{section*.55}% 
+\contentsline {section}{Ejercicio 5: TTL y MOS, entradas abiertas y compatibilidad entre tecnolog\'ias}{15}{section*.56}% 
+\contentsline {subsection}{Compuertas discretas con entrada desconectada}{15}{section*.57}% 
+\contentsline {subsubsection}{Descripci\'on general}{15}{section*.58}% 
+\contentsline {subsubsection}{Resultados}{15}{section*.60}% 
+\contentsline {subsubsection}{An\'alisis de resultados}{17}{section*.63}% 
+\contentsline {subsection}{Conexi\'on TTL y CMOS}{17}{section*.65}% 
+\contentsline {subsubsection}{Descripci\'on general}{17}{section*.66}% 
+\contentsline {subsubsection}{Resultados}{18}{section*.68}% 
+\contentsline {subsubsection}{An\'alisis de resultados}{19}{section*.70}% 
+\contentsline {subsubsection}{Soluciones propuestas}{20}{section*.72}% 
+\contentsline {section}{Ejercicio 6: Dise\~no e implementaci\'on de multivibradores biestables}{22}{section*.75}% 
+\contentsline {subsection}{Dise\IeC {\~n}o de los circuitos}{22}{section*.76}% 
+\contentsline {subsubsection}{Latch SR}{22}{section*.77}% 
+\contentsline {subsubsection}{Flip-Flop D}{22}{section*.80}% 
+\contentsline {subsection}{Implementaci\IeC {\'o}n en PCB}{23}{section*.83}% 
+\contentsline {subsection}{Medici\IeC {\'o}n de par\IeC {\'a}metros de los circuitos.}{24}{section*.86}% 
+\contentsline {subsubsection}{Latch SR}{24}{section*.87}% 
+\contentsline {subsubsection}{Flip-Flop D}{27}{section*.94}% 
+\contentsline {subsection}{Conclusi\IeC {\'o}n}{29}{section*.100}% 
+\contentsline {section}{Ejercicio 7: Dise\~no de contadores sincr\'onicos y asincr\'onicos de 3 bits}{30}{section*.101}% 
+\contentsline {section}{Ejercicio 8: Dise\~no de controlador para un Joystick Anal\'ogico}{31}{section*.102}% 

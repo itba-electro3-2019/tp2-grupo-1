@@ -6,6 +6,7 @@
 \usepackage[spanish, es-tabla]{babel}
 \usepackage{float}
 \usepackage{graphicx}
+\usepackage{subcaption}
 
 % Paquetes de matematica
 \usepackage{amsmath}
@@ -16,6 +17,7 @@
 
 % Configuracion del informe
 \setlength{\parindent}{0pt}
+\setcounter{secnumdepth}{0}
 
 \usepackage[a4paper, 
     includehead, 
@@ -23,6 +25,40 @@
     headsep=6mm, 
     headheight=4.8mm,
     top=25mm, bottom=25mm, left=25mm, right=25mm]{geometry}
+
+%THIS IS FOR SETTING LOCATION OF FLOATS
+\usepackage{float}
+%ENDS SETTING LOCATION OF FLOATS
+
+%THE FOLLOWING ARE CONFIGURATIONS FOR TODONOTES
+\usepackage{todonotes,varwidth}
+\makeatletter
+\tikzstyle{diaanotestyle} = [
+    draw=\@todonotes@currentbordercolor,
+    fill=\@todonotes@currentbackgroundcolor,
+    line width=0.5pt,
+    inner sep = 0.8 ex,
+    rounded corners=4pt,align=left,
+   ]
+
+\renewcommand{\@todonotes@drawInlineNote}{%
+        {\begin{tikzpicture}[remember picture,baseline={(0,0)}]%
+            \draw node[diaanotestyle,font=\@todonotes@sizecommand,anchor=base west]{%
+               \begin{varwidth}[t]{10cm}
+                \if@todonotes@authorgiven%
+                    {\@todonotes@sizecommand \@todonotes@author:\,\@todonotes@text}%
+                \else%
+                    {\@todonotes@sizecommand \@todonotes@text}%
+                \fi
+                \end{varwidth}};%
+            \end{tikzpicture}}%
+       }%
+\makeatother
+%HERE ENDS THE CONFIGURATIONS FOR TODONOTES
+
+%THIS IS FOR MERGING CELLS IN A TABLE
+\usepackage{multirow}
+%ENDS MERGING CELLS
 
 \usepackage{hyperref}
 \hypersetup{

@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\facun\OneDrive\Desktop\ITBA\5C Electrónica III\tp2-grupo-1\EJ6\Altium\SRLatch_EJ6\SRLatch.PcbDoc
+Date         : 11/10/2019
+Time         : 15:31:14
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100.00%
+    Connections, 20
+    Connections routed, 20
+    Connections remaining, 0
+count : 4

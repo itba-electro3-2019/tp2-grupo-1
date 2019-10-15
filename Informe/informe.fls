@@ -33,6 +33,12 @@ INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\g
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\subcaption.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\subcaption.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\caption\caption3.sty
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath\amstext.sty
@@ -85,6 +91,105 @@ INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxe
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometry\geometry.cfg
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\todonotes\todonotes.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\todonotes\todonotes.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\frontendlayer\tikz.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgf.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\basiclayer\pgfcore.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\systemlayer\pgfsys.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgfkeys.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgf.cfg
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-pdftex.def
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcore.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathcalc.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathutil.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathparser.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.trigonometric.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.random.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.comparison.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.base.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.round.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfunctions.integerarithmetics.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmathfloat.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransformations.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\basiclayer\pgfcorerdf.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\utilities\pgffor.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgf\math\pgfmath.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\utilities\pgffor.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\math\pgfmath.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryplothandlers.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarytopaths.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypositioning.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarypositioning.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshadows.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryshadows.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryfadings.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryfadings.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryfadings.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryfadings.code.tex
+OUTPUT c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.pdf
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\calc.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\varwidth\varwidth.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\varwidth\varwidth.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multirow\multirow.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\multirow\multirow.sty
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty
@@ -115,10 +220,6 @@ INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epsto
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty
-INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.sty
-INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.sty
-INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
-INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\nameref.sty
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty
@@ -127,7 +228,6 @@ INPUT c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Inform
 INPUT c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.out
 INPUT c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.out
 INPUT c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.out
-OUTPUT c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.pdf
 INPUT c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.out
 INPUT c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.out
 OUTPUT c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.out
@@ -163,11 +263,106 @@ INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\amsfont
 OUTPUT c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.toc
 INPUT ej1.tex
 INPUT ej1.tex
-INPUT ej3.tex
-INPUT ej3.tex
-INPUT ej4.tex
-INPUT ej4.tex
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmbx12.tfm
+INPUT ..\EJ1\Recursos\rtl_circuit.png
+INPUT ..\EJ1\Recursos\rtl_circuit.png
+INPUT ..\EJ1\Recursos\rtl_circuit.png
+INPUT ..\EJ1\Recursos\rtl_circuit.png
+INPUT ..\EJ1\Recursos\rtl_circuit.png
+INPUT ..\EJ1\Recursos\ttl_circuit.png
+INPUT ..\EJ1\Recursos\ttl_circuit.png
+INPUT ..\EJ1\Recursos\ttl_circuit.png
+INPUT ..\EJ1\Recursos\ttl_circuit.png
+INPUT ..\EJ1\Recursos\ttl_circuit.png
+INPUT ..\EJ1\Recursos\mos_circuit.png
+INPUT ..\EJ1\Recursos\mos_circuit.png
+INPUT ..\EJ1\Recursos\mos_circuit.png
+INPUT ..\EJ1\Recursos\mos_circuit.png
+INPUT ..\EJ1\Recursos\mos_circuit.png
+INPUT ..\EJ1\Recursos\cmos_circuit.png
+INPUT ..\EJ1\Recursos\cmos_circuit.png
+INPUT ..\EJ1\Recursos\cmos_circuit.png
+INPUT ..\EJ1\Recursos\cmos_circuit.png
+INPUT ..\EJ1\Recursos\cmos_circuit.png
+INPUT ..\EJ1\Recursos\logic_leves.PNG
+INPUT ..\EJ1\Recursos\logic_leves.PNG
+INPUT ..\EJ1\Recursos\logic_leves.PNG
+INPUT ..\EJ1\Recursos\logic_leves.PNG
+INPUT ..\EJ1\Recursos\logic_leves.PNG
+INPUT ..\EJ1\Mediciones\Osciloscopio\Segundo_Intento\Voltage_Levels_RTL\cropped_scope_3.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Segundo_Intento\Voltage_Levels_RTL\cropped_scope_3.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Segundo_Intento\Voltage_Levels_RTL\cropped_scope_3.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Segundo_Intento\Voltage_Levels_RTL\cropped_scope_3.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Segundo_Intento\Voltage_Levels_RTL\cropped_scope_3.png
+INPUT ..\EJ1\Recursos\time_logic.PNG
+INPUT ..\EJ1\Recursos\time_logic.PNG
+INPUT ..\EJ1\Recursos\time_logic.PNG
+INPUT ..\EJ1\Recursos\time_logic.PNG
+INPUT ..\EJ1\Recursos\time_logic.PNG
+INPUT ..\EJ1\Mediciones\Osciloscopio\Segundo_Intento\Times_RTL\cropped_scope_37.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Segundo_Intento\Times_RTL\cropped_scope_37.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Segundo_Intento\Times_RTL\cropped_scope_37.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Segundo_Intento\Times_RTL\cropped_scope_37.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Segundo_Intento\Times_RTL\cropped_scope_37.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Segundo_Intento\Times_RTL\cropped_scope_39.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Segundo_Intento\Times_RTL\cropped_scope_39.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Segundo_Intento\Times_RTL\cropped_scope_39.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Segundo_Intento\Times_RTL\cropped_scope_39.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Segundo_Intento\Times_RTL\cropped_scope_39.png
+INPUT ..\EJ1\Recursos\maximum_current.png
+INPUT ..\EJ1\Recursos\maximum_current.png
+INPUT ..\EJ1\Recursos\maximum_current.png
+INPUT ..\EJ1\Recursos\maximum_current.png
+INPUT ..\EJ1\Recursos\maximum_current.png
+INPUT ..\EJ1\Recursos\maximum_current_low.png
+INPUT ..\EJ1\Recursos\maximum_current_low.png
+INPUT ..\EJ1\Recursos\maximum_current_low.png
+INPUT ..\EJ1\Recursos\maximum_current_low.png
+INPUT ..\EJ1\Recursos\maximum_current_low.png
+INPUT ..\EJ1\Recursos\esquematico.PNG
+INPUT ..\EJ1\Recursos\esquematico.PNG
+INPUT ..\EJ1\Recursos\esquematico.PNG
+INPUT ..\EJ1\Recursos\esquematico.PNG
+INPUT ..\EJ1\Recursos\esquematico.PNG
+INPUT ..\EJ1\Recursos\pcb3d.PNG
+INPUT ..\EJ1\Recursos\pcb3d.PNG
+INPUT ..\EJ1\Recursos\pcb3d.PNG
+INPUT ..\EJ1\Recursos\pcb3d.PNG
+INPUT ..\EJ1\Recursos\pcb3d.PNG
+INPUT ..\EJ1\Mediciones\Osciloscopio\Observaciones\Pull_down_error\cropped_scope_14.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Observaciones\Pull_down_error\cropped_scope_14.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Observaciones\Pull_down_error\cropped_scope_14.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Observaciones\Pull_down_error\cropped_scope_14.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Observaciones\Pull_down_error\cropped_scope_14.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Observaciones\Pull_down_error\cropped_scope_15.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Observaciones\Pull_down_error\cropped_scope_15.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Observaciones\Pull_down_error\cropped_scope_15.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Observaciones\Pull_down_error\cropped_scope_15.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Observaciones\Pull_down_error\cropped_scope_15.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Observaciones\Mejora_polarizacion_RTL\cropped_scope_20.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Observaciones\Mejora_polarizacion_RTL\cropped_scope_20.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Observaciones\Mejora_polarizacion_RTL\cropped_scope_20.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Observaciones\Mejora_polarizacion_RTL\cropped_scope_20.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Observaciones\Mejora_polarizacion_RTL\cropped_scope_20.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Observaciones\Mejora_polarizacion_RTL\cropped_scope_21.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Observaciones\Mejora_polarizacion_RTL\cropped_scope_21.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Observaciones\Mejora_polarizacion_RTL\cropped_scope_21.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Observaciones\Mejora_polarizacion_RTL\cropped_scope_21.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Observaciones\Mejora_polarizacion_RTL\cropped_scope_21.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Observaciones\Mejora_transicion_MOS\cropped_scope_14.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Observaciones\Mejora_transicion_MOS\cropped_scope_14.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Observaciones\Mejora_transicion_MOS\cropped_scope_14.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Observaciones\Mejora_transicion_MOS\cropped_scope_14.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Observaciones\Mejora_transicion_MOS\cropped_scope_14.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Observaciones\Mejora_transicion_MOS\cropped_scope_15.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Observaciones\Mejora_transicion_MOS\cropped_scope_15.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Observaciones\Mejora_transicion_MOS\cropped_scope_15.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Observaciones\Mejora_transicion_MOS\cropped_scope_15.png
+INPUT ..\EJ1\Mediciones\Osciloscopio\Observaciones\Mejora_transicion_MOS\cropped_scope_15.png
+INPUT ej3.tex
+INPUT ej3.tex
+INPUT ej4.tex
+INPUT ej4.tex
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmti10.tfm
 INPUT ..\EJ4\Recursos\LOAD_CIRC.png
 INPUT ..\EJ4\Recursos\LOAD_CIRC.png
@@ -236,8 +431,248 @@ INPUT ..\EJ4\Recursos\DC_VAR_RISE_CAP.png
 INPUT ..\EJ4\Recursos\DC_VAR_RISE_CAP.png
 INPUT ej5.tex
 INPUT ej5.tex
+INPUT ..\EJ5\Recursos\ttl_open.png
+INPUT ..\EJ5\Recursos\ttl_open.png
+INPUT ..\EJ5\Recursos\ttl_open.png
+INPUT ..\EJ5\Recursos\ttl_open.png
+INPUT ..\EJ5\Recursos\ttl_open.png
+INPUT ..\EJ5\Recursos\cmos_open.png
+INPUT ..\EJ5\Recursos\cmos_open.png
+INPUT ..\EJ5\Recursos\cmos_open.png
+INPUT ..\EJ5\Recursos\cmos_open.png
+INPUT ..\EJ5\Recursos\cmos_open.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CMOS_OR_SOLA\cropped_entrada_estado_bajo.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CMOS_OR_SOLA\cropped_entrada_estado_bajo.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CMOS_OR_SOLA\cropped_entrada_estado_bajo.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CMOS_OR_SOLA\cropped_entrada_estado_bajo.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CMOS_OR_SOLA\cropped_entrada_estado_bajo.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CMOS_OR_SOLA\cropped_entrada_estado_alto.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CMOS_OR_SOLA\cropped_entrada_estado_alto.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CMOS_OR_SOLA\cropped_entrada_estado_alto.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CMOS_OR_SOLA\cropped_entrada_estado_alto.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CMOS_OR_SOLA\cropped_entrada_estado_alto.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CMOS_OR_SOLA\cropped_entrada_al_aire.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CMOS_OR_SOLA\cropped_entrada_al_aire.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CMOS_OR_SOLA\cropped_entrada_al_aire.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CMOS_OR_SOLA\cropped_entrada_al_aire.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CMOS_OR_SOLA\cropped_entrada_al_aire.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CMOS_OR_SOLA\cropped_entrada_ruido.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CMOS_OR_SOLA\cropped_entrada_ruido.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CMOS_OR_SOLA\cropped_entrada_ruido.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CMOS_OR_SOLA\cropped_entrada_ruido.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CMOS_OR_SOLA\cropped_entrada_ruido.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\TTL_AND_SOLA\cropped_entrada_estado_bajo.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\TTL_AND_SOLA\cropped_entrada_estado_bajo.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\TTL_AND_SOLA\cropped_entrada_estado_bajo.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\TTL_AND_SOLA\cropped_entrada_estado_bajo.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\TTL_AND_SOLA\cropped_entrada_estado_bajo.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\TTL_AND_SOLA\cropped_entrada_estado_alto.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\TTL_AND_SOLA\cropped_entrada_estado_alto.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\TTL_AND_SOLA\cropped_entrada_estado_alto.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\TTL_AND_SOLA\cropped_entrada_estado_alto.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\TTL_AND_SOLA\cropped_entrada_estado_alto.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\TTL_AND_SOLA\cropped_entrada_al_aire.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\TTL_AND_SOLA\cropped_entrada_al_aire.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\TTL_AND_SOLA\cropped_entrada_al_aire.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\TTL_AND_SOLA\cropped_entrada_al_aire.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\TTL_AND_SOLA\cropped_entrada_al_aire.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\TTL_AND_SOLA\cropped_entrada_ruido_frecuencia.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\TTL_AND_SOLA\cropped_entrada_ruido_frecuencia.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\TTL_AND_SOLA\cropped_entrada_ruido_frecuencia.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\TTL_AND_SOLA\cropped_entrada_ruido_frecuencia.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\TTL_AND_SOLA\cropped_entrada_ruido_frecuencia.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CMOS_OR_SOLA\cropped_fft_ruido_contacto.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CMOS_OR_SOLA\cropped_fft_ruido_contacto.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CMOS_OR_SOLA\cropped_fft_ruido_contacto.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CMOS_OR_SOLA\cropped_fft_ruido_contacto.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CMOS_OR_SOLA\cropped_fft_ruido_contacto.png
+INPUT ..\EJ5\Recursos\connection.png
+INPUT ..\EJ5\Recursos\connection.png
+INPUT ..\EJ5\Recursos\connection.png
+INPUT ..\EJ5\Recursos\connection.png
+INPUT ..\EJ5\Recursos\connection.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_entrada_estado_bajo.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_entrada_estado_bajo.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_entrada_estado_bajo.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_entrada_estado_bajo.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_entrada_estado_bajo.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_entrada_estado_alto.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_entrada_estado_alto.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_entrada_estado_alto.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_entrada_estado_alto.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_entrada_estado_alto.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_entrada_al_aire.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_entrada_al_aire.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_entrada_al_aire.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_entrada_al_aire.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_entrada_al_aire.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_con_carga_baja.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_con_carga_baja.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_con_carga_baja.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_con_carga_baja.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_con_carga_baja.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_con_carga_alta.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_con_carga_alta.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_con_carga_alta.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_con_carga_alta.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_con_carga_alta.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_con_carga_excedida.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_con_carga_excedida.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_con_carga_excedida.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_con_carga_excedida.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_con_carga_excedida.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_triangular_zoom.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_triangular_zoom.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_triangular_zoom.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_triangular_zoom.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_triangular_zoom.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_propagacion.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_propagacion.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_propagacion.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_propagacion.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_propagacion.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_carga_capacitiva.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_carga_capacitiva.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_carga_capacitiva.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_carga_capacitiva.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\CONEXION\cropped_carga_capacitiva.png
+INPUT ..\EJ5\Recursos\pnp_interface.png
+INPUT ..\EJ5\Recursos\pnp_interface.png
+INPUT ..\EJ5\Recursos\pnp_interface.png
+INPUT ..\EJ5\Recursos\pnp_interface.png
+INPUT ..\EJ5\Recursos\pnp_interface.png
+INPUT ..\EJ5\Recursos\mos_interface.png
+INPUT ..\EJ5\Recursos\mos_interface.png
+INPUT ..\EJ5\Recursos\mos_interface.png
+INPUT ..\EJ5\Recursos\mos_interface.png
+INPUT ..\EJ5\Recursos\mos_interface.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\LEVEL_SHIFTER\cropped_bjt.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\LEVEL_SHIFTER\cropped_bjt.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\LEVEL_SHIFTER\cropped_bjt.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\LEVEL_SHIFTER\cropped_bjt.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\LEVEL_SHIFTER\cropped_bjt.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\LEVEL_SHIFTER\cropped_mos.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\LEVEL_SHIFTER\cropped_mos.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\LEVEL_SHIFTER\cropped_mos.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\LEVEL_SHIFTER\cropped_mos.png
+INPUT ..\EJ5\Mediciones\Osciloscopio\LEVEL_SHIFTER\cropped_mos.png
 INPUT ej6.tex
 INPUT ej6.tex
+INPUT ..\EJ6\Recursos\latch_sr_with_gates.jpg
+INPUT ..\EJ6\Recursos\latch_sr_with_gates.jpg
+INPUT ..\EJ6\Recursos\latch_sr_with_gates.jpg
+INPUT ..\EJ6\Recursos\latch_sr_with_gates.jpg
+INPUT ..\EJ6\Recursos\latch_sr_with_gates.jpg
+INPUT ..\EJ6\Recursos\ffd_with_gates.jpg
+INPUT ..\EJ6\Recursos\ffd_with_gates.jpg
+INPUT ..\EJ6\Recursos\ffd_with_gates.jpg
+INPUT ..\EJ6\Recursos\ffd_with_gates.jpg
+INPUT ..\EJ6\Recursos\ffd_with_gates.jpg
+INPUT ..\EJ6\Recursos\latch_sr_schematic.png
+INPUT ..\EJ6\Recursos\latch_sr_schematic.png
+INPUT ..\EJ6\Recursos\latch_sr_schematic.png
+INPUT ..\EJ6\Recursos\latch_sr_schematic.png
+INPUT ..\EJ6\Recursos\latch_sr_schematic.png
+INPUT ..\EJ6\Recursos\ffd_adapter_schematic.png
+INPUT ..\EJ6\Recursos\ffd_adapter_schematic.png
+INPUT ..\EJ6\Recursos\ffd_adapter_schematic.png
+INPUT ..\EJ6\Recursos\ffd_adapter_schematic.png
+INPUT ..\EJ6\Recursos\ffd_adapter_schematic.png
+INPUT ..\EJ6\Recursos\latch_sr_high.png
+INPUT ..\EJ6\Recursos\latch_sr_high.png
+INPUT ..\EJ6\Recursos\latch_sr_high.png
+INPUT ..\EJ6\Recursos\latch_sr_high.png
+INPUT ..\EJ6\Recursos\latch_sr_high.png
+INPUT ..\EJ6\Recursos\latch_sr_low.png
+INPUT ..\EJ6\Recursos\latch_sr_low.png
+INPUT ..\EJ6\Recursos\latch_sr_low.png
+INPUT ..\EJ6\Recursos\latch_sr_low.png
+INPUT ..\EJ6\Recursos\latch_sr_low.png
+INPUT ..\EJ6\Recursos\latch_sr_rise_osc.png
+INPUT ..\EJ6\Recursos\latch_sr_rise_osc.png
+INPUT ..\EJ6\Recursos\latch_sr_rise_osc.png
+INPUT ..\EJ6\Recursos\latch_sr_rise_osc.png
+INPUT ..\EJ6\Recursos\latch_sr_rise_osc.png
+INPUT ..\EJ6\Recursos\latch_sr_rise.png
+INPUT ..\EJ6\Recursos\latch_sr_rise.png
+INPUT ..\EJ6\Recursos\latch_sr_rise.png
+INPUT ..\EJ6\Recursos\latch_sr_rise.png
+INPUT ..\EJ6\Recursos\latch_sr_rise.png
+INPUT ..\EJ6\Recursos\latch_sr_fall_osc.png
+INPUT ..\EJ6\Recursos\latch_sr_fall_osc.png
+INPUT ..\EJ6\Recursos\latch_sr_fall_osc.png
+INPUT ..\EJ6\Recursos\latch_sr_fall_osc.png
+INPUT ..\EJ6\Recursos\latch_sr_fall_osc.png
+INPUT ..\EJ6\Recursos\latch_sr_fall.png
+INPUT ..\EJ6\Recursos\latch_sr_fall.png
+INPUT ..\EJ6\Recursos\latch_sr_fall.png
+INPUT ..\EJ6\Recursos\latch_sr_fall.png
+INPUT ..\EJ6\Recursos\latch_sr_fall.png
+INPUT ..\EJ6\Recursos\com_latch_rise_osc.png
+INPUT ..\EJ6\Recursos\com_latch_rise_osc.png
+INPUT ..\EJ6\Recursos\com_latch_rise_osc.png
+INPUT ..\EJ6\Recursos\com_latch_rise_osc.png
+INPUT ..\EJ6\Recursos\com_latch_rise_osc.png
+INPUT ..\EJ6\Recursos\com_latch_rise.png
+INPUT ..\EJ6\Recursos\com_latch_rise.png
+INPUT ..\EJ6\Recursos\com_latch_rise.png
+INPUT ..\EJ6\Recursos\com_latch_rise.png
+INPUT ..\EJ6\Recursos\com_latch_rise.png
+INPUT ..\EJ6\Recursos\com_latch_fall_osc.png
+INPUT ..\EJ6\Recursos\com_latch_fall_osc.png
+INPUT ..\EJ6\Recursos\com_latch_fall_osc.png
+INPUT ..\EJ6\Recursos\com_latch_fall_osc.png
+INPUT ..\EJ6\Recursos\com_latch_fall_osc.png
+INPUT ..\EJ6\Recursos\com_latch_fall.png
+INPUT ..\EJ6\Recursos\com_latch_fall.png
+INPUT ..\EJ6\Recursos\com_latch_fall.png
+INPUT ..\EJ6\Recursos\com_latch_fall.png
+INPUT ..\EJ6\Recursos\com_latch_fall.png
+INPUT ..\EJ6\Recursos\ffd_hold_and_set_up.png
+INPUT ..\EJ6\Recursos\ffd_hold_and_set_up.png
+INPUT ..\EJ6\Recursos\ffd_hold_and_set_up.png
+INPUT ..\EJ6\Recursos\ffd_hold_and_set_up.png
+INPUT ..\EJ6\Recursos\ffd_hold_and_set_up.png
+INPUT ..\EJ6\Recursos\ffd_rise_osc.png
+INPUT ..\EJ6\Recursos\ffd_rise_osc.png
+INPUT ..\EJ6\Recursos\ffd_rise_osc.png
+INPUT ..\EJ6\Recursos\ffd_rise_osc.png
+INPUT ..\EJ6\Recursos\ffd_rise_osc.png
+INPUT ..\EJ6\Recursos\ffd_rise.png
+INPUT ..\EJ6\Recursos\ffd_rise.png
+INPUT ..\EJ6\Recursos\ffd_rise.png
+INPUT ..\EJ6\Recursos\ffd_rise.png
+INPUT ..\EJ6\Recursos\ffd_rise.png
+INPUT ..\EJ6\Recursos\ffd_fall_osc.png
+INPUT ..\EJ6\Recursos\ffd_fall_osc.png
+INPUT ..\EJ6\Recursos\ffd_fall_osc.png
+INPUT ..\EJ6\Recursos\ffd_fall_osc.png
+INPUT ..\EJ6\Recursos\ffd_fall_osc.png
+INPUT ..\EJ6\Recursos\ffd_fall.png
+INPUT ..\EJ6\Recursos\ffd_fall.png
+INPUT ..\EJ6\Recursos\ffd_fall.png
+INPUT ..\EJ6\Recursos\ffd_fall.png
+INPUT ..\EJ6\Recursos\ffd_fall.png
+INPUT ..\EJ6\Recursos\com_ffd_rise_osc.png
+INPUT ..\EJ6\Recursos\com_ffd_rise_osc.png
+INPUT ..\EJ6\Recursos\com_ffd_rise_osc.png
+INPUT ..\EJ6\Recursos\com_ffd_rise_osc.png
+INPUT ..\EJ6\Recursos\com_ffd_rise_osc.png
+INPUT ..\EJ6\Recursos\com_ffd_rise.png
+INPUT ..\EJ6\Recursos\com_ffd_rise.png
+INPUT ..\EJ6\Recursos\com_ffd_rise.png
+INPUT ..\EJ6\Recursos\com_ffd_rise.png
+INPUT ..\EJ6\Recursos\com_ffd_rise.png
+INPUT ..\EJ6\Recursos\com_ffd_fall_osc.png
+INPUT ..\EJ6\Recursos\com_ffd_fall_osc.png
+INPUT ..\EJ6\Recursos\com_ffd_fall_osc.png
+INPUT ..\EJ6\Recursos\com_ffd_fall_osc.png
+INPUT ..\EJ6\Recursos\com_ffd_fall_osc.png
+INPUT ..\EJ6\Recursos\com_ffd_fall.png
+INPUT ..\EJ6\Recursos\com_ffd_fall.png
+INPUT ..\EJ6\Recursos\com_ffd_fall.png
+INPUT ..\EJ6\Recursos\com_ffd_fall.png
+INPUT ..\EJ6\Recursos\com_ffd_fall.png
 INPUT ej7.tex
 INPUT ej7.tex
 INPUT ej8.tex
@@ -253,6 +688,8 @@ INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfo
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmcsc10.pfb
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi10.pfb
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi5.pfb
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi5.pfb
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi7.pfb
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmmi7.pfb
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr10.pfb
@@ -269,5 +706,7 @@ INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfo
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr8.pfb
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy10.pfb
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy7.pfb
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy7.pfb
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti10.pfb
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti10.pfb
