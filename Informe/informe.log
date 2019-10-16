@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.20)  16 OCT 2019 09:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7140 64-bit) (preloaded format=pdflatex 2019.9.20)  16 OCT 2019 09:51
 entering extended mode
 **./informe.tex
 (informe.tex
@@ -792,10 +792,6 @@ File: tikzlibrarycalc.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 )) (informe.aux
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
-
-
-LaTeX Warning: Label `Karnaugh_glitch' multiply defined.
-
 )
 \openout1 = `informe.aux'.
 
@@ -1880,13 +1876,13 @@ Package rerunfilecheck Info: File `informe.out' has not changed.
 (rerunfilecheck)             Checksum: 335794B94F55700FFAAD3812A79EAFAE;4786.
 
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
  21503 strings out of 492895
  422040 string characters out of 3123735
- 496833 words of memory out of 3000000
+ 496841 words of memory out of 3000000
  24699 multiletter control sequences out of 15000+200000
  11647 words of font info for 42 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1910,7 +1906,7 @@ fb><C:/Users/Joaco/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
 s/cm/cmsy10.pfb><C:/Users/Joaco/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
 ublic/amsfonts/cm/cmsy7.pfb><C:/Users/Joaco/AppData/Local/Programs/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on informe.pdf (44 pages, 15664077 bytes).
+Output written on informe.pdf (44 pages, 15664085 bytes).
 PDF statistics:
  966 PDF objects out of 1000 (max. 8388607)
  205 named destinations out of 1000 (max. 500000)
