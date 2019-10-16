@@ -1,0 +1,64 @@
+\BOOKMARK [1][-]{section*.2}{Ejercicio 1: Tecnolog\355as TTL, RTL, NMOS y CMOS}{}% 1
+\BOOKMARK [2][-]{section*.3}{An\341lisis te\363rico}{section*.2}% 2
+\BOOKMARK [2][-]{section*.9}{Niveles de tensi\363n}{section*.2}% 3
+\BOOKMARK [3][-]{section*.10}{Proceso de medici\363n}{section*.9}% 4
+\BOOKMARK [3][-]{section*.14}{An\341lisis de resultados}{section*.9}% 5
+\BOOKMARK [2][-]{section*.15}{Tiempos de operaci\363n}{section*.2}% 6
+\BOOKMARK [3][-]{section*.16}{Proceso de medici\363n}{section*.15}% 7
+\BOOKMARK [3][-]{section*.21}{An\341lisis de resultados}{section*.15}% 8
+\BOOKMARK [2][-]{section*.22}{Corrientes m\341ximas}{section*.2}% 9
+\BOOKMARK [3][-]{section*.23}{Proceso de medici\363n}{section*.22}% 10
+\BOOKMARK [3][-]{section*.27}{An\341lisis de resultados}{section*.22}% 11
+\BOOKMARK [2][-]{section*.28}{Dise\361o de PCB}{section*.2}% 12
+\BOOKMARK [2][-]{section*.30}{Observaciones}{section*.2}% 13
+\BOOKMARK [3][-]{section*.31}{Resistencia de pull-down}{section*.30}% 14
+\BOOKMARK [3][-]{section*.33}{Tiempos de transici\363n}{section*.30}% 15
+\BOOKMARK [3][-]{section*.35}{Mediciones}{section*.30}% 16
+\BOOKMARK [2][-]{section*.37}{Conclusi\363n}{section*.2}% 17
+\BOOKMARK [1][-]{section*.38}{Ejercicio 2: Comparaci\363n de compuertas discretas con tecnolog\355a TTL y CMOS}{}% 18
+\BOOKMARK [2][-]{section*.39}{Marco te\363rico}{section*.38}% 19
+\BOOKMARK [2][-]{section*.43}{An\341lisis mediante hojas de datos}{section*.38}% 20
+\BOOKMARK [2][-]{section*.46}{Resultados experimentales}{section*.38}% 21
+\BOOKMARK [2][-]{section*.51}{Conclusi\363n}{section*.38}% 22
+\BOOKMARK [1][-]{section*.52}{Ejercicio 3: Medici\363n de un glitch}{}% 23
+\BOOKMARK [2][-]{section*.54}{S\355ntesis del circuito}{section*.52}% 24
+\BOOKMARK [2][-]{section*.56}{Implementaci\363n y medici\363n del circuito}{section*.52}% 25
+\BOOKMARK [2][-]{section*.61}{Conclusi\363n}{section*.52}% 26
+\BOOKMARK [1][-]{section*.62}{Ejercicio 4: Tiempos de propagaci\363n en compuerta CMOS}{}% 27
+\BOOKMARK [2][-]{section*.63}{Descripci\363n del an\341lisis}{section*.62}% 28
+\BOOKMARK [2][-]{section*.65}{Resultados}{section*.62}% 29
+\BOOKMARK [3][-]{section*.66}{Mediciones de tiempo de propagaci\363n}{section*.65}% 30
+\BOOKMARK [3][-]{section*.70}{Mediciones de tiempo rise y fall}{section*.65}% 31
+\BOOKMARK [3][-]{section*.74}{Overshoot}{section*.65}% 32
+\BOOKMARK [3][-]{section*.75}{Mediciones a altas frecuencias}{section*.65}% 33
+\BOOKMARK [2][-]{section*.78}{Conclusi\363n}{section*.62}% 34
+\BOOKMARK [1][-]{section*.79}{Ejercicio 5: TTL y MOS, entradas abiertas y compatibilidad entre tecnolog\355as}{}% 35
+\BOOKMARK [2][-]{section*.80}{Compuertas discretas con entrada desconectada}{section*.79}% 36
+\BOOKMARK [3][-]{section*.81}{Descripci\363n general}{section*.80}% 37
+\BOOKMARK [3][-]{section*.83}{Resultados}{section*.80}% 38
+\BOOKMARK [3][-]{section*.86}{An\341lisis de resultados}{section*.80}% 39
+\BOOKMARK [2][-]{section*.88}{Conexi\363n TTL y CMOS}{section*.79}% 40
+\BOOKMARK [3][-]{section*.89}{Descripci\363n general}{section*.88}% 41
+\BOOKMARK [3][-]{section*.91}{Resultados}{section*.88}% 42
+\BOOKMARK [3][-]{section*.93}{An\341lisis de resultados}{section*.88}% 43
+\BOOKMARK [3][-]{section*.95}{Soluciones propuestas}{section*.88}% 44
+\BOOKMARK [1][-]{section*.98}{Ejercicio 6: Dise\361o e implementaci\363n de multivibradores biestables}{}% 45
+\BOOKMARK [2][-]{section*.99}{Dise\361o de los circuitos}{section*.98}% 46
+\BOOKMARK [3][-]{section*.100}{Latch SR}{section*.99}% 47
+\BOOKMARK [3][-]{section*.103}{Flip-Flop D}{section*.99}% 48
+\BOOKMARK [2][-]{section*.106}{Implementaci\363n en PCB}{section*.98}% 49
+\BOOKMARK [2][-]{section*.109}{Medici\363n de par\341metros de los circuitos.}{section*.98}% 50
+\BOOKMARK [3][-]{section*.110}{Latch SR}{section*.109}% 51
+\BOOKMARK [3][-]{section*.117}{Flip-Flop D}{section*.109}% 52
+\BOOKMARK [2][-]{section*.123}{Conclusi\363n}{section*.98}% 53
+\BOOKMARK [1][-]{section*.124}{Ejercicio 7: Dise\361o de contadores sincr\363nicos y asincr\363nicos de 3 bits}{}% 54
+\BOOKMARK [2][-]{section*.125}{Contador Asincr\363nico}{section*.124}% 55
+\BOOKMARK [3][-]{section*.126}{Dise\361o del circuito}{section*.125}% 56
+\BOOKMARK [2][-]{section*.129}{Contador Sincr\363nico}{section*.124}% 57
+\BOOKMARK [3][-]{section*.130}{Dise\361o del circuito}{section*.129}% 58
+\BOOKMARK [2][-]{section*.135}{Visualizaci\363n del contador}{section*.124}% 59
+\BOOKMARK [3][-]{section*.136}{Dise\361o del circuito}{section*.135}% 60
+\BOOKMARK [2][-]{section*.139}{Resultados}{section*.124}% 61
+\BOOKMARK [3][-]{section*.141}{Mediciones}{section*.139}% 62
+\BOOKMARK [3][-]{section*.144}{An\341lisis de datos}{section*.139}% 63
+\BOOKMARK [2][-]{section*.146}{Conclusi\363n}{section*.124}% 64
