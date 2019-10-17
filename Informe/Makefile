@@ -3,7 +3,7 @@
 # Quiza es copy paste del github de Kevin...
 ##################################################################
 
-REPORT_FILE = Informe
+REPORT_FILE = informe
 OTHER = *~ *.aux *.dvi *.toc *.bbl *.blg *.gz *.out *.thm *.ps *.idx *.ilg *.ind *.log *.fdb_latexmk *.fls
 
 informe: $(REPORT_FILE).tex
