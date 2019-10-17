@@ -361,11 +361,6 @@ INPUT ..\EJ1\Mediciones\Osciloscopio\Observaciones\Mejora_transicion_MOS\cropped
 INPUT ..\EJ1\Mediciones\Osciloscopio\Observaciones\Mejora_transicion_MOS\cropped_scope_15.png
 INPUT ej2.tex
 INPUT ej2.tex
-INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ulasy.fd
-INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ulasy.fd
-INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\latex-fonts\lasy10.tfm
-INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\latex-fonts\lasy10.tfm
-INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\latex-fonts\lasy10.tfm
 INPUT ..\EJ2\Recursos\schottky_transistor_symbol.png
 INPUT ..\EJ2\Recursos\schottky_transistor_symbol.png
 INPUT ..\EJ2\Recursos\schottky_transistor_symbol.png
@@ -386,7 +381,6 @@ INPUT ..\EJ2\Recursos\incompatible_gates.jpg
 INPUT ..\EJ2\Recursos\incompatible_gates.jpg
 INPUT ..\EJ2\Recursos\incompatible_gates.jpg
 INPUT ..\EJ2\Recursos\incompatible_gates.jpg
-INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\latex-fonts\lasy8.tfm
 INPUT ..\EJ2\Recursos\scope_32.png
 INPUT ..\EJ2\Recursos\scope_32.png
 INPUT ..\EJ2\Recursos\scope_32.png
@@ -780,7 +774,3 @@ INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfo
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy7.pfb
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti10.pfb
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti10.pfb
-INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\latxfont\lasy10.pfb
-INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\latxfont\lasy10.pfb
-INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\latxfont\lasy8.pfb
-INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\latxfont\lasy8.pfb

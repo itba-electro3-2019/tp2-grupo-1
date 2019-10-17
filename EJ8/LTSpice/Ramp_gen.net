@@ -1,0 +1,19 @@
+* C:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\EJ8\LTSpice\Ramp_gen.asc
+XU1 N005 N004 +VCC -VCC N001 TL08X
+XU2 N006 N002 +VCC -VCC N003 TL08X
+R1 N001 N004 10k
+R2 N001 N005 10k
+R3 N005 0 10k
+R4 N002 N001 200k
+R5 N003 N002 1Meg
+R6 N007 N006 150k
+C1 N004 0 1µ
+C2 N003 N002 100n
+V1 +VCC 0 15
+V2 0 -VCC 15
+R7 +VCC N007 1Meg
+R8 N007 0 63k
+.tran 0 200m 120m 100u startup
+.lib C:\Users\Carlos\Documents\LTspiceXVII\lib\Opamps_Comparators_ST.lib
+.backanno
+.end

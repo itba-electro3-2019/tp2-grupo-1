@@ -1,0 +1,22 @@
+Circuit: * C:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\EJ8\LTSpice\Ramp_gen.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Wed Oct 16 13:22:07 2019
+Total elapsed time: 0.194 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 11868
+traniter = 11851
+tranpoints = 4177
+accept = 3510
+rejected = 667
+matrix size = 83
+fillins = 57
+solver = Normal
+Thread vector: 6.4/5.7[2] 3.2/4.0[1] 0.8/3.2[1] 0.5/3.9[1]  2592/500
+Matrix Compiler1: 5.49 KB object code size  2.6/1.4/[0.5]
+Matrix Compiler2: 7.43 KB object code size  1.4/2.0/[0.7]
+

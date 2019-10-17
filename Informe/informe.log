@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.21)  15 OCT 2019 15:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.4.21)  15 OCT 2019 15:45
 entering extended mode
 **"c:/Users/Carlos/Desktop/ITBA/3er año/1er cuatri/E3/TP2/tp2-grupo-1/Informe/informe.tex"
 ("c:/Users/Carlos/Desktop/ITBA/3er año/1er cuatri/E3/TP2/tp2-grupo-1/Informe/informe.tex"
@@ -1122,4 +1122,110 @@ Overfull \hbox (24.0pt too wide) in paragraph at lines 159--163
 <../EJ6/Recursos/com_latch_fall_osc.png, id=652, 767.11594pt x 505.13719pt>
 File: ../EJ6/Recursos/com_latch_fall_osc.png Graphic file (type png)
 <use ../EJ6/Recursos/com_latch_fall_osc.png>
-Package pdftex.def Info: ../EJ6/Recursos/com_latch_fall_osc.png  used o
+Package pdftex.def Info: ../EJ6/Recursos/com_latch_fall_osc.png  used on input line 170.
+(pdftex.def)             Requested size: 227.62206pt x 149.88515pt.
+<../EJ6/Recursos/com_latch_fall.png, id=653, 921.4425pt x 685.8423pt>
+File: ../EJ6/Recursos/com_latch_fall.png Graphic file (type png)
+<use ../EJ6/Recursos/com_latch_fall.png>
+Package pdftex.def Info: ../EJ6/Recursos/com_latch_fall.png  used on input line 171.
+(pdftex.def)             Requested size: 227.62206pt x 169.41945pt.
+
+Overfull \hbox (24.0pt too wide) in paragraph at lines 169--173
+ [][] 
+ []
+
+[31 <../EJ6/Recursos/latch_sr_fall_osc.png> <../EJ6/Recursos/latch_sr_fall.png> <../EJ6/Recursos/com_latch_rise_osc.png> <../EJ6/Recursos/com_latch_rise.png>]
+<../EJ6/Recursos/ffd_hold_and_set_up.png, id=665, 767.86874pt x 509.65407pt>
+File: ../EJ6/Recursos/ffd_hold_and_set_up.png Graphic file (type png)
+<use ../EJ6/Recursos/ffd_hold_and_set_up.png>
+Package pdftex.def Info: ../EJ6/Recursos/ffd_hold_and_set_up.png  used on input line 190.
+(pdftex.def)             Requested size: 273.14923pt x 181.29785pt.
+<../EJ6/Recursos/ffd_rise_osc.png, id=668, 767.86874pt x 502.87875pt>
+File: ../EJ6/Recursos/ffd_rise_osc.png Graphic file (type png)
+<use ../EJ6/Recursos/ffd_rise_osc.png>
+Package pdftex.def Info: ../EJ6/Recursos/ffd_rise_osc.png  used on input line 202.
+(pdftex.def)             Requested size: 227.62206pt x 149.06923pt.
+<../EJ6/Recursos/ffd_rise.png, id=669, 921.4425pt x 685.8423pt>
+File: ../EJ6/Recursos/ffd_rise.png Graphic file (type png)
+<use ../EJ6/Recursos/ffd_rise.png>
+Package pdftex.def Info: ../EJ6/Recursos/ffd_rise.png  used on input line 203.
+(pdftex.def)             Requested size: 227.62206pt x 169.41945pt.
+
+Overfull \hbox (24.0pt too wide) in paragraph at lines 201--205
+ [][] 
+ []
+
+[32 <../EJ6/Recursos/com_latch_fall_osc.png> <../EJ6/Recursos/com_latch_fall.png> <../EJ6/Recursos/ffd_hold_and_set_up.png>]
+<../EJ6/Recursos/ffd_fall_osc.png, id=678, 770.12718pt x 503.63156pt>
+File: ../EJ6/Recursos/ffd_fall_osc.png Graphic file (type png)
+<use ../EJ6/Recursos/ffd_fall_osc.png>
+Package pdftex.def Info: ../EJ6/Recursos/ffd_fall_osc.png  used on input line 212.
+(pdftex.def)             Requested size: 227.62206pt x 148.85435pt.
+<../EJ6/Recursos/ffd_fall.png, id=679, 921.4425pt x 685.8423pt>
+File: ../EJ6/Recursos/ffd_fall.png Graphic file (type png)
+<use ../EJ6/Recursos/ffd_fall.png>
+Package pdftex.def Info: ../EJ6/Recursos/ffd_fall.png  used on input line 213.
+(pdftex.def)             Requested size: 227.62206pt x 169.41945pt.
+
+Overfull \hbox (24.0pt too wide) in paragraph at lines 211--215
+ [][] 
+ []
+
+<../EJ6/Recursos/com_ffd_rise_osc.png, id=683, 768.62157pt x 508.90125pt>
+File: ../EJ6/Recursos/com_ffd_rise_osc.png Graphic file (type png)
+<use ../EJ6/Recursos/com_ffd_rise_osc.png>
+Package pdftex.def Info: ../EJ6/Recursos/com_ffd_rise_osc.png  used on input line 228.
+(pdftex.def)             Requested size: 227.62206pt x 150.70695pt.
+<../EJ6/Recursos/com_ffd_rise.png, id=684, 921.4425pt x 685.8423pt>
+File: ../EJ6/Recursos/com_ffd_rise.png Graphic file (type png)
+<use ../EJ6/Recursos/com_ffd_rise.png>
+Package pdftex.def Info: ../EJ6/Recursos/com_ffd_rise.png  used on input line 229.
+(pdftex.def)             Requested size: 227.62206pt x 169.41945pt.
+
+Overfull \hbox (24.0pt too wide) in paragraph at lines 227--231
+ [][] 
+ []
+
+[33 <../EJ6/Recursos/ffd_rise_osc.png> <../EJ6/Recursos/ffd_rise.png> <../EJ6/Recursos/ffd_fall_osc.png> <../EJ6/Recursos/ffd_fall.png>]
+<../EJ6/Recursos/com_ffd_fall_osc.png, id=694, 768.62157pt x 506.6428pt>
+File: ../EJ6/Recursos/com_ffd_fall_osc.png Graphic file (type png)
+<use ../EJ6/Recursos/com_ffd_fall_osc.png>
+Package pdftex.def Info: ../EJ6/Recursos/com_ffd_fall_osc.png  used on input line 238.
+(pdftex.def)             Requested size: 227.62206pt x 150.03813pt.
+<../EJ6/Recursos/com_ffd_fall.png, id=695, 921.4425pt x 685.8423pt>
+File: ../EJ6/Recursos/com_ffd_fall.png Graphic file (type png)
+<use ../EJ6/Recursos/com_ffd_fall.png>
+Package pdftex.def Info: ../EJ6/Recursos/com_ffd_fall.png  used on input line 239.
+(pdftex.def)             Requested size: 227.62206pt x 169.41945pt.
+
+Overfull \hbox (24.0pt too wide) in paragraph at lines 237--241
+ [][] 
+ []
+
+) [34 <../EJ6/Recursos/com_ffd_rise_osc.png> <../EJ6/Recursos/com_ffd_rise.png> <../EJ6/Recursos/com_ffd_fall_osc.png> <../EJ6/Recursos/com_ffd_fall.png>] (ej7.tex) [35] (ej8.tex) [36]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 43.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 43.
+ ("c:/Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.aux"
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 43.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 43.
+Package rerunfilecheck Info: File `informe.out' has not changed.
+(rerunfilecheck)             Checksum: 7632A618332D9984A71D1C3554186103;3961.
+ ) 
+Here is how much of TeX's memory you used:
+ 20688 strings out of 492945
+ 403619 string characters out of 3125808
+ 471585 words of memory out of 3000000
+ 23937 multiletter control sequences out of 15000+200000
+ 11647 words of font info for 42 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 63i,13n,81p,874b,654s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/Carlos/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on "c:/Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.pdf" (36 pages, 13361866 bytes).
+PDF statistics:
+ 796 PDF objects out of 1000 (max. 8388607)
+ 162 named destinations out of 1000 (max. 500000)
+ 985 words of extra memory for PDF output out of 10000 (max. 10000000)
+
