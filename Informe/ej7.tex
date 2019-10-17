@@ -143,24 +143,24 @@ se mide el tiempo de propagaci\'on de los cambios de cada uno de los flip flops 
 \begin{figure}[H]
     \centering
         \begin{tabular}{c c}
-            \includegraphics[scale=0.2]{../EJ7/Mediciones/Osciloscopio/Asincronico/cropped_contador.png} &
-            \includegraphics[scale=0.2]{../EJ7/Mediciones/Osciloscopio/Asincronico/cropped_salida_q0.png} \\
-            \includegraphics[scale=0.2]{../EJ7/Mediciones/Osciloscopio/Asincronico/cropped_salida_q1.png} &
-            \includegraphics[scale=0.2]{../EJ7/Mediciones/Osciloscopio/Asincronico/cropped_salida_q2.png}
+            \includegraphics[scale=0.2]{../EJ7/Mediciones/Osciloscopio/Segundo_Intento/Asincronico/cropped_contador.png} &
+            \includegraphics[scale=0.2]{../EJ7/Mediciones/Osciloscopio/Segundo_Intento/Asincronico/cropped_salida_q0.png} \\
+            \includegraphics[scale=0.2]{../EJ7/Mediciones/Osciloscopio/Segundo_Intento/Asincronico/cropped_salida_q1.png} &
+            \includegraphics[scale=0.2]{../EJ7/Mediciones/Osciloscopio/Segundo_Intento/Asincronico/cropped_salida_q2.png}
         \end{tabular}
-    \caption{Mediciones realizadas del contador Asincr\'onico}
+    \caption{Mediciones para Asincr\'onico entre punto medio y $V_{OH}$}
     \label{fig:asincronico_mediciones}
 \end{figure}
 
 \begin{figure}[H]
     \centering
         \begin{tabular}{c c}
-            \includegraphics[scale=0.2]{../EJ7/Mediciones/Osciloscopio/Sincronico/cropped_contador.png} &
-            \includegraphics[scale=0.2]{../EJ7/Mediciones/Osciloscopio/Sincronico/cropped_salida_q0.png} \\
-            \includegraphics[scale=0.2]{../EJ7/Mediciones/Osciloscopio/Sincronico/cropped_salida_q1.png} &
-            \includegraphics[scale=0.2]{../EJ7/Mediciones/Osciloscopio/Sincronico/cropped_salida_q2.png}
+            \includegraphics[scale=0.2]{../EJ7/Mediciones/Osciloscopio/Segundo_Intento/Sincronico/cropped_contador.png} &
+            \includegraphics[scale=0.2]{../EJ7/Mediciones/Osciloscopio/Segundo_Intento/Sincronico/cropped_salida_q0.png} \\
+            \includegraphics[scale=0.2]{../EJ7/Mediciones/Osciloscopio/Segundo_Intento/Sincronico/cropped_salida_q1.png} &
+            \includegraphics[scale=0.2]{../EJ7/Mediciones/Osciloscopio/Segundo_Intento/Sincronico/cropped_salida_q2.png}
         \end{tabular}
-    \caption{Mediciones realizadas del contador Sincr\'onico}
+    \caption{Mediciones para Sincr\'onico entre punto medio y $V_{OH}$}
     \label{fig:sincronico_mediciones}
 \end{figure}
 
@@ -170,19 +170,18 @@ no obstante se encontraba dentro del margen de $V_{OH}$ seg\'un lo provisto por 
 
 En la Fig. \ref{fig:asincronico_mediciones} se puede observar como la forma en que el clock de cada bit depende del anterior en peso produce una propagaci\'on de los tiempos, con lo cual ello explica
 la raz\'on de que en esa medida los tiempos hayan ido incrementando bit a bit en el contador. Es por esto que el tiempo de propagaci\'on total
-del contador es de $t_p = 49nS$, con lo cual cualquier frecuencia de clock que quiera producir un cambio en menos tiempo de esto va a ser ignorada, por ende, limita la frecuencia de operaci\'on a
-$f_{MAX} = 20.408MHz$. Es de inter\'es remarcar que hay una buena simetr\'ia entre los flip flos, dado que el incremento de tiempo fue aproximadamente el mismo al pasar por cada una.
+del contador es de $t_p = 55.5nS$, con lo cual cualquier frecuencia de clock que quiera producir un cambio en menos tiempo de esto va a ser ignorada, por ende, limita la frecuencia de operaci\'on a
+$f_{MAX} = 18.01MHz$.
 
-En el caso de las mediciones de la Fig. \ref{fig:sincronico_mediciones}, en principio se puede observar la consecuencia directa del contador sincr\'onico en la cual todas las salidas tienen aproximadamente el mismo tiempo de propagaci\'on,
-o por lo menos no se va incrementando. Vale mencionar que se asume que las diferencias entre cada una de ellas se produce por las asimetr\'ias e imperfecciones en el proceso de fabricaci\'on, por ello se considera que para determinar la frecuencia
-m\'axima de operaci\'on es necesario tener en cuenta la de respuesta m\'as lenta, es decir, $t_p = 13.7nS \Rightarrow f_{MAX} = 76.92MHz$.
+En el caso de las mediciones de la Fig. \ref{fig:sincronico_mediciones}, para determinar la frecuencia
+m\'axima de operaci\'on es necesario tener en cuenta la respuesta m\'as lenta, es decir, $t_p = 25.6nS \Rightarrow f_{MAX} = 39.03MHz$.
 
 \begin{table}[H]
     \centering
     \begin{tabular}{c c}
         \hline \\
-        Contador Asincr\'onico & $f_{MAX} = 20.408MHz$ \\
-        Contador Sincr\'onico & $f_{MAX} = 76.92MHz$ \\
+        Contador Asincr\'onico & $f_{MAX} = 18.01MHz$ \\
+        Contador Sincr\'onico & $f_{MAX} = 39.03MHz$ \\
         \hline
     \end{tabular}
 \end{table}
