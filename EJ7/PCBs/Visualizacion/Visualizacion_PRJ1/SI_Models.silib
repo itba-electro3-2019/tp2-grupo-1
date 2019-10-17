@@ -1,0 +1,482 @@
+@IDBM:LS_000_S0_in.mac
+###############################################################################
+#
+#  Header     : 1.0;
+#  Filename   : LS_000_S0_in.mac;
+#  FileRev    : 2.0;
+#  Date       : 02/03/1997;
+#  Permission : ;
+#  Simulator  : 2;
+#  Modeltype  : 0;
+#  Technology : LS;
+#  Changes    : None;
+#  Notes      : generated for TI SN74LS240 and comparable unidirectional
+#		buffers of technology LS; VCC= 5V, GND clamping diodes;
+#
+#  RefSource
+#     Component     : SN74LS240;
+#     Manufacturer  : TI;
+#     Buffername    : INBUF;
+#     Buffertype    : IN;
+#     Pins          : Inputs;
+#     Method        : Measurement;
+#     Copyright     : None;
+#     Disclaimer    : None;
+#     Notes         : GND Clamping Diodes;
+#
+#  RefCondition
+#     Process       : Typical;
+#     Temperature   : 25;
+#     SupplyVolt    : 5.000;
+#     RefVolt       : None;
+#     GndPackage    : Implicit;
+#     VccPackage    : Implicit;
+#     SigPackage    : Implicit;
+#     TermLineImp   : 50.000;
+#     TermLineDelay : 5.000e-09;
+#     Notes         : None;
+#
+#  
+#  LinearModel                  
+#     Resistance    : 1e6;
+#     Capacitance   : 4e-12;
+#     Inductance    : None;
+#     GndClamp      : None;
+#     PowClamp      : None;
+#     Notes         : None;
+#  
+###############################################################################
+MOD_STRUC 0
+INPUT_CHAR
+anz_int  19
+uu    -2.000000e+01
+uo    -1.010000e+00
+i0    2.120680e-01
+ g    2.468000e-01
+uu    -1.010000e+00
+uo    -8.800000e-01
+i0    1.251769e-01
+ g    1.607692e-01
+uu    -8.800000e-01
+uo    -8.000000e-01
+i0    7.280000e-02
+ g    1.012500e-01
+uu    -8.000000e-01
+uo    -7.400000e-01
+i0    4.113333e-02
+ g    6.166667e-02
+uu    -7.400000e-01
+uo    -6.900000e-01
+i0    2.362000e-02
+ g    3.800000e-02
+uu    -6.900000e-01
+uo    -6.400000e-01
+i0    1.258000e-02
+ g    2.200000e-02
+uu    -6.400000e-01
+uo    -6.000000e-01
+i0    6.500000e-03
+ g    1.250000e-02
+uu    -6.000000e-01
+uo    -5.500000e-01
+i0    5.000000e-03
+ g    1.000000e-02
+uu    -5.500000e-01
+uo    -5.400000e-01
+i0    -5.000000e-04
+ g    0.000000e+00
+uu    -5.400000e-01
+uo    -5.300000e-01
+i0    4.900000e-03
+ g    1.000000e-02
+uu    -5.300000e-01
+uo    -5.200000e-01
+i0    -4.000000e-04
+ g    0.000000e+00
+uu    -5.200000e-01
+uo    -5.100000e-01
+i0    4.800000e-03
+ g    1.000000e-02
+uu    -5.100000e-01
+uo    -4.800000e-01
+i0    -3.000000e-04
+ g    0.000000e+00
+uu    -4.800000e-01
+uo    -4.700000e-01
+i0    4.500000e-03
+ g    1.000000e-02
+uu    -4.700000e-01
+uo    1.070000e+00
+i0    -2.000000e-04
+ g    0.000000e+00
+uu    1.070000e+00
+uo    1.100000e+00
+i0    -3.766667e-03
+ g    3.333333e-03
+uu    1.100000e+00
+uo    1.160000e+00
+i0    -1.000000e-04
+ g    0.000000e+00
+uu    1.160000e+00
+uo    1.190000e+00
+i0    -3.966667e-03
+ g    3.333333e-03
+uu    1.190000e+00
+uo     2.000000e+01
+i0    -0.000000e+00
+ g    0.000000e+00
+CAPACITY
+c0e   4.e-12
+k1e   0.0
+END
+@IDBM:LS_040_S0_out.mac
+###############################################################################
+#
+#  Header     : 1.0;
+#  Filename   : LS_040_S0_out.mac;
+#  FileRev    : 2.0;
+#  Date       : 02/03/1997;
+#  Permission : ;
+#  Simulator  : 2;
+#  Modeltype  : 0;
+#  Technology : LS;
+#  Changes    : None;
+#  Notes      : generated for TI SN74LS240 and comparable 3-state output
+#		drivers of technology LS, VCC = 5V;
+#
+#  RefSource
+#     Component     : SN74LS240;
+#     Manufacturer  : TI;
+#     Buffername    : OUTBUF;
+#     Buffertype    : OUT;
+#     Pins          : Outputs;
+#     Method        : Measurement;
+#     Copyright     : None;
+#     Disclaimer    : None;
+#     Notes         : None;
+#
+#  RefCondition
+#     Process       : Typical;
+#     Temperature   : 25;
+#     SupplyVolt    : 5.000;
+#     RefVolt       : None;
+#     GndPackage    : Implicit;
+#     VccPackage    : Implicit;
+#     SigPackage    : Implicit;
+#     TermLineImp   : 57;
+#     TermLineDelay : 6.8e-09;
+#     TermVolt      : NotUsed;
+#     PullUpRes     : NotUsed;
+#     Notes         : None;
+#
+#  LinearModel
+#     VoltLow       : 0.1;
+#     VoltHigh      : 3.8;
+#     RiseTime      : 3.4e-9;
+#     FallTime      : 4.3e-9;
+#     ResLow        : 5.4;
+#     ResHigh       : 60.8;
+#     Capacitance   : 10e-12;
+#     Inductance    : None;
+#     GndClamp      : None;
+#     PowClamp      : None;
+#     Notes         : Simulation results for a 50 Ohm transmission line load;
+#
+###############################################################################
+MOD_STRUC 0
+J0L_CHAR
+anz_int  16
+uu    -2.000000e+01
+uo    -9.900000e-01
+i0    -1.898740e-01
+ g    3.421524e-02
+uu    -9.900000e-01
+uo    -8.100000e-01
+i0    -1.277237e-01
+ g    9.699333e-02
+uu    -8.100000e-01
+uo    -7.200000e-01
+i0    -8.857460e-02
+ g    1.453256e-01
+uu    -7.200000e-01
+uo    -6.600000e-01
+i0    -6.297420e-02
+ g    1.808817e-01
+uu    -6.600000e-01
+uo    -5.800000e-01
+i0    -4.592338e-02
+ g    2.067162e-01
+uu    -5.800000e-01
+uo    -3.300000e-01
+i0    -3.670198e-02
+ g    2.226152e-01
+uu    -3.300000e-01
+uo    1.000000e-02
+i0    -3.656223e-02
+ g    2.230387e-01
+uu    1.000000e-02
+uo    6.000000e-02
+i0    -3.647399e-02
+ g    2.142152e-01
+uu    6.000000e-02
+uo    9.000000e-02
+i0    -3.547400e-02
+ g    1.975487e-01
+uu    9.000000e-02
+uo    1.100000e-01
+i0    -3.382402e-02
+ g    1.792155e-01
+uu    1.100000e-01
+uo    1.200000e-01
+i0    -3.327396e-02
+ g    1.742150e-01
+uu    1.200000e-01
+uo    1.400000e-01
+i0    -2.967398e-02
+ g    1.442151e-01
+uu    1.400000e-01
+uo    1.600000e-01
+i0    -2.687399e-02
+ g    1.242153e-01
+uu    1.600000e-01
+uo    2.000000e-01
+i0    -2.047399e-02
+ g    8.421525e-02
+uu    2.000000e-01
+uo    3.200000e-01
+i0    -9.640658e-03
+ g    3.004858e-02
+uu    3.200000e-01
+uo     2.000000e+01
+i0    -2.562472e-06
+ g    -7.046762e-05
+J0H_CHAR
+anz_int  18
+uu    -2.000000e+01
+uo    -1.040000e+00
+i0    -2.359380e-01
+ g    -1.976318e-01
+uu    -1.040000e+00
+uo    -8.400000e-01
+i0    -1.580247e-01
+ g    -1.227151e-01
+uu    -8.400000e-01
+uo    -8.200000e-01
+i0    -1.303046e-01
+ g    -8.971500e-02
+uu    -8.200000e-01
+uo    -8.000000e-01
+i0    8.003954e-01
+ g    1.045285e+00
+uu    -8.000000e-01
+uo    -7.400000e-01
+i0    1.203953e-01
+ g    1.952848e-01
+uu    -7.400000e-01
+uo    -7.200000e-01
+i0    8.677955e-01
+ g    1.205285e+00
+uu    -7.200000e-01
+uo    3.140000e+00
+i0    -9.852417e-06
+ g    -6.335777e-08
+uu    3.140000e+00
+uo    3.410000e+00
+i0    1.595829e-02
+ g    -5.085458e-03
+uu    3.410000e+00
+uo    3.440000e+00
+i0    1.283620e-01
+ g    -3.804843e-02
+uu    3.440000e+00
+uo    3.470000e+00
+i0    2.315620e-01
+ g    -6.804843e-02
+uu    3.470000e+00
+uo    3.490000e+00
+i0    1.505954e-01
+ g    -4.471510e-02
+uu    3.490000e+00
+uo    3.510000e+00
+i0    8.079519e-02
+ g    -2.471505e-02
+uu    3.510000e+00
+uo    3.520000e+00
+i0    4.569537e-02
+ g    -1.471510e-02
+uu    3.520000e+00
+uo    3.530000e+00
+i0    1.049537e-02
+ g    -4.715100e-03
+uu    3.530000e+00
+uo    3.570000e+00
+i0    -2.480463e-02
+ g    5.284900e-03
+uu    3.570000e+00
+uo    3.800000e+00
+i0    -6.050468e-02
+ g    1.528491e-02
+uu    3.800000e+00
+uo    3.810000e+00
+i0    -2.250463e-02
+ g    5.284900e-03
+uu    3.810000e+00
+uo     2.000000e+01
+i0    -6.060466e-02
+ g    1.528491e-02
+ENULL
+e0_low    1.765000e-01
+e0_high   3.965000e+00
+RNULL
+r0_low    4.460000e+00
+r0_high   6.542400e+01
+CAPACITY
+ca        1.000000e-11
+TIME_CONS
+OSCI_NO
+CONSTANT
+anz_t_const  1
+T1R  1.873524e-09
+T1F  2.607560e-09
+TIME_CHAR
+CONSTANT
+TAUVLH  1.395004e-09
+TAUPLH  1.000000e-12
+TAURLH  1.943861e-09
+TAUILH  9.999063e-10
+TAUVHL  2.936814e-09
+TAUPHL  1.000000e-12
+TAURHL  5.499913e-09
+TAUIHL  4.116575e-09
+END
+@IDBM:LS_025_S0_tri.mac
+###############################################################################
+#
+#  Header     : 1.0;
+#  Filename   : LS_025_S0_tri.mac;
+#  FileRev    : 2.0;
+#  Date       : 02/03/1997;
+#  Permission : ;
+#  Simulator  : 2;
+#  Modeltype  : 0;
+#  Technology : LS;
+#  Changes    : None;
+#  Notes      : generated for TI SN74LS240 and comparable 3-state buffers
+#		of technology LS, VCC = 5V, GND/VCC clamping diodes;
+#
+#  RefSource
+#     Component     : SN74LS240;
+#     Manufacturer  : TI;
+#     Buffername    : TRIBUF;
+#     Buffertype    : TRI->IN;
+#     Pins          : Outputs;
+#     Method        : Measurement;
+#     Copyright     : None;
+#     Disclaimer    : None;
+#     Notes         : GND Clamping Diodes;
+#
+#  RefCondition
+#     Process       : Typical;
+#     Temperature   : 25;
+#     SupplyVolt    : 5.000;
+#     RefVolt       : None;
+#     GndPackage    : Implicit;
+#     VccPackage    : Implicit;
+#     SigPackage    : Implicit;
+#     TermLineImp   : 50.000;
+#     TermLineDelay : 5.000e-09;
+#     Notes         : None;
+#
+#  
+#  LinearModel                  
+#     Resistance    : 1e6;
+#     Capacitance   : 8e-12;
+#     Inductance    : None;
+#     GndClamp      : None;
+#     PowClamp      : None;
+#     Notes         : None;
+#  
+###############################################################################
+MOD_STRUC 0
+INPUT_CHAR
+anz_int  19
+uu    -2.000000e+01
+uo    -1.010000e+00
+i0    2.120680e-01
+ g    2.468000e-01
+uu    -1.010000e+00
+uo    -8.800000e-01
+i0    1.251769e-01
+ g    1.607692e-01
+uu    -8.800000e-01
+uo    -8.000000e-01
+i0    7.280000e-02
+ g    1.012500e-01
+uu    -8.000000e-01
+uo    -7.400000e-01
+i0    4.113333e-02
+ g    6.166667e-02
+uu    -7.400000e-01
+uo    -6.900000e-01
+i0    2.362000e-02
+ g    3.800000e-02
+uu    -6.900000e-01
+uo    -6.400000e-01
+i0    1.258000e-02
+ g    2.200000e-02
+uu    -6.400000e-01
+uo    -6.000000e-01
+i0    6.500000e-03
+ g    1.250000e-02
+uu    -6.000000e-01
+uo    -5.500000e-01
+i0    5.000000e-03
+ g    1.000000e-02
+uu    -5.500000e-01
+uo    -5.400000e-01
+i0    -5.000000e-04
+ g    0.000000e+00
+uu    -5.400000e-01
+uo    -5.300000e-01
+i0    4.900000e-03
+ g    1.000000e-02
+uu    -5.300000e-01
+uo    -5.200000e-01
+i0    -4.000000e-04
+ g    0.000000e+00
+uu    -5.200000e-01
+uo    -5.100000e-01
+i0    4.800000e-03
+ g    1.000000e-02
+uu    -5.100000e-01
+uo    -4.800000e-01
+i0    -3.000000e-04
+ g    0.000000e+00
+uu    -4.800000e-01
+uo    -4.700000e-01
+i0    4.500000e-03
+ g    1.000000e-02
+uu    -4.700000e-01
+uo    1.070000e+00
+i0    -2.000000e-04
+ g    0.000000e+00
+uu    1.070000e+00
+uo    1.100000e+00
+i0    -3.766667e-03
+ g    3.333333e-03
+uu    1.100000e+00
+uo    1.160000e+00
+i0    -1.000000e-04
+ g    0.000000e+00
+uu    1.160000e+00
+uo    1.190000e+00
+i0    -3.966667e-03
+ g    3.333333e-03
+uu    1.190000e+00
+uo     2.000000e+01
+i0    -0.000000e+00
+ g    0.000000e+00
+CAPACITY
+c0e   8.e-12
+k1e   0.0
+END
