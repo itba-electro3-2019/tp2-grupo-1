@@ -6,7 +6,7 @@
  </FRAME>
  <MODULE name="VSMDEBUG">
   <PWI>
-   <POPUP w="800" x="89" flags="00000003" y="206" h="200" pid="0" iid="-1">
+   <POPUP w="800" x="48" flags="00000002" y="160" h="200" pid="0" iid="-1">
     <PROPERTIES>
      <ITEM name="Message Column Width">540</ITEM>
      <ITEM name="ShowGrid">No</ITEM>
@@ -15,7 +15,7 @@
      <ITEM name="Version">100</ITEM>
     </PROPERTIES>
    </POPUP>
-   <POPUP w="350" x="109" flags="00000032" y="226" h="200" pid="1" iid="-1">
+   <POPUP w="350" x="68" flags="00000032" y="180" h="200" pid="1" iid="-1">
     <PROPERTIES>
      <ITEM name="Address Column Width">82</ITEM>
      <ITEM name="AutoResize">No</ITEM>
@@ -32,34 +32,10 @@
      <ITEM name="nItems">0</ITEM>
     </PROPERTIES>
    </POPUP>
-   <POPUP w="695" x="1179" flags="00000000" y="248" h="459" pid="0" iid="15">
+   <POPUP w="695" x="443" flags="00000001" y="571" h="459" pid="0" iid="7">
     <PROPERTIES/>
    </POPUP>
-   <POPUP w="511" x="149" flags="00000001" y="266" h="153" pid="0" iid="16">
-    <PROPERTIES/>
-   </POPUP>
-   <POPUP w="511" x="128" flags="00000001" y="240" h="153" pid="0" iid="32">
-    <PROPERTIES/>
-   </POPUP>
-   <POPUP w="695" x="48" flags="00000001" y="160" h="459" pid="0" iid="10">
-    <PROPERTIES/>
-   </POPUP>
-   <POPUP w="511" x="863" flags="00000001" y="217" h="153" pid="0" iid="6">
-    <PROPERTIES/>
-   </POPUP>
-   <POPUP w="695" x="169" flags="00000000" y="154" h="459" pid="0" iid="29">
-    <PROPERTIES/>
-   </POPUP>
-   <POPUP w="695" x="122" flags="00000000" y="465" h="459" pid="0" iid="33">
-    <PROPERTIES/>
-   </POPUP>
-   <POPUP w="695" x="436" flags="00000001" y="488" h="459" pid="0" iid="39">
-    <PROPERTIES/>
-   </POPUP>
-   <POPUP w="511" x="48" flags="00000001" y="160" h="153" pid="0" iid="3">
-    <PROPERTIES/>
-   </POPUP>
-   <POPUP w="695" x="148" flags="00008001" y="341" h="459" pid="0" iid="30">
+   <POPUP w="695" x="108" flags="00008001" y="220" h="459" pid="0" iid="14">
     <PROPERTIES/>
    </POPUP>
   </PWI>
