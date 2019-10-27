@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : G:\Mi unidad\2019Q2_Grado_5C\Electrónica III\TP2\Joystick\PCB\joystickDisplay\joystickDisplay.PcbDoc
+Date         : 22/10/2019
+Time         : 15:06:19
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100,00%
+    Connections, 58
+    Connections routed, 58
+    Connections remaining, 0
+count : 4
