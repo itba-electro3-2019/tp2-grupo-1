@@ -739,6 +739,51 @@ INPUT ej7.tex
 INPUT ej7.tex
 INPUT ej8.tex
 INPUT ej8.tex
+INPUT ..\EJ8\Recursos\flowDiagram.png
+INPUT ..\EJ8\Recursos\flowDiagram.png
+INPUT ..\EJ8\Recursos\flowDiagram.png
+INPUT ..\EJ8\Recursos\flowDiagram.png
+INPUT ..\EJ8\Recursos\flowDiagram.png
+INPUT ..\EJ8\Recursos\analogCircuit.png
+INPUT ..\EJ8\Recursos\analogCircuit.png
+INPUT ..\EJ8\Recursos\analogCircuit.png
+INPUT ..\EJ8\Recursos\analogCircuit.png
+INPUT ..\EJ8\Recursos\analogCircuit.png
+INPUT ..\EJ8\Recursos\OSC_DAC.png
+INPUT ..\EJ8\Recursos\OSC_DAC.png
+INPUT ..\EJ8\Recursos\OSC_DAC.png
+INPUT ..\EJ8\Recursos\OSC_DAC.png
+INPUT ..\EJ8\Recursos\OSC_DAC.png
+INPUT ..\EJ8\Recursos\OSC_DAC_RST.png
+INPUT ..\EJ8\Recursos\OSC_DAC_RST.png
+INPUT ..\EJ8\Recursos\OSC_DAC_RST.png
+INPUT ..\EJ8\Recursos\OSC_DAC_RST.png
+INPUT ..\EJ8\Recursos\OSC_DAC_RST.png
+INPUT ..\EJ8\Recursos\ANALOG_PCB.jpeg
+INPUT ..\EJ8\Recursos\ANALOG_PCB.jpeg
+INPUT ..\EJ8\Recursos\ANALOG_PCB.jpeg
+INPUT ..\EJ8\Recursos\ANALOG_PCB.jpeg
+INPUT ..\EJ8\Recursos\ANALOG_PCB.jpeg
+INPUT ..\EJ8\Recursos\DIGITAL_PCB.jpeg
+INPUT ..\EJ8\Recursos\DIGITAL_PCB.jpeg
+INPUT ..\EJ8\Recursos\DIGITAL_PCB.jpeg
+INPUT ..\EJ8\Recursos\DIGITAL_PCB.jpeg
+INPUT ..\EJ8\Recursos\DIGITAL_PCB.jpeg
+INPUT ..\EJ8\Recursos\DISP_PCB.jpeg
+INPUT ..\EJ8\Recursos\DISP_PCB.jpeg
+INPUT ..\EJ8\Recursos\DISP_PCB.jpeg
+INPUT ..\EJ8\Recursos\DISP_PCB.jpeg
+INPUT ..\EJ8\Recursos\DISP_PCB.jpeg
+INPUT ..\EJ8\Recursos\555_astable.png
+INPUT ..\EJ8\Recursos\555_astable.png
+INPUT ..\EJ8\Recursos\555_astable.png
+INPUT ..\EJ8\Recursos\555_astable.png
+INPUT ..\EJ8\Recursos\555_astable.png
+INPUT ..\EJ8\Recursos\clocksPCB.png
+INPUT ..\EJ8\Recursos\clocksPCB.png
+INPUT ..\EJ8\Recursos\clocksPCB.png
+INPUT ..\EJ8\Recursos\clocksPCB.png
+INPUT ..\EJ8\Recursos\clocksPCB.png
 INPUT c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.aux
 INPUT c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.out
 INPUT c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.out
@@ -762,6 +807,8 @@ INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfo
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr12.pfb
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr17.pfb
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr17.pfb
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr5.pfb
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr5.pfb
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr6.pfb
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr6.pfb
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmr7.pfb

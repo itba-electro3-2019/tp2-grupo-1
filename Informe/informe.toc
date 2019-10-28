@@ -51,3 +51,12 @@
 \contentsline {subsection}{Conclusi\IeC {\'o}n}{34}{section*.114}% 
 \contentsline {section}{Ejercicio 7: Dise\~no de contadores sincr\'onicos y asincr\'onicos de 3 bits}{35}{section*.115}% 
 \contentsline {section}{Ejercicio 8: Dise\~no de controlador para un Joystick Anal\'ogico}{36}{section*.116}% 
+\contentsline {subsection}{Introducci\'on}{36}{section*.117}% 
+\contentsline {subsection}{Dise\~no}{36}{section*.118}% 
+\contentsline {subsubsection}{Generador de rampa y comparador (ADC)}{37}{section*.120}% 
+\contentsline {subsubsection}{Contadores y memorias}{38}{section*.124}% 
+\contentsline {subsubsection}{Drivers y displays}{39}{section*.126}% 
+\contentsline {subsubsection}{Clocks}{39}{section*.128}% 
+\contentsline {subsection}{Funcionamiento y calibraci\'on}{41}{section*.132}% 
+\contentsline {subsection}{Problemas encontrados con la implementaci\'on}{41}{section*.133}% 
+\contentsline {subsection}{Conclusiones}{42}{section*.134}% 
