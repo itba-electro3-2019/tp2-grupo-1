@@ -14,48 +14,67 @@
 \BOOKMARK [3][-]{section*.31}{Resistencia de pull-down}{section*.30}% 14
 \BOOKMARK [3][-]{section*.33}{Tiempos de transici\363n}{section*.30}% 15
 \BOOKMARK [3][-]{section*.35}{Mediciones}{section*.30}% 16
-\BOOKMARK [2][-]{section*.37}{Conclusiones}{section*.2}% 17
+\BOOKMARK [2][-]{section*.37}{Conclusi\363n}{section*.2}% 17
 \BOOKMARK [1][-]{section*.38}{Ejercicio 2: Comparaci\363n de compuertas discretas con tecnolog\355a TTL y CMOS}{}% 18
 \BOOKMARK [2][-]{section*.39}{Marco te\363rico}{section*.38}% 19
 \BOOKMARK [2][-]{section*.43}{An\341lisis mediante hojas de datos}{section*.38}% 20
 \BOOKMARK [2][-]{section*.46}{Resultados experimentales}{section*.38}% 21
 \BOOKMARK [2][-]{section*.51}{Conclusi\363n}{section*.38}% 22
-\BOOKMARK [1][-]{section*.52}{Ejercicio 3: Implementaci\363n de una tabla de verdad}{}% 23
-\BOOKMARK [1][-]{section*.53}{Ejercicio 4: Tiempos de propagaci\363n en compuerta CMOS}{}% 24
-\BOOKMARK [2][-]{section*.54}{Descripci\363n del an\341lisis}{section*.53}% 25
-\BOOKMARK [2][-]{section*.56}{Resultados}{section*.53}% 26
-\BOOKMARK [3][-]{section*.57}{Mediciones de tiempo de propagaci\363n}{section*.56}% 27
-\BOOKMARK [3][-]{section*.61}{Mediciones de tiempo rise y fall}{section*.56}% 28
-\BOOKMARK [3][-]{section*.65}{Overshoot}{section*.56}% 29
-\BOOKMARK [3][-]{section*.66}{Mediciones a altas frecuencias}{section*.56}% 30
-\BOOKMARK [2][-]{section*.69}{Conclusi\363n}{section*.53}% 31
-\BOOKMARK [1][-]{section*.70}{Ejercicio 5: TTL y MOS, entradas abiertas y compatibilidad entre tecnolog\355as}{}% 32
-\BOOKMARK [2][-]{section*.71}{Compuertas discretas con entrada desconectada}{section*.70}% 33
-\BOOKMARK [3][-]{section*.72}{Descripci\363n general}{section*.71}% 34
-\BOOKMARK [3][-]{section*.74}{Resultados}{section*.71}% 35
-\BOOKMARK [3][-]{section*.77}{An\341lisis de resultados}{section*.71}% 36
-\BOOKMARK [2][-]{section*.79}{Conexi\363n TTL y CMOS}{section*.70}% 37
-\BOOKMARK [3][-]{section*.80}{Descripci\363n general}{section*.79}% 38
-\BOOKMARK [3][-]{section*.82}{Resultados}{section*.79}% 39
-\BOOKMARK [3][-]{section*.84}{An\341lisis de resultados}{section*.79}% 40
-\BOOKMARK [3][-]{section*.86}{Soluciones propuestas}{section*.79}% 41
-\BOOKMARK [1][-]{section*.89}{Ejercicio 6: Dise\361o e implementaci\363n de multivibradores biestables}{}% 42
-\BOOKMARK [2][-]{section*.90}{Dise\361o de los circuitos}{section*.89}% 43
-\BOOKMARK [3][-]{section*.91}{Latch SR}{section*.90}% 44
-\BOOKMARK [3][-]{section*.94}{Flip-Flop D}{section*.90}% 45
-\BOOKMARK [2][-]{section*.97}{Implementaci\363n en PCB}{section*.89}% 46
-\BOOKMARK [2][-]{section*.100}{Medici\363n de par\341metros de los circuitos.}{section*.89}% 47
-\BOOKMARK [3][-]{section*.101}{Latch SR}{section*.100}% 48
-\BOOKMARK [3][-]{section*.108}{Flip-Flop D}{section*.100}% 49
-\BOOKMARK [2][-]{section*.114}{Conclusi\363n}{section*.89}% 50
-\BOOKMARK [1][-]{section*.115}{Ejercicio 7: Dise\361o de contadores sincr\363nicos y asincr\363nicos de 3 bits}{}% 51
-\BOOKMARK [1][-]{section*.116}{Ejercicio 8: Dise\361o de controlador para un Joystick Anal\363gico}{}% 52
-\BOOKMARK [2][-]{section*.117}{Introducci\363n}{section*.116}% 53
-\BOOKMARK [2][-]{section*.118}{Dise\361o}{section*.116}% 54
-\BOOKMARK [3][-]{section*.120}{Generador de rampa y comparador \(ADC\)}{section*.118}% 55
-\BOOKMARK [3][-]{section*.124}{Contadores y memorias}{section*.118}% 56
-\BOOKMARK [3][-]{section*.126}{Drivers y displays}{section*.118}% 57
-\BOOKMARK [3][-]{section*.128}{Clocks}{section*.118}% 58
-\BOOKMARK [2][-]{section*.132}{Funcionamiento y calibraci\363n}{section*.116}% 59
-\BOOKMARK [2][-]{section*.133}{Problemas encontrados con la implementaci\363n}{section*.116}% 60
-\BOOKMARK [2][-]{section*.134}{Conclusiones}{section*.116}% 61
+\BOOKMARK [1][-]{section*.52}{Ejercicio 2: Comparaci\363n de compuertas discretas con tecnolog\355a TTL y CMOS}{}% 23
+\BOOKMARK [2][-]{section*.53}{Marco te\363rico}{section*.52}% 24
+\BOOKMARK [2][-]{section*.57}{An\341lisis mediante hojas de datos}{section*.52}% 25
+\BOOKMARK [2][-]{section*.60}{Resultados experimentales}{section*.52}% 26
+\BOOKMARK [2][-]{section*.65}{Conclusi\363n}{section*.52}% 27
+\BOOKMARK [1][-]{section*.66}{Ejercicio 3: Medici\363n de un glitch}{}% 28
+\BOOKMARK [2][-]{section*.68}{S\355ntesis del circuito}{section*.66}% 29
+\BOOKMARK [2][-]{section*.70}{Implementaci\363n y medici\363n del circuito}{section*.66}% 30
+\BOOKMARK [2][-]{section*.75}{Conclusi\363n}{section*.66}% 31
+\BOOKMARK [1][-]{section*.76}{Ejercicio 4: Tiempos de propagaci\363n en compuerta CMOS}{}% 32
+\BOOKMARK [2][-]{section*.77}{Descripci\363n del an\341lisis}{section*.76}% 33
+\BOOKMARK [2][-]{section*.79}{Resultados}{section*.76}% 34
+\BOOKMARK [3][-]{section*.80}{Mediciones de tiempo de propagaci\363n}{section*.79}% 35
+\BOOKMARK [3][-]{section*.84}{Mediciones de tiempo rise y fall}{section*.79}% 36
+\BOOKMARK [3][-]{section*.88}{Overshoot}{section*.79}% 37
+\BOOKMARK [3][-]{section*.89}{Mediciones a altas frecuencias}{section*.79}% 38
+\BOOKMARK [2][-]{section*.92}{Conclusi\363n}{section*.76}% 39
+\BOOKMARK [1][-]{section*.93}{Ejercicio 5: TTL y MOS, entradas abiertas y compatibilidad entre tecnolog\355as}{}% 40
+\BOOKMARK [2][-]{section*.94}{Compuertas discretas con entrada desconectada}{section*.93}% 41
+\BOOKMARK [3][-]{section*.95}{Descripci\363n general}{section*.94}% 42
+\BOOKMARK [3][-]{section*.97}{Resultados}{section*.94}% 43
+\BOOKMARK [3][-]{section*.100}{An\341lisis de resultados}{section*.94}% 44
+\BOOKMARK [2][-]{section*.102}{Conexi\363n TTL y CMOS}{section*.93}% 45
+\BOOKMARK [3][-]{section*.103}{Descripci\363n general}{section*.102}% 46
+\BOOKMARK [3][-]{section*.105}{Resultados}{section*.102}% 47
+\BOOKMARK [3][-]{section*.107}{An\341lisis de resultados}{section*.102}% 48
+\BOOKMARK [3][-]{section*.109}{Soluciones propuestas}{section*.102}% 49
+\BOOKMARK [2][-]{section*.112}{Conclusi\363n}{section*.93}% 50
+\BOOKMARK [1][-]{section*.113}{Ejercicio 6: Dise\361o e implementaci\363n de multivibradores biestables}{}% 51
+\BOOKMARK [2][-]{section*.114}{Dise\361o de los circuitos}{section*.113}% 52
+\BOOKMARK [3][-]{section*.115}{Latch SR}{section*.114}% 53
+\BOOKMARK [3][-]{section*.118}{Flip-Flop D}{section*.114}% 54
+\BOOKMARK [2][-]{section*.121}{Implementaci\363n en PCB}{section*.113}% 55
+\BOOKMARK [2][-]{section*.124}{Medici\363n de par\341metros de los circuitos.}{section*.113}% 56
+\BOOKMARK [3][-]{section*.125}{Latch SR}{section*.124}% 57
+\BOOKMARK [3][-]{section*.132}{Flip-Flop D}{section*.124}% 58
+\BOOKMARK [2][-]{section*.138}{Conclusi\363n}{section*.113}% 59
+\BOOKMARK [1][-]{section*.139}{Ejercicio 7: Dise\361o de contadores sincr\363nicos y asincr\363nicos de 3 bits}{}% 60
+\BOOKMARK [2][-]{section*.140}{Contador Asincr\363nico}{section*.139}% 61
+\BOOKMARK [3][-]{section*.141}{Dise\361o del circuito}{section*.140}% 62
+\BOOKMARK [2][-]{section*.144}{Contador Sincr\363nico}{section*.139}% 63
+\BOOKMARK [3][-]{section*.145}{Dise\361o del circuito}{section*.144}% 64
+\BOOKMARK [2][-]{section*.150}{Visualizaci\363n del contador}{section*.139}% 65
+\BOOKMARK [3][-]{section*.151}{Dise\361o del circuito}{section*.150}% 66
+\BOOKMARK [2][-]{section*.154}{Resultados}{section*.139}% 67
+\BOOKMARK [3][-]{section*.156}{Mediciones}{section*.154}% 68
+\BOOKMARK [3][-]{section*.159}{An\341lisis de datos}{section*.154}% 69
+\BOOKMARK [2][-]{section*.161}{Conclusi\363n}{section*.139}% 70
+\BOOKMARK [1][-]{section*.162}{Ejercicio 8: Dise\361o de controlador para un Joystick Anal\363gico}{}% 71
+\BOOKMARK [2][-]{section*.163}{Introducci\363n}{section*.162}% 72
+\BOOKMARK [2][-]{section*.164}{Dise\361o}{section*.162}% 73
+\BOOKMARK [3][-]{section*.166}{Generador de rampa y comparador \(ADC\)}{section*.164}% 74
+\BOOKMARK [3][-]{section*.170}{Contadores y memorias}{section*.164}% 75
+\BOOKMARK [3][-]{section*.172}{Drivers y displays}{section*.164}% 76
+\BOOKMARK [3][-]{section*.174}{Clocks}{section*.164}% 77
+\BOOKMARK [2][-]{section*.178}{Funcionamiento y calibraci\363n}{section*.162}% 78
+\BOOKMARK [2][-]{section*.179}{Problemas encontrados con la implementaci\363n}{section*.162}% 79
+\BOOKMARK [2][-]{section*.180}{Conclusiones}{section*.162}% 80

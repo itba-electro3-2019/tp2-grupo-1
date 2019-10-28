@@ -15,48 +15,67 @@
 \contentsline {subsubsection}{Resistencia de pull-down}{9}{section*.31}% 
 \contentsline {subsubsection}{Tiempos de transici\'on}{9}{section*.33}% 
 \contentsline {subsubsection}{Mediciones}{10}{section*.35}% 
-\contentsline {subsection}{Conclusiones}{10}{section*.37}% 
+\contentsline {subsection}{Conclusi\IeC {\'o}n}{10}{section*.37}% 
 \contentsline {section}{Ejercicio 2: Comparaci\'on de compuertas discretas con tecnolog\'ia TTL y CMOS}{11}{section*.38}% 
 \contentsline {subsection}{Marco te\IeC {\'o}rico}{11}{section*.39}% 
 \contentsline {subsection}{An\IeC {\'a}lisis mediante hojas de datos}{12}{section*.43}% 
 \contentsline {subsection}{Resultados experimentales}{13}{section*.46}% 
 \contentsline {subsection}{Conclusi\'on}{14}{section*.51}% 
-\contentsline {section}{Ejercicio 3: Implementaci\'on de una tabla de verdad}{15}{section*.52}% 
-\contentsline {section}{Ejercicio 4: Tiempos de propagaci\'on en compuerta CMOS}{16}{section*.53}% 
-\contentsline {subsection}{Descripci\'on del an\'alisis}{16}{section*.54}% 
-\contentsline {subsection}{Resultados}{16}{section*.56}% 
-\contentsline {subsubsection}{Mediciones de tiempo de propagaci\'on}{16}{section*.57}% 
-\contentsline {subsubsection}{Mediciones de tiempo rise y fall}{17}{section*.61}% 
-\contentsline {subsubsection}{Overshoot}{18}{section*.65}% 
-\contentsline {subsubsection}{Mediciones a altas frecuencias}{18}{section*.66}% 
-\contentsline {subsection}{Conclusi\'on}{19}{section*.69}% 
-\contentsline {section}{Ejercicio 5: TTL y MOS, entradas abiertas y compatibilidad entre tecnolog\'ias}{20}{section*.70}% 
-\contentsline {subsection}{Compuertas discretas con entrada desconectada}{20}{section*.71}% 
-\contentsline {subsubsection}{Descripci\'on general}{20}{section*.72}% 
-\contentsline {subsubsection}{Resultados}{20}{section*.74}% 
-\contentsline {subsubsection}{An\'alisis de resultados}{22}{section*.77}% 
-\contentsline {subsection}{Conexi\'on TTL y CMOS}{22}{section*.79}% 
-\contentsline {subsubsection}{Descripci\'on general}{22}{section*.80}% 
-\contentsline {subsubsection}{Resultados}{23}{section*.82}% 
-\contentsline {subsubsection}{An\'alisis de resultados}{24}{section*.84}% 
-\contentsline {subsubsection}{Soluciones propuestas}{25}{section*.86}% 
-\contentsline {section}{Ejercicio 6: Dise\~no e implementaci\'on de multivibradores biestables}{27}{section*.89}% 
-\contentsline {subsection}{Dise\IeC {\~n}o de los circuitos}{27}{section*.90}% 
-\contentsline {subsubsection}{Latch SR}{27}{section*.91}% 
-\contentsline {subsubsection}{Flip-Flop D}{27}{section*.94}% 
-\contentsline {subsection}{Implementaci\IeC {\'o}n en PCB}{28}{section*.97}% 
-\contentsline {subsection}{Medici\IeC {\'o}n de par\IeC {\'a}metros de los circuitos.}{29}{section*.100}% 
-\contentsline {subsubsection}{Latch SR}{29}{section*.101}% 
-\contentsline {subsubsection}{Flip-Flop D}{32}{section*.108}% 
-\contentsline {subsection}{Conclusi\IeC {\'o}n}{34}{section*.114}% 
-\contentsline {section}{Ejercicio 7: Dise\~no de contadores sincr\'onicos y asincr\'onicos de 3 bits}{35}{section*.115}% 
-\contentsline {section}{Ejercicio 8: Dise\~no de controlador para un Joystick Anal\'ogico}{36}{section*.116}% 
-\contentsline {subsection}{Introducci\'on}{36}{section*.117}% 
-\contentsline {subsection}{Dise\~no}{36}{section*.118}% 
-\contentsline {subsubsection}{Generador de rampa y comparador (ADC)}{37}{section*.120}% 
-\contentsline {subsubsection}{Contadores y memorias}{38}{section*.124}% 
-\contentsline {subsubsection}{Drivers y displays}{39}{section*.126}% 
-\contentsline {subsubsection}{Clocks}{39}{section*.128}% 
-\contentsline {subsection}{Funcionamiento y calibraci\'on}{41}{section*.132}% 
-\contentsline {subsection}{Problemas encontrados con la implementaci\'on}{41}{section*.133}% 
-\contentsline {subsection}{Conclusiones}{42}{section*.134}% 
+\contentsline {section}{Ejercicio 2: Comparaci\'on de compuertas discretas con tecnolog\'ia TTL y CMOS}{14}{section*.52}% 
+\contentsline {subsection}{Marco te\IeC {\'o}rico}{15}{section*.53}% 
+\contentsline {subsection}{An\IeC {\'a}lisis mediante hojas de datos}{16}{section*.57}% 
+\contentsline {subsection}{Resultados experimentales}{17}{section*.60}% 
+\contentsline {subsection}{Conclusi\IeC {\'o}n}{18}{section*.65}% 
+\contentsline {section}{Ejercicio 3: Medici\'on de un glitch}{19}{section*.66}% 
+\contentsline {subsection}{S\'intesis del circuito}{19}{section*.68}% 
+\contentsline {subsection}{Implementaci\'on y medici\'on del circuito}{20}{section*.70}% 
+\contentsline {subsection}{Conclusi\'on}{23}{section*.75}% 
+\contentsline {section}{Ejercicio 4: Tiempos de propagaci\'on en compuerta CMOS}{24}{section*.76}% 
+\contentsline {subsection}{Descripci\'on del an\'alisis}{24}{section*.77}% 
+\contentsline {subsection}{Resultados}{24}{section*.79}% 
+\contentsline {subsubsection}{Mediciones de tiempo de propagaci\'on}{24}{section*.80}% 
+\contentsline {subsubsection}{Mediciones de tiempo rise y fall}{25}{section*.84}% 
+\contentsline {subsubsection}{Overshoot}{26}{section*.88}% 
+\contentsline {subsubsection}{Mediciones a altas frecuencias}{26}{section*.89}% 
+\contentsline {subsection}{Conclusi\'on}{27}{section*.92}% 
+\contentsline {section}{Ejercicio 5: TTL y MOS, entradas abiertas y compatibilidad entre tecnolog\'ias}{28}{section*.93}% 
+\contentsline {subsection}{Compuertas discretas con entrada desconectada}{28}{section*.94}% 
+\contentsline {subsubsection}{Descripci\'on general}{28}{section*.95}% 
+\contentsline {subsubsection}{Resultados}{28}{section*.97}% 
+\contentsline {subsubsection}{An\'alisis de resultados}{30}{section*.100}% 
+\contentsline {subsection}{Conexi\'on TTL y CMOS}{30}{section*.102}% 
+\contentsline {subsubsection}{Descripci\'on general}{30}{section*.103}% 
+\contentsline {subsubsection}{Resultados}{31}{section*.105}% 
+\contentsline {subsubsection}{An\'alisis de resultados}{32}{section*.107}% 
+\contentsline {subsubsection}{Soluciones propuestas}{33}{section*.109}% 
+\contentsline {subsection}{Conclusi\'on}{34}{section*.112}% 
+\contentsline {section}{Ejercicio 6: Dise\~no e implementaci\'on de multivibradores biestables}{35}{section*.113}% 
+\contentsline {subsection}{Dise\IeC {\~n}o de los circuitos}{35}{section*.114}% 
+\contentsline {subsubsection}{Latch SR}{35}{section*.115}% 
+\contentsline {subsubsection}{Flip-Flop D}{35}{section*.118}% 
+\contentsline {subsection}{Implementaci\IeC {\'o}n en PCB}{36}{section*.121}% 
+\contentsline {subsection}{Medici\IeC {\'o}n de par\IeC {\'a}metros de los circuitos.}{37}{section*.124}% 
+\contentsline {subsubsection}{Latch SR}{37}{section*.125}% 
+\contentsline {subsubsection}{Flip-Flop D}{40}{section*.132}% 
+\contentsline {subsection}{Conclusi\IeC {\'o}n}{42}{section*.138}% 
+\contentsline {section}{Ejercicio 7: Dise\~no de contadores sincr\'onicos y asincr\'onicos de 3 bits}{43}{section*.139}% 
+\contentsline {subsection}{Contador Asincr\'onico}{43}{section*.140}% 
+\contentsline {subsubsection}{Dise\~no del circuito}{43}{section*.141}% 
+\contentsline {subsection}{Contador Sincr\'onico}{44}{section*.144}% 
+\contentsline {subsubsection}{Dise\~no del circuito}{44}{section*.145}% 
+\contentsline {subsection}{Visualizaci\'on del contador}{45}{section*.150}% 
+\contentsline {subsubsection}{Dise\~no del circuito}{46}{section*.151}% 
+\contentsline {subsection}{Resultados}{46}{section*.154}% 
+\contentsline {subsubsection}{Mediciones}{47}{section*.156}% 
+\contentsline {subsubsection}{An\'alisis de datos}{48}{section*.159}% 
+\contentsline {subsection}{Conclusi\'on}{48}{section*.161}% 
+\contentsline {section}{Ejercicio 8: Dise\~no de controlador para un Joystick Anal\'ogico}{49}{section*.162}% 
+\contentsline {subsection}{Introducci\'on}{49}{section*.163}% 
+\contentsline {subsection}{Dise\~no}{49}{section*.164}% 
+\contentsline {subsubsection}{Generador de rampa y comparador (ADC)}{50}{section*.166}% 
+\contentsline {subsubsection}{Contadores y memorias}{51}{section*.170}% 
+\contentsline {subsubsection}{Drivers y displays}{52}{section*.172}% 
+\contentsline {subsubsection}{Clocks}{52}{section*.174}% 
+\contentsline {subsection}{Funcionamiento y calibraci\'on}{54}{section*.178}% 
+\contentsline {subsection}{Problemas encontrados con la implementaci\'on}{54}{section*.179}% 
+\contentsline {subsection}{Conclusiones}{55}{section*.180}% 

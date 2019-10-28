@@ -211,6 +211,10 @@ INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdft
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarymatrix.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarymatrix.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrarycalc.code.tex
 INPUT c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.aux
 INPUT c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.aux
 OUTPUT c:\Users\Carlos\Desktop\ITBA\3er año\1er cuatri\E3\TP2\tp2-grupo-1\Informe\informe.aux
@@ -361,6 +365,11 @@ INPUT ..\EJ1\Mediciones\Osciloscopio\Observaciones\Mejora_transicion_MOS\cropped
 INPUT ..\EJ1\Mediciones\Osciloscopio\Observaciones\Mejora_transicion_MOS\cropped_scope_15.png
 INPUT ej2.tex
 INPUT ej2.tex
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ulasy.fd
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ulasy.fd
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\latex-fonts\lasy10.tfm
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\latex-fonts\lasy10.tfm
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\latex-fonts\lasy10.tfm
 INPUT ..\EJ2\Recursos\schottky_transistor_symbol.png
 INPUT ..\EJ2\Recursos\schottky_transistor_symbol.png
 INPUT ..\EJ2\Recursos\schottky_transistor_symbol.png
@@ -381,6 +390,7 @@ INPUT ..\EJ2\Recursos\incompatible_gates.jpg
 INPUT ..\EJ2\Recursos\incompatible_gates.jpg
 INPUT ..\EJ2\Recursos\incompatible_gates.jpg
 INPUT ..\EJ2\Recursos\incompatible_gates.jpg
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\latex-fonts\lasy8.tfm
 INPUT ..\EJ2\Recursos\scope_32.png
 INPUT ..\EJ2\Recursos\scope_32.png
 INPUT ..\EJ2\Recursos\scope_32.png
@@ -419,10 +429,54 @@ INPUT ..\EJ2\Recursos\scope_35.png
 INPUT ..\EJ2\Recursos\LS_H_v_HCT_L.png
 INPUT ..\EJ2\Recursos\LS_H_v_HCT_L.png
 INPUT ..\EJ2\Recursos\LS_H_v_HCT_L.png
+INPUT ..\EJ2\Recursos\LS_H_v_HCT_L.png
+INPUT ..\EJ2\Recursos\LS_H_v_HCT_L.png
+INPUT ..\EJ2\Recursos\schottky_transistor_symbol.png
+INPUT ..\EJ2\Recursos\schottky_transistor_symbol.png
+INPUT ..\EJ2\Recursos\schottky_transistor_circuit.png
+INPUT ..\EJ2\Recursos\schottky_transistor_circuit.png
+INPUT ..\EJ2\Recursos\compatible_gates.jpg
+INPUT ..\EJ2\Recursos\compatible_gates.jpg
+INPUT ..\EJ2\Recursos\incompatible_gates.jpg
+INPUT ..\EJ2\Recursos\incompatible_gates.jpg
+INPUT ..\EJ2\Recursos\scope_32.png
+INPUT ..\EJ2\Recursos\scope_32.png
+INPUT ..\EJ2\Recursos\LS_L_v_HC_H.png
+INPUT ..\EJ2\Recursos\LS_L_v_HC_H.png
+INPUT ..\EJ2\Recursos\scope_29.png
+INPUT ..\EJ2\Recursos\scope_29.png
+INPUT ..\EJ2\Recursos\LS_H_v_HC_L.png
+INPUT ..\EJ2\Recursos\LS_H_v_HC_L.png
+INPUT ..\EJ2\Recursos\scope_38.png
+INPUT ..\EJ2\Recursos\scope_38.png
+INPUT ..\EJ2\Recursos\LS_L_v_HCT_H.png
+INPUT ..\EJ2\Recursos\LS_L_v_HCT_H.png
+INPUT ..\EJ2\Recursos\scope_35.png
+INPUT ..\EJ2\Recursos\scope_35.png
 INPUT ..\EJ2\Recursos\LS_H_v_HCT_L.png
 INPUT ..\EJ2\Recursos\LS_H_v_HCT_L.png
 INPUT ej3.tex
 INPUT ej3.tex
+INPUT ..\EJ3\Recursos\EJ3_logic_circuit.png
+INPUT ..\EJ3\Recursos\EJ3_logic_circuit.png
+INPUT ..\EJ3\Recursos\EJ3_logic_circuit.png
+INPUT ..\EJ3\Recursos\EJ3_logic_circuit.png
+INPUT ..\EJ3\Recursos\EJ3_logic_circuit.png
+INPUT ..\EJ3\Recursos\cropped_EJ3_positive_slope_response.png
+INPUT ..\EJ3\Recursos\cropped_EJ3_positive_slope_response.png
+INPUT ..\EJ3\Recursos\cropped_EJ3_positive_slope_response.png
+INPUT ..\EJ3\Recursos\cropped_EJ3_positive_slope_response.png
+INPUT ..\EJ3\Recursos\cropped_EJ3_positive_slope_response.png
+INPUT ..\EJ3\Recursos\cropped_EJ3_negative_slope_response.png
+INPUT ..\EJ3\Recursos\cropped_EJ3_negative_slope_response.png
+INPUT ..\EJ3\Recursos\cropped_EJ3_negative_slope_response.png
+INPUT ..\EJ3\Recursos\cropped_EJ3_negative_slope_response.png
+INPUT ..\EJ3\Recursos\cropped_EJ3_negative_slope_response.png
+INPUT ..\EJ3\Recursos\cropped_EJ3_negative_slope_response_zout.png
+INPUT ..\EJ3\Recursos\cropped_EJ3_negative_slope_response_zout.png
+INPUT ..\EJ3\Recursos\cropped_EJ3_negative_slope_response_zout.png
+INPUT ..\EJ3\Recursos\cropped_EJ3_negative_slope_response_zout.png
+INPUT ..\EJ3\Recursos\cropped_EJ3_negative_slope_response_zout.png
 INPUT ej4.tex
 INPUT ej4.tex
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmti10.tfm
@@ -737,6 +791,101 @@ INPUT ..\EJ6\Recursos\com_ffd_fall.png
 INPUT ..\EJ6\Recursos\com_ffd_fall.png
 INPUT ej7.tex
 INPUT ej7.tex
+INPUT ..\EJ7\Recursos\esquematico_asincronico.PNG
+INPUT ..\EJ7\Recursos\esquematico_asincronico.PNG
+INPUT ..\EJ7\Recursos\esquematico_asincronico.PNG
+INPUT ..\EJ7\Recursos\esquematico_asincronico.PNG
+INPUT ..\EJ7\Recursos\esquematico_asincronico.PNG
+INPUT ..\EJ7\Recursos\3d_top_asincronico.PNG
+INPUT ..\EJ7\Recursos\3d_top_asincronico.PNG
+INPUT ..\EJ7\Recursos\3d_top_asincronico.PNG
+INPUT ..\EJ7\Recursos\3d_top_asincronico.PNG
+INPUT ..\EJ7\Recursos\3d_top_asincronico.PNG
+INPUT ..\EJ7\Recursos\3d_bottom_asincronico.PNG
+INPUT ..\EJ7\Recursos\3d_bottom_asincronico.PNG
+INPUT ..\EJ7\Recursos\3d_bottom_asincronico.PNG
+INPUT ..\EJ7\Recursos\3d_bottom_asincronico.PNG
+INPUT ..\EJ7\Recursos\3d_bottom_asincronico.PNG
+INPUT ..\EJ7\Recursos\esquematico_sincronico.PNG
+INPUT ..\EJ7\Recursos\esquematico_sincronico.PNG
+INPUT ..\EJ7\Recursos\esquematico_sincronico.PNG
+INPUT ..\EJ7\Recursos\esquematico_sincronico.PNG
+INPUT ..\EJ7\Recursos\esquematico_sincronico.PNG
+INPUT ..\EJ7\Recursos\3d_top_sincronico.PNG
+INPUT ..\EJ7\Recursos\3d_top_sincronico.PNG
+INPUT ..\EJ7\Recursos\3d_top_sincronico.PNG
+INPUT ..\EJ7\Recursos\3d_top_sincronico.PNG
+INPUT ..\EJ7\Recursos\3d_top_sincronico.PNG
+INPUT ..\EJ7\Recursos\3d_bottom_sincronico.PNG
+INPUT ..\EJ7\Recursos\3d_bottom_sincronico.PNG
+INPUT ..\EJ7\Recursos\3d_bottom_sincronico.PNG
+INPUT ..\EJ7\Recursos\3d_bottom_sincronico.PNG
+INPUT ..\EJ7\Recursos\3d_bottom_sincronico.PNG
+INPUT ..\EJ7\Recursos\esquematico_visualizacion.PNG
+INPUT ..\EJ7\Recursos\esquematico_visualizacion.PNG
+INPUT ..\EJ7\Recursos\esquematico_visualizacion.PNG
+INPUT ..\EJ7\Recursos\esquematico_visualizacion.PNG
+INPUT ..\EJ7\Recursos\esquematico_visualizacion.PNG
+INPUT ..\EJ7\Recursos\3d_top_visualizacion.PNG
+INPUT ..\EJ7\Recursos\3d_top_visualizacion.PNG
+INPUT ..\EJ7\Recursos\3d_top_visualizacion.PNG
+INPUT ..\EJ7\Recursos\3d_top_visualizacion.PNG
+INPUT ..\EJ7\Recursos\3d_top_visualizacion.PNG
+INPUT ..\EJ7\Recursos\3d_bottom_visualizacion.PNG
+INPUT ..\EJ7\Recursos\3d_bottom_visualizacion.PNG
+INPUT ..\EJ7\Recursos\3d_bottom_visualizacion.PNG
+INPUT ..\EJ7\Recursos\3d_bottom_visualizacion.PNG
+INPUT ..\EJ7\Recursos\3d_bottom_visualizacion.PNG
+INPUT ..\EJ7\Recursos\practica_0.jpeg
+INPUT ..\EJ7\Recursos\practica_0.jpeg
+INPUT ..\EJ7\Recursos\practica_0.jpeg
+INPUT ..\EJ7\Recursos\practica_0.jpeg
+INPUT ..\EJ7\Recursos\practica_0.jpeg
+INPUT ..\EJ7\Recursos\practica_1.jpeg
+INPUT ..\EJ7\Recursos\practica_1.jpeg
+INPUT ..\EJ7\Recursos\practica_1.jpeg
+INPUT ..\EJ7\Recursos\practica_1.jpeg
+INPUT ..\EJ7\Recursos\practica_1.jpeg
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Asincronico\cropped_contador.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Asincronico\cropped_contador.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Asincronico\cropped_contador.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Asincronico\cropped_contador.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Asincronico\cropped_contador.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Asincronico\cropped_salida_q0.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Asincronico\cropped_salida_q0.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Asincronico\cropped_salida_q0.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Asincronico\cropped_salida_q0.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Asincronico\cropped_salida_q0.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Asincronico\cropped_salida_q1.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Asincronico\cropped_salida_q1.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Asincronico\cropped_salida_q1.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Asincronico\cropped_salida_q1.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Asincronico\cropped_salida_q1.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Asincronico\cropped_salida_q2.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Asincronico\cropped_salida_q2.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Asincronico\cropped_salida_q2.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Asincronico\cropped_salida_q2.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Asincronico\cropped_salida_q2.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Sincronico\cropped_contador.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Sincronico\cropped_contador.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Sincronico\cropped_contador.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Sincronico\cropped_contador.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Sincronico\cropped_contador.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Sincronico\cropped_salida_q0.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Sincronico\cropped_salida_q0.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Sincronico\cropped_salida_q0.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Sincronico\cropped_salida_q0.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Sincronico\cropped_salida_q0.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Sincronico\cropped_salida_q1.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Sincronico\cropped_salida_q1.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Sincronico\cropped_salida_q1.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Sincronico\cropped_salida_q1.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Sincronico\cropped_salida_q1.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Sincronico\cropped_salida_q2.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Sincronico\cropped_salida_q2.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Sincronico\cropped_salida_q2.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Sincronico\cropped_salida_q2.png
+INPUT ..\EJ7\Mediciones\Osciloscopio\Segundo_Intento\Sincronico\cropped_salida_q2.png
 INPUT ej8.tex
 INPUT ej8.tex
 INPUT ..\EJ8\Recursos\flowDiagram.png
@@ -821,3 +970,7 @@ INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfo
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmsy7.pfb
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti10.pfb
 INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmti10.pfb
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\latxfont\lasy10.pfb
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\latxfont\lasy10.pfb
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\latxfont\lasy8.pfb
+INPUT C:\Users\Carlos\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\latxfont\lasy8.pfb
